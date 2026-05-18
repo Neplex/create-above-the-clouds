@@ -1,0 +1,50 @@
+{
+  "feature": "kubejs:sky_lake",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 4
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:solid",
+            "offset": [0, -4, 0]
+          },
+          {
+            "type": "minecraft:solid",
+            "offset": [4, -1, 0]
+          },
+          {
+            "type": "minecraft:solid",
+            "offset": [4, -1, 0]
+          },
+          {
+            "type": "minecraft:solid",
+            "offset": [0, -1, 4]
+          },
+          {
+            "type": "minecraft:solid",
+            "offset": [0, -1, -4]
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

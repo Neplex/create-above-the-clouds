@@ -1,0 +1,13 @@
+name = "Create: Nomad"
+filename = "create_nomad-0.1.3b-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1bmcA0B/versions/TGOb7Hh4/create_nomad-0.1.3b-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0a7be103e18a73645ac3b295e61bbdae87f130a86fc63255f84ebfdf47571a5b60227ad59510ac90c71180ca2fefbae00c4234f2273b4b6f5483cc8717009668"
+
+[update]
+[update.modrinth]
+mod-id = "G1bmcA0B"
+version = "TGOb7Hh4"

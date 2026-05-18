@@ -1,0 +1,13 @@
+name = "JourneyMap Teams"
+filename = "JourneyMap-Teams-neoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EV5wjtvP/versions/TAPzFI5i/JourneyMap-Teams-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "87a90a8173fd5146b62352cb9d14ecf86b2f08362f905883e63176a9ccfd94ff25ebc007febb57a16c50e0564842faddab812939e6af6924770a240fdac5dc88"
+
+[update]
+[update.modrinth]
+mod-id = "EV5wjtvP"
+version = "TAPzFI5i"
