@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/bug_report.md"
-hash = "0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/feature_request.md"
-hash = "1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2"
-
-[[files]]
-file = ".github/workflows/release.yml"
-hash = "098dff6fa31a8c67a9fa2dc7dbb737bcffd5bc2173f3db5720743d0c77491ddc"
-
-[[files]]
 file = "config/defaultworldtype/client-config.toml"
 hash = "21e69adde133d1e75c5ee7a2ef17eac4adcff26f7ce1b6b7f51077a84a1e7b36"
 
