@@ -1,8 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/bug_report.md"
+hash = "0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/feature_request.md"
+hash = "1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2"
+
+[[files]]
 file = ".github/workflows/release.yml"
 hash = "098dff6fa31a8c67a9fa2dc7dbb737bcffd5bc2173f3db5720743d0c77491ddc"
+
+[[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "21e69adde133d1e75c5ee7a2ef17eac4adcff26f7ce1b6b7f51077a84a1e7b36"
+
+[[files]]
+file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes.json"
+hash = "95cfd242bebcf35ddc09bdcfddc09e6858b0fe1b4e0a6054a931df811ce65024"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake.json"
+hash = "b154e6eb79165693b6e458b286bf684ba1df8b26b80c468b02e25efb038b1f2e"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
+hash = "37752c399e8279b1714934cb72934f6493ce623f9a9837cccd6b4a5438cae350"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
+hash = "adba57455e6874abb1b51677ff0af49f27a34aae76b37285d35c2d5a2e473d53"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_upper.json"
+hash = "adba57455e6874abb1b51677ff0af49f27a34aae76b37285d35c2d5a2e473d53"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diorite_lower.json"
+hash = "d9fb77ec196276328d47d7c89ee9699259d7ee72015f50ea41b34d2cf3272a6c"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diorite_upper.json"
+hash = "d9fb77ec196276328d47d7c89ee9699259d7ee72015f50ea41b34d2cf3272a6c"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_lower.json"
+hash = "52233502a34d7409548905241f0f766692eb20cb147bbfa9a6b7481cfc6edc47"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
+hash = "52233502a34d7409548905241f0f766692eb20cb147bbfa9a6b7481cfc6edc47"
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
@@ -245,26 +293,6 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "100d56915243e9a577ec572cc118628e3bef2f1e7be015585335d307dbb5dc19"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
-metafile = true
-
-[[files]]
-file = "mods/ftbchunksaerospace.pw.toml"
-hash = "2001df493febbb65b823cc435da6707d2883592024283a546a3b3642109a7dd4"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
@@ -302,16 +330,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "f161cd39e3619182a8606ec812634d74713d32ca30c3585bdf7d40b7bb573919"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-teams.pw.toml"
-hash = "f069a53558905014ec5af8240c01d6c9e084c4e528facb67e4e31cfa0d17f276"
 metafile = true
 
 [[files]]
