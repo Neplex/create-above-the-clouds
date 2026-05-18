@@ -1,0 +1,36 @@
+name: Publish Modpack Release
+
+on:
+  release:
+    types:
+      - published
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      
+      - name: Export Modrinth Pack
+        run: |
+          packwiz modrinth export --output pack.mrpack
+
+      - name: Publication
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          modrinth-id: ${{ vars.MODRINTH_ID }}
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          files: pack.mrpack
+          loaders: neoforge
