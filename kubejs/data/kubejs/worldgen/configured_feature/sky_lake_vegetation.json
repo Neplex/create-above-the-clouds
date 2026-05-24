@@ -23,7 +23,12 @@
                 "type": "minecraft:kelp",
                 "config": {}
               },
-              "placement": []
+              "placement": [
+                {
+                  "type": "minecraft:rarity_filter",
+                  "chance": 3
+                }
+              ]
             }
           ]
         }

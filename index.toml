@@ -22,7 +22,7 @@ hash = "28a5560111647c2e72dbbcf287e1636b759f4813ee3a64e37ef136979bc51092"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_vegetation.json"
-hash = "a72c0d3caa38b50729f0fd662832e9f71ca5e2d80da710004ed40147544b634e"
+hash = "f37adc455b23703ca442dde2c32546015b87a31a074e87b224d3eafed591529f"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
@@ -42,7 +42,7 @@ hash = "42269dbf105f0003c993d2459015978cdc6d0800b27684a4f52603d7e5cc9187"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_underground.json"
-hash = "884705f2e131a96731a3fd160b596358dbdc3b5ee9cbfc56720aa303c4a1b495"
+hash = "920ca8b4d3ccb1dae4513caefdb760ab3077efb53345e5bb0b76cf1a291a7926"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
