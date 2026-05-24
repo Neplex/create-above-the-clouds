@@ -1,0 +1,32 @@
+{
+  "feature": "minecraft:lake_lava",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:surface_relative_threshold_filter",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          { "type": "minecraft:solid", "offset": [0, -4, 0] },
+          { "type": "minecraft:solid", "offset": [4, -1, 0] },
+          { "type": "minecraft:solid", "offset": [-4, -1, 0] },
+          { "type": "minecraft:solid", "offset": [0, -1, 4] },
+          { "type": "minecraft:solid", "offset": [0, -1, -4] }
+        ]
+      }
+    }
+  ]
+}

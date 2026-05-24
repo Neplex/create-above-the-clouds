@@ -17,6 +17,14 @@ file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
 hash = "37752c399e8279b1714934cb72934f6493ce623f9a9837cccd6b4a5438cae350"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_surface.json"
+hash = "42269dbf105f0003c993d2459015978cdc6d0800b27684a4f52603d7e5cc9187"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_underground.json"
+hash = "884705f2e131a96731a3fd160b596358dbdc3b5ee9cbfc56720aa303c4a1b495"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
 hash = "adba57455e6874abb1b51677ff0af49f27a34aae76b37285d35c2d5a2e473d53"
 
@@ -71,18 +79,13 @@ hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
-metafile = true
-
-[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
 metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "3bd93a96d168035a570a97dddc1db9f7fc9f73b992d1e3d7227bc2080d1c6f68"
+hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
@@ -201,11 +204,6 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "mods/createoplenty.pw.toml"
-hash = "f4b24e22e6168f8df906d222d8de0a31bec0263a3f5425344ee0736681655842"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -258,11 +256,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
-metafile = true
-
-[[files]]
-file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
-hash = "e8a8b5217e3cac90c7e42a9698c9d3da408a5de99d590eab025653fa7d8b8911"
 metafile = true
 
 [[files]]
@@ -363,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "0d15dc9a93f6ce2b7d3bfd3ac04cc6d624f9e6d486fdd074486145a7a44d565b"
 metafile = true
 
 [[files]]
@@ -487,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/sky-archipelago.pw.toml"
-hash = "68a8b1e3a01f8cb87186853a9c866a2ec97d06a4b2705a33b893966f8cdf3159"
+hash = "e4b0cc5f38d6e868f02b2736b96b464a9e4c66f6616020b4a322693a3d707878"
 metafile = true
 
 [[files]]
@@ -536,11 +524,6 @@ hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
 metafile = true
@@ -558,6 +541,16 @@ metafile = true
 [[files]]
 file = "mods/void-water.pw.toml"
 hash = "ca0b605b650a6c7fc1dcdb5ec28b4351c34de63f07ca0f83fba047d682e58183"
+metafile = true
+
+[[files]]
+file = "mods/worldgenfeaturefix.pw.toml"
+hash = "a5b9f24465e56de45b23cbf2036ad0c47d27abb3485a45e18193bdace79a85f0"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
 
 [[files]]
