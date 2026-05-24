@@ -26,7 +26,7 @@ hash = "f37adc455b23703ca442dde2c32546015b87a31a074e87b224d3eafed591529f"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
-hash = "9389604143194475e873a920982b0d0358ade7714aee2670de8455c556977fa0"
+hash = "78366cbddf9594d59c7862604bd8ed108a246fc48981e60be588c0224eaa68f0"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake_vegetation.json"
@@ -37,12 +37,16 @@ file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"
 hash = "2942b522588a19d48758242be275ffacc121dc7b771b818b9a25f7d299610331"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "6205ef471b72b0a99e4ad836ae90f2dbd61e8eddb6fd915a314a418d09ca1230"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_surface.json"
 hash = "42269dbf105f0003c993d2459015978cdc6d0800b27684a4f52603d7e5cc9187"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_underground.json"
-hash = "920ca8b4d3ccb1dae4513caefdb760ab3077efb53345e5bb0b76cf1a291a7926"
+hash = "f4a48778abd72144048aad0c76a26c5849143d3a94e64b686066557757cc7536"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
@@ -67,6 +71,14 @@ hash = "52233502a34d7409548905241f0f766692eb20cb147bbfa9a6b7481cfc6edc47"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
 hash = "52233502a34d7409548905241f0f766692eb20cb147bbfa9a6b7481cfc6edc47"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/spring_lava.json"
+hash = "4c4548a48395a0da459060982c722ef5a732e66ad245125904d117f6abc5572d"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/spring_water.json"
+hash = "90858de414d93fb700b25344dbd2f646c38984890db08c5b20849cae92b27bba"
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
