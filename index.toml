@@ -17,6 +17,10 @@ file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
 hash = "37752c399e8279b1714934cb72934f6493ce623f9a9837cccd6b4a5438cae350"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"
+hash = "2942b522588a19d48758242be275ffacc121dc7b771b818b9a25f7d299610331"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_surface.json"
 hash = "42269dbf105f0003c993d2459015978cdc6d0800b27684a4f52603d7e5cc9187"
 
