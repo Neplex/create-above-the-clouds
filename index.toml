@@ -13,12 +13,24 @@ file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes.json"
 hash = "95cfd242bebcf35ddc09bdcfddc09e6858b0fe1b4e0a6054a931df811ce65024"
 
 [[files]]
-file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake.json"
-hash = "b154e6eb79165693b6e458b286bf684ba1df8b26b80c468b02e25efb038b1f2e"
+file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes_vegetation.json"
+hash = "9598be179cdf0469e88dd46c8e4e27b4a2daac0ebf341716f7e41583fff04f68"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_basin.json"
+hash = "28a5560111647c2e72dbbcf287e1636b759f4813ee3a64e37ef136979bc51092"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_vegetation.json"
+hash = "a72c0d3caa38b50729f0fd662832e9f71ca5e2d80da710004ed40147544b634e"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
-hash = "37752c399e8279b1714934cb72934f6493ce623f9a9837cccd6b4a5438cae350"
+hash = "9389604143194475e873a920982b0d0358ade7714aee2670de8455c556977fa0"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake_vegetation.json"
+hash = "788ee28f4797f5ff5ef8e849e4400e8cc28498d3576c4e6bba11fb268d4554ce"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"

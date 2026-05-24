@@ -1,9 +1,9 @@
 {
-  "feature": "kubejs:sky_lake",
+  "feature": "kubejs:sky_lake_basin",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
-      "chance": 4
+      "chance": 3
     },
     {
       "type": "minecraft:in_square"
@@ -13,35 +13,36 @@
       "heightmap": "WORLD_SURFACE_WG"
     },
     {
-      "type": "minecraft:biome"
-    },
-    {
       "type": "minecraft:block_predicate_filter",
       "predicate": {
         "type": "minecraft:all_of",
         "predicates": [
           {
             "type": "minecraft:solid",
-            "offset": [0, -4, 0]
+            "offset": [0, -5, 0]
           },
           {
             "type": "minecraft:solid",
-            "offset": [4, -1, 0]
+            "offset": [6, -1, 0]
           },
           {
             "type": "minecraft:solid",
-            "offset": [4, -1, 0]
+            "offset": [-6, -1, 0]
           },
           {
             "type": "minecraft:solid",
-            "offset": [0, -1, 4]
+            "offset": [0, -1, 6]
           },
           {
             "type": "minecraft:solid",
-            "offset": [0, -1, -4]
+            "offset": [0, -1, -6]
           }
         ]
       }
+    },
+    {
+      "type": "minecraft:count",
+      "count": 3
     },
     {
       "type": "minecraft:biome"
