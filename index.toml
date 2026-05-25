@@ -81,12 +81,16 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/spring_water.json"
 hash = "90858de414d93fb700b25344dbd2f646c38984890db08c5b20849cae92b27bba"
 
 [[files]]
+file = "kubejs/server_scripts/food.js"
+hash = "7b27baffe9852c84408b3717d257019af1b0472af1ea80c8131bddb4d5a88e6e"
+
+[[files]]
 file = "kubejs/server_scripts/metal.js"
 hash = "8186c81a4eb30cc1f829a39e966e136a7405508cda2569b23d6465764ba5d95c"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
-hash = "503447a6f3d65bd9019e95eb6f5127bb141c71229f6a5e314c79ec63c5834ba4"
+hash = "1db132b07dba5386bd661f353c32e362d96a72fa93c5f28e66aa2ef527ab6ca5"
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"

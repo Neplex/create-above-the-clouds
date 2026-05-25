@@ -7,3 +7,7 @@ StartupEvents.modifyCreativeTab('cgs:mod_items', event => {
 StartupEvents.modifyCreativeTab('powergrid:main', event => {
     event.remove('powergrid:zinc_sheet')
 })
+
+StartupEvents.modifyCreativeTab('farmersdelight:farmersdelight', event => {
+    event.remove('farmersdelight:wheat_dough')
+})
