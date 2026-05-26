@@ -50,27 +50,27 @@ hash = "f4a48778abd72144048aad0c76a26c5849143d3a94e64b686066557757cc7536"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
-hash = "adba57455e6874abb1b51677ff0af49f27a34aae76b37285d35c2d5a2e473d53"
+hash = "166c21301ab75467f7f75c677ecdda9743436c4843f5aa2eaa835abd224c6ee2"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_upper.json"
-hash = "adba57455e6874abb1b51677ff0af49f27a34aae76b37285d35c2d5a2e473d53"
+hash = "5040fc138f02cb9810432df9ee75ccde0c44be6cc410fa19a564938869d01cf1"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diorite_lower.json"
-hash = "d9fb77ec196276328d47d7c89ee9699259d7ee72015f50ea41b34d2cf3272a6c"
+hash = "5b2c99ee6e5cc49e9ab49dd28ed0341262c69bf1cc6c0e0854bae3d0e61f4069"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diorite_upper.json"
-hash = "d9fb77ec196276328d47d7c89ee9699259d7ee72015f50ea41b34d2cf3272a6c"
+hash = "43683de40ea7796e616539e1fefe1af148b913d3b904d04609b3f5b7a41593ca"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_lower.json"
-hash = "52233502a34d7409548905241f0f766692eb20cb147bbfa9a6b7481cfc6edc47"
+hash = "069a158ad39217294ef27f014cdc6fe88267a64ff16f21541a5055b10cead8d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
-hash = "52233502a34d7409548905241f0f766692eb20cb147bbfa9a6b7481cfc6edc47"
+hash = "97bf98ba20d6ec279c21f556ea03a6f592494cbd1d1443f31420760df3373bda"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/spring_lava.json"
