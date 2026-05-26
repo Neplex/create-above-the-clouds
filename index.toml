@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/sky-archipelago.pw.toml"
-hash = "e4b0cc5f38d6e868f02b2736b96b464a9e4c66f6616020b4a322693a3d707878"
+hash = "77d79da6989c4d38dd8ef2028c623fb8f63b7a0d52e4527f7be67010590d5e1d"
 metafile = true
 
 [[files]]
