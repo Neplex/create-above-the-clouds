@@ -8,6 +8,8 @@ on:
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -22,7 +24,13 @@ jobs:
       
       - name: Export Modrinth Pack
         run: |
-          packwiz modrinth export --output pack.mrpack
+          packwiz modrinth export
+      
+      - name: Extract Minecraft Version
+        id: pack-meta
+        run: |
+          MC_VER=$(grep -E '^minecraft[[:space:]]*=' pack.toml | sed -E 's/.*=[[:space:]]*"([^"]+)".*/\1/')
+          echo "mc_version=$MC_VER" >> $GITHUB_OUTPUT
 
       - name: Publication
         uses: Kir-Antipov/mc-publish@v3.3
@@ -32,5 +40,6 @@ jobs:
           modrinth-id: ${{ vars.MODRINTH_ID }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
 
-          files: pack.mrpack
+          files: '*.mrpack'
           loaders: neoforge
+          game-versions: ${{ steps.pack-meta.outputs.mc_version }}
