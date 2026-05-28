@@ -1,0 +1,29 @@
+{
+  "feature": "minecraft:ore_redstone",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 15
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "lithostitched:offset",
+      "x_offset": 0,
+      "z_offset": 0,
+      "y_offset": {
+        "type": "minecraft:uniform",
+        "max_inclusive": -70,
+        "min_inclusive": -384
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

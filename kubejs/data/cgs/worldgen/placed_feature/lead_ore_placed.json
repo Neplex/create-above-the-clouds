@@ -1,0 +1,29 @@
+{
+  "feature": "cgs:lead_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "lithostitched:offset",
+      "x_offset": 0,
+      "z_offset": 0,
+      "y_offset": {
+        "type": "minecraft:uniform",
+        "max_inclusive": -25,
+        "min_inclusive": -70
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

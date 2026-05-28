@@ -9,6 +9,18 @@ file = "config/defaultworldtype/client-config.toml"
 hash = "21e69adde133d1e75c5ee7a2ef17eac4adcff26f7ce1b6b7f51077a84a1e7b36"
 
 [[files]]
+file = "kubejs/data/cgs/worldgen/placed_feature/lead_ore_placed.json"
+hash = "cd3986390015e930b2c5e1cf8e8c5ed22e2cac934888a619f6a442e337fcda8d"
+
+[[files]]
+file = "kubejs/data/create/worldgen/placed_feature/striated_ores_overworld.json"
+hash = "93914f3ddccac026cb047da4a1a62e06141f73877a81fe4033c653ac1f06b68f"
+
+[[files]]
+file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
+hash = "eea06d1ed9f45ec1bfb9fd4b944a0a225616518a5860d6fd516dc5125f0ba37e"
+
+[[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes.json"
 hash = "95cfd242bebcf35ddc09bdcfddc09e6858b0fe1b4e0a6054a931df811ce65024"
 
@@ -57,6 +69,38 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_andesite_upper.json"
 hash = "5040fc138f02cb9810432df9ee75ccde0c44be6cc410fa19a564938869d01cf1"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
+hash = "348d1df7361e0b563be4aaffc2e96f817dca1c487a26a9f2cce7fd694e08374a"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
+hash = "7f7806d9176911cf1c6b17890bae600394ed7ab558ef3962800b844709048589"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper.json"
+hash = "98b618f28511ed0729bf873f66d3f25c61195395a55187de3c7a6a5aa4d372c2"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
+hash = "5369096f898a20cdc43177331568173b414efdca03859e3661bc978c8e8bb7ea"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond.json"
+hash = "f9eb59e4ca3c83209220b64e7962f5e70b1365814d699e6f6efbb926922f3a0c"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
+hash = "4b7921be4607c1cfae06ff26f467a90e64e7f4bd52fb9c6b44fd397f28b77fc2"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
+hash = "c6df8c9c65da73fef26f1cfad66533b51b6ea00f895a95c9d5fe0ad22b283292"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
+hash = "e73aaa0ca12aa23e57cbe2b481ea996f02c35f139c4d239c708ecd706f94d895"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diorite_lower.json"
 hash = "5b2c99ee6e5cc49e9ab49dd28ed0341262c69bf1cc6c0e0854bae3d0e61f4069"
 
@@ -65,12 +109,56 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/ore_diorite_upper.json"
 hash = "43683de40ea7796e616539e1fefe1af148b913d3b904d04609b3f5b7a41593ca"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_emerald.json"
+hash = "a5bdc2c18c8bf844bde91d38b7d8700077d5288bb4798c8444ba3e30411abee7"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold.json"
+hash = "489a9815c0c52fe4e28e69d345bc9eab274a9e30ba5a73bcbd3f9ed10bc53cdd"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
+hash = "b15ab4df9e9f9b24eb02dc654cf30dfca8469cb86da87e8191f3d0359cb3f144"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
+hash = "b28368dc2f8a017ae91c859c53402dae647675135c855f11d35d3d84153e6b8f"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_lower.json"
 hash = "069a158ad39217294ef27f014cdc6fe88267a64ff16f21541a5055b10cead8d9"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
 hash = "97bf98ba20d6ec279c21f556ea03a6f592494cbd1d1443f31420760df3373bda"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
+hash = "eb333f8193d1d8dc305d46f10c81087fc585ce5dce6ab711c41b3f293b936440"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
+hash = "c6bed52c2bc86df2bd33e73630c6bc116c389475c32057f2e2bb5039d62080c0"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
+hash = "01fe96e7fbd52e0a54d18c4fb0e1b74853ec97e0020703f53df7049f129f1b28"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis.json"
+hash = "55c162866e6a359c42f957f7ead8113d0265f77f9d45bd4a6f387c9905a7cb48"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
+hash = "b6e2361478f5cfc150c55c1533dccce2d6f95cca5614d348f9b81b19f4c8c057"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone.json"
+hash = "3d649214497d56040bed295c7a9ff097065ac4130a1590b716178a0f8fb841e7"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
+hash = "2ae2f1884b4d39046170c7a777ee0bd62891e6cf12b47707d0cdb7a15022591d"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/spring_lava.json"
@@ -400,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "03db1002af8f411a1b594817232859247e352f16f1c7907d29893b3472dce440"
 metafile = true
 
 [[files]]

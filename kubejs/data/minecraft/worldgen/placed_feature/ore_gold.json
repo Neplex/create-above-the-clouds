@@ -1,0 +1,29 @@
+{
+  "feature": "minecraft:ore_gold_buried",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 3
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "lithostitched:offset",
+      "x_offset": 0,
+      "z_offset": 0,
+      "y_offset": {
+        "type": "minecraft:uniform",
+        "max_inclusive": -30,
+        "min_inclusive": -65
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
