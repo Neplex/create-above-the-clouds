@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+hash = "c65748ba4e13309eeba1dae2dfb348ad9b6348a093dc02a901e3e5a2a6110b0d"
 metafile = true
 
 [[files]]
@@ -203,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "cc360d86f76e729d3ebb7384cfbc933d8ffba694ba91360edeb846d61d14e561"
 metafile = true
 
 [[files]]
@@ -437,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
+hash = "a90b481b3ce142ec1c515e7f7f1a5ca3a2b9445a0e38222428ff86e8751d02d9"
 metafile = true
 
 [[files]]
@@ -497,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
 
 [[files]]
@@ -577,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
-hash = "cde6bc8e26d6e99bdc7f76c6f56c67cecd6a804da0d1ea3e56d1dc72ed64af52"
+hash = "29fdbd5c9fc8183982036b090e52da87153451cdf24682e72b2eb99b67a59158"
 metafile = true
 
 [[files]]
@@ -587,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
-hash = "54a090b46698cc6330f65739b82983508850c15596bac67da651176b6aa9feae"
+hash = "db5ecf915997147c3811e1118f0b31535c92e96fd92b84b4bae574f17089c142"
 metafile = true
 
 [[files]]
@@ -597,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/sablecompat.pw.toml"
-hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
@@ -682,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldgenfeaturefix.pw.toml"
-hash = "a5b9f24465e56de45b23cbf2036ad0c47d27abb3485a45e18193bdace79a85f0"
+hash = "ae20a99243ee4fdf165521727d0798732610755795133b111dcb0cd26c631536"
 metafile = true
 
 [[files]]
@@ -702,5 +707,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "9fbeeef3acb3bf75bcd61e7847f2de5281d4f0c9a63fe7bb659185dfd75dffd1"
+hash = "ad377baa23e3a10528c317988c3ccf43a552936daeca50892c4a96470dc875dd"
 metafile = true

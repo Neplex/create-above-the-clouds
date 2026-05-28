@@ -1,6 +1,6 @@
 name = "WorldgenFeatureFix"
 filename = "worldgenfeaturefix-neoforge-1.21-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/w2O2In9c/versions/DEPzHzvr/worldgenfeaturefix-neoforge-1.21-1.0.1.jar"

@@ -1,6 +1,6 @@
 name = "Sable: Weighted - Create: Deco"
 filename = "sable-weighted_createdeco-1.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kHIRKdOE/versions/VvftnDNF/sable-weighted_createdeco-1.0.2.jar"
