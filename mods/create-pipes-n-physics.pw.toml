@@ -1,13 +1,13 @@
 name = "Create: Pipes'n physics"
-filename = "pipesnphysics-1.0.1.jar"
+filename = "pipesnphysics-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CuAT8bVS/versions/T0RPDIoW/pipesnphysics-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/CuAT8bVS/versions/BaqhHNhU/pipesnphysics-1.0.4.jar"
 hash-format = "sha512"
-hash = "0bacdc5e716dc44caf4219e0eaf453f62dca1f2c138f64028837a7fa8839382a54db61e72bde1b40bcaed86d7ca6e814c1b80a9003189d252f86c0dc54763bfc"
+hash = "f8d3e1430bc422b3b3e358716caf66f87d216a605e6fc6b0dd4f5ae494d6128507a474a6a0124daf4fad77b38b51e94a4b7c95f3c2c258831530e175c5a7d9e9"
 
 [update]
 [update.modrinth]
 mod-id = "CuAT8bVS"
-version = "T0RPDIoW"
+version = "BaqhHNhU"
