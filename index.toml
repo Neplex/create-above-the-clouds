@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "6be3cb5dca70962923b8548c3b04b6d97f6ef4f335223a52098b0cec66d60fe3"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "abdc6b4c68cb7920aef221d25c08a8f538678ba8f228a586319791a9ff429a4c"
+
+[[files]]
 file = "config/defaultworldtype/client-config.toml"
 hash = "21e69adde133d1e75c5ee7a2ef17eac4adcff26f7ce1b6b7f51077a84a1e7b36"
 
