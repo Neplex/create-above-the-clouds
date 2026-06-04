@@ -445,6 +445,11 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/gnetum.pw.toml"
+hash = "856adb81d7ac48df21f05070c1dab176fbaf695b95ab6a0772bfec47ae4472f6"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-and-sable-compatibility-patch.pw.toml"
 hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
 metafile = true
