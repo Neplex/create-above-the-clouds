@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "8a801f6101907154065cb49742b1fbbb95f781a07b8abeb40323bd58c747f201"
+hash = "df97adaaeccd9dfcc1723e42799b72bcb760fc94077e00fe8150571d238464f2"
 metafile = true
 
 [[files]]
