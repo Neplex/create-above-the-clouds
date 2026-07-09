@@ -1,13 +1,13 @@
 name = "Ping to Map"
-filename = "ping2map-1.0.3-neoforge-1.21.1.jar"
+filename = "ping2map-1.1.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NufpsG8i/versions/JzBmlNSr/ping2map-1.0.3-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/NufpsG8i/versions/UdnKRv8y/ping2map-1.1.0-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "c3b8ee5e635c5b1fc4ca329a57e17e2353e81d0a0e4646c4b907ecc802a86759f09bd23ef93f0f6d31793e49d6537d48d56f19379938a4ad4760dc63e2f22a77"
+hash = "9ba18f5b5cb0d30490b415ff72f488140826086ddadd27c7ffa437a384c337e5b2bbcb010dad6f1bc272fde2040a7927b3ce08b57c943193870d78eefcd453ec"
 
 [update]
 [update.modrinth]
 mod-id = "NufpsG8i"
-version = "JzBmlNSr"
+version = "UdnKRv8y"
