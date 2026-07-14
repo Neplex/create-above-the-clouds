@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:interpolated",
+    "argument": {
+      "type": "minecraft:add",
+      "argument1": {
+        "type": "minecraft:range_choice",
+        "input": {
+          "type": "minecraft:add",
+          "argument1": {
+        "type": "minecraft:range_choice",
+        "input": {
+          "type": "minecraft:shifted_noise",
+          "noise": "minecraft:temperature",
+          "shift_x": "minecraft:shift_x",
+          "shift_y": 0,
+          "shift_z": "minecraft:shift_z",
+          "xz_scale": 1,
+          "y_scale": 0
+        },
+        "min_inclusive": 0.9,
+        "max_exclusive": 2,
+        "when_in_range": 0.2,
+        "when_out_of_range": 0
+      },
+          "argument2": {
+            "type": "minecraft:add",
+            "argument1": "minecraft:overworld/continents",
+            "argument2": {
+              "type": "minecraft:mul",
+              "argument1": 0.7,
+              "argument2": "minecraft:overworld/erosion"
+            }
+          }
+        },
+        "min_inclusive": -0.2,
+        "max_exclusive": 2,
+        "when_in_range": 0.4,
+        "when_out_of_range": 0
+      },
+      "argument2": {
+        "type": "minecraft:range_choice",
+        "input": {
+          "type": "minecraft:add",
+          "argument1": {
+            "type": "minecraft:mul",
+            "argument1": -0.9,
+            "argument2": {
+              "type": "minecraft:shifted_noise",
+              "noise": "minecraft:temperature",
+              "shift_x": "minecraft:shift_x",
+              "shift_y": 0,
+              "shift_z": "minecraft:shift_z",
+              "xz_scale": 1,
+              "y_scale": 0
+            }
+          },
+          "argument2": {
+            "type": "minecraft:add",
+            "argument1": "minecraft:overworld/depth",
+            "argument2": {
+              "type": "minecraft:mul",
+              "argument1": 0.7,
+              "argument2": "minecraft:overworld/erosion"
+            }
+          }
+        },
+        "min_inclusive": 0.6,
+        "max_exclusive": 2,
+        "when_in_range": 0.4,
+        "when_out_of_range": 0
+      }
+    }
+  }
+}

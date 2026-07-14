@@ -10,7 +10,7 @@ hash = "a39fc7c992f0299fdb210c599e2496d4c979467096208a65d50347581f81bdcb"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
-hash = "21e69adde133d1e75c5ee7a2ef17eac4adcff26f7ce1b6b7f51077a84a1e7b36"
+hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
 [[files]]
 file = "kubejs/data/cgs/worldgen/placed_feature/lead_ore_placed.json"
@@ -25,12 +25,40 @@ file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "eea06d1ed9f45ec1bfb9fd4b944a0a225616518a5860d6fd516dc5125f0ba37e"
 
 [[files]]
+file = "kubejs/data/kubejs/dimension_type/scorched_surface.json"
+hash = "fa1e82faba88cae18da0933ffa016ae364076484ab72e08615b15acf9191f10a"
+
+[[files]]
+file = "kubejs/data/kubejs/dimension_type/sky_islands.json"
+hash = "2568ff8f7bd9518f1af021e7b3e8ba116bfbc1d00efd3ee5d0a359c6742ddde0"
+
+[[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes.json"
 hash = "95cfd242bebcf35ddc09bdcfddc09e6858b0fe1b4e0a6054a931df811ce65024"
 
 [[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes_vegetation.json"
 hash = "9598be179cdf0469e88dd46c8e4e27b4a2daac0ebf341716f7e41583fff04f68"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/ash_wastes.json"
+hash = "3e9506ffc2a7017a0a16a431d96ee8b7f4be8a7e99048aafea6d1327bed8122b"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/basalt_highlands.json"
+hash = "c773b0f585386264245ea6726adf14c090311cccfebc61df1c87f1cbe5143138"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/obsidian_barrens.json"
+hash = "ff3cbfbcd01caa769801820f0a65be5939b43be0f9bdcbde881d9ce582b0309b"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/soul_ash_fields.json"
+hash = "ffdefbf6552a14f5559d880a142aa174564f99c9c34e0c7d0cdf3dd4615ce19d"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
+hash = "3c22ba803acbf761659b2235c7e8b71fa631af8c5c69b8067472588a58f48b6e"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_basin.json"
@@ -41,6 +69,26 @@ file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_vegetation.json"
 hash = "f37adc455b23703ca442dde2c32546015b87a31a074e87b224d3eafed591529f"
 
 [[files]]
+file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/surface.json"
+hash = "43c3b1fec50f54fa09d8fdcf7276c8f44023f2d17c1b13d0268516fe8a775af1"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/tectonics.json"
+hash = "9ad552c364274f9c014c0894f33e6e9442eb47baea572741f88d95281da2c97a"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/volcanic.json"
+hash = "fa1d618afb2acec3e71b40bb12fb5144d0a489f76bd520e788765a3bf139d02d"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/noise_settings/scorched_surface.json"
+hash = "751f77818bc69efa41c8368618431a7da518f375cde8233e4b384910bef42476"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/noise_settings/sky_islands.json"
+hash = "4e0c5319c33f70ec3b688df3eafb815eab4477d84f202453f495f37af9ceb90a"
+
+[[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
 hash = "78366cbddf9594d59c7862604bd8ed108a246fc48981e60be588c0224eaa68f0"
 
@@ -49,12 +97,12 @@ file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake_vegetation.json"
 hash = "788ee28f4797f5ff5ef8e849e4400e8cc28498d3576c4e6bba11fb268d4554ce"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"
-hash = "2942b522588a19d48758242be275ffacc121dc7b771b818b9a25f7d299610331"
+file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
+hash = "3ab4df49f7f9e6d5073cbedd808050d440c32b08abf4bf810810b9a7f01c374c"
 
 [[files]]
-file = "kubejs/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "6205ef471b72b0a99e4ad836ae90f2dbd61e8eddb6fd915a314a418d09ca1230"
+file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"
+hash = "2942b522588a19d48758242be275ffacc121dc7b771b818b9a25f7d299610331"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/lake_lava_surface.json"
@@ -171,6 +219,10 @@ hash = "4c4548a48395a0da459060982c722ef5a732e66ad245125904d117f6abc5572d"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/spring_water.json"
 hash = "90858de414d93fb700b25344dbd2f646c38984890db08c5b20849cae92b27bba"
+
+[[files]]
+file = "kubejs/pack.mcmeta"
+hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
 [[files]]
 file = "kubejs/server_scripts/food.js"
@@ -372,11 +424,6 @@ metafile = true
 [[files]]
 file = "mods/defaultworldtype.pw.toml"
 hash = "6886c6cc7d4d43e2b9792af5c91fe381be0b33b1aea5f0decc465a5c17bc7004"
-metafile = true
-
-[[files]]
-file = "mods/diabolical-islands.pw.toml"
-hash = "9d23324e2393a10731877bac0aae750db2ad8c422fb7443945bd6736f5102e48"
 metafile = true
 
 [[files]]
