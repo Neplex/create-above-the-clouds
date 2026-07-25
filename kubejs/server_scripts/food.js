@@ -12,7 +12,7 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(event => {
-    // Remove ddduplicated recipes
+    // Remove duplicated recipes
     event.remove({id: 'farmersdelight:wheat_dough_from_water'})
     event.remove({type: 'minecraft:smelting', input: 'farmersdelight:wheat_dough'})
     event.remove({type: 'minecraft:smoking', input: 'farmersdelight:wheat_dough'})

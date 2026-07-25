@@ -225,12 +225,20 @@ file = "kubejs/pack.mcmeta"
 hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
 [[files]]
+file = "kubejs/server_scripts/create.js"
+hash = "53876a05ceec30a9a5cfc058f058c7e878d70ff4ef38c5982284db4b15fe1820"
+
+[[files]]
 file = "kubejs/server_scripts/food.js"
-hash = "7b27baffe9852c84408b3717d257019af1b0472af1ea80c8131bddb4d5a88e6e"
+hash = "2176d38ec22ed118b9b909d3bfdfcb030a6b98a373f6834319f87197af5ae4fc"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
 hash = "8186c81a4eb30cc1f829a39e966e136a7405508cda2569b23d6465764ba5d95c"
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries.js"
+hash = "a9ce7d82e701cd4e8a1898a23b0b64191b60dcc0bdfb8e6ff004e8c87ec3dc86"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
