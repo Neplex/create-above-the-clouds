@@ -282,6 +282,11 @@ hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "44302c0b9c5e79066d77346140e933c9bda958326ffdf679df98987622b2d4e4"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
