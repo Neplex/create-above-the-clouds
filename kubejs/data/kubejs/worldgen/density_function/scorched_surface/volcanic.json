@@ -15,16 +15,14 @@
           "xz_scale": 1,
           "y_scale": 0
         },
-        "min_inclusive": 0.8,
+        "min_inclusive": 0.7,
         "max_exclusive": 2,
-        "when_in_range": 0.2,
+        "when_in_range": 0.1,
         "when_out_of_range": 0
       },
       "argument2": {
-        "type": "minecraft:square",
+        "type": "minecraft:cube",
         "argument": {
-          "type": "minecraft:square",
-          "argument": {
           "type": "minecraft:cube",
           "argument": {
             "type": "minecraft:add",
@@ -43,7 +41,6 @@
               "argument2": "minecraft:overworld/ridges"
             }
           }
-        }
         }
       }
     }

@@ -42,7 +42,7 @@ hash = "9598be179cdf0469e88dd46c8e4e27b4a2daac0ebf341716f7e41583fff04f68"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/ash_wastes.json"
-hash = "3e9506ffc2a7017a0a16a431d96ee8b7f4be8a7e99048aafea6d1327bed8122b"
+hash = "cf6772106e63535cd8ef12bc41b91ffed8a79283b6faf956526bb0ecbce945c8"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/basalt_highlands.json"
@@ -54,11 +54,15 @@ hash = "ff3cbfbcd01caa769801820f0a65be5939b43be0f9bdcbde881d9ce582b0309b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/soul_ash_fields.json"
-hash = "ffdefbf6552a14f5559d880a142aa174564f99c9c34e0c7d0cdf3dd4615ce19d"
+hash = "9b28d0943a8939c3fae2088c8dfac7147982adf5bebec05143d0cca4bb5345d8"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
 hash = "3c22ba803acbf761659b2235c7e8b71fa631af8c5c69b8067472588a58f48b6e"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
+hash = "6af0ec1a3e70fa373ffd7a6851849752f95bc3a130e0121b96d7ccb059649ea6"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_basin.json"
@@ -78,15 +82,19 @@ hash = "9ad552c364274f9c014c0894f33e6e9442eb47baea572741f88d95281da2c97a"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/volcanic.json"
-hash = "fa1d618afb2acec3e71b40bb12fb5144d0a489f76bd520e788765a3bf139d02d"
+hash = "5f743c78d093c566c73e67cbbc0e823da23573b19d92edc0f868305d1eab183e"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/scorched_surface.json"
-hash = "751f77818bc69efa41c8368618431a7da518f375cde8233e4b384910bef42476"
+hash = "88d5096db668f961c55a317f226bef3de66386eb971c477143b42f5c6a993506"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/sky_islands.json"
 hash = "4e0c5319c33f70ec3b688df3eafb815eab4477d84f202453f495f37af9ceb90a"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/ash_patch.json"
+hash = "4d8bd72beeba5aa7889a41d7f904e95232a4554a66982401715867a87576b04a"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"
@@ -98,7 +106,7 @@ hash = "788ee28f4797f5ff5ef8e849e4400e8cc28498d3576c4e6bba11fb268d4554ce"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
-hash = "3ab4df49f7f9e6d5073cbedd808050d440c32b08abf4bf810810b9a7f01c374c"
+hash = "8cb77df68c295c39c029479f98b2ea40c4ffff42fd8c45fa7cba4f40a81b339d"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"

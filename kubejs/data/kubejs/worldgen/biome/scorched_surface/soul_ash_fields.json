@@ -3,29 +3,33 @@
   "downfall": 0,
   "has_precipitation": false,
   "effects": {
-    "fog_color": 790393,
-    "sky_color": 790393,
-    "water_color": 4159204,
-    "water_fog_color": 329011,
+    "additions_sound": {
+      "sound": "minecraft:ambient.soul_sand_valley.additions",
+      "tick_chance": 0.0111
+    },
+    "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
+    "fog_color": 1787717,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.soul_sand_valley.mood",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.nether.soul_sand_valley"
+    },
     "particle": {
       "options": {
         "type": "minecraft:ash"
       },
-      "probability": 0.02
+      "probability": 0.00625
     },
-    "ambient_sound": "minecraft:ambient.soul_sand_valley.loop",
-    "mood_sound": {
-      "sound": "minecraft:ambient.soul_sand_valley.mood",
-      "tick_delay": 6000,
-      "block_search_extent": 8,
-      "offset": 2
-    },
-    "music": {
-      "sound": "minecraft:music.nether.soul_sand_valley",
-      "min_delay": 12000,
-      "max_delay": 24000,
-      "replace_current_music": false
-    }
+    "sky_color": 7254527,
+    "water_color": 4159204,
+    "water_fog_color": 329011
   },
   "carvers": {},
   "features": [
@@ -51,7 +55,8 @@
       "minecraft:ore_gold_nether",
       "minecraft:ore_quartz_nether",
       "minecraft:ore_ancient_debris_large",
-      "minecraft:ore_debris_small"
+      "minecraft:ore_debris_small",
+      "kubejs:ash_patch"
     ],
     [],
     ["minecraft:spring_lava"]
