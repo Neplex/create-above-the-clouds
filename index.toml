@@ -41,8 +41,12 @@ file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes_vegetation.j
 hash = "9598be179cdf0469e88dd46c8e4e27b4a2daac0ebf341716f7e41583fff04f68"
 
 [[files]]
+file = "kubejs/data/kubejs/neoforge/biome_modifier/remove_overworld_vents.json"
+hash = "0f40496400ca227b4096c6eafc7e0ab14a4996d1bec1c86b2cc48a9e824e0a98"
+
+[[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/ash_wastes.json"
-hash = "cf6772106e63535cd8ef12bc41b91ffed8a79283b6faf956526bb0ecbce945c8"
+hash = "b92a508b32d2f663e3b1ab3d9f77138b25d29fdb9c0eb3b1cb6af8b04866f1e1"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/basalt_highlands.json"
@@ -54,7 +58,7 @@ hash = "ff3cbfbcd01caa769801820f0a65be5939b43be0f9bdcbde881d9ce582b0309b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/soul_ash_fields.json"
-hash = "9b28d0943a8939c3fae2088c8dfac7147982adf5bebec05143d0cca4bb5345d8"
+hash = "38e574b12397e0e69cf3e7ad0cbd75c43ffa998b5391d0d6f26fea1a48024984"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
@@ -410,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/create-dynamic-lights.pw.toml"
 hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
