@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:crimson_forest",
+    "minecraft:nether_wastes",
+    "minecraft:soul_sand_valley",
+    "minecraft:warped_forest",
+    "kubejs:scorched_surface/ash_wastes",
+    "kubejs:scorched_surface/soul_ash_fields"
+  ]
+}

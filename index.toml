@@ -133,6 +133,38 @@ file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
 hash = "10be0743aac7706252df65fd9f2d0eafbd56ddbc37b8d519db241f9a08d67395"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json"
+hash = "867a0a5f753883484a807a89e6055d67e53c58d421a75192d934dfa2056f11c6"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json"
+hash = "b106db8ee2ea9a2cccc564fb8d26f103e1bb66e7bb90516cf233d447fb649860"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/nether_fortress.json"
+hash = "a38a79a3d6fc70dfb5c70f7258d0a73134b1c58c9e976097694ab0e6184032e8"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/nether_fossil.json"
+hash = "e3c8585ecb81fc62598ba36ed2675731f50c5e7a609859974bdda44afb0f94b2"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/stronghold.json"
+hash = "7477e53d6d2378c4ee17792c83e5816c919766b5e670b42ac922a0518599ec1c"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json"
+hash = "7477e53d6d2378c4ee17792c83e5816c919766b5e670b42ac922a0518599ec1c"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biome/is_nether.json"
+hash = "75294e0bc969810cbfbc8e8151801b03f8b4e53b9996549709bb698bda4fe65f"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/sculk_patch_ancient_city.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/noise/continentalness.json"
 hash = "2942b522588a19d48758242be275ffacc121dc7b771b818b9a25f7d299610331"
 
@@ -251,6 +283,14 @@ hash = "4c4548a48395a0da459060982c722ef5a732e66ad245125904d117f6abc5572d"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/placed_feature/spring_water.json"
 hash = "90858de414d93fb700b25344dbd2f646c38984890db08c5b20849cae92b27bba"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure/ancient_city.json"
+hash = "d598ea055cfacd1f261ae8f05c4d3ce7c495ce1f7b3e9b11ecf06b046120d59a"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure/trial_chambers.json"
+hash = "9428da60945ad52f7bdd56f1e97e76a4c53aeefdb16a2ea845c6468bedbd19a3"
 
 [[files]]
 file = "kubejs/pack.mcmeta"
