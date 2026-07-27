@@ -1,12 +1,12 @@
 name = "create-above-the-clouds"
 author = "Neplex"
-version = "0.4.0"
+version = "0.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "216bf24fa200327541a9055998d774ad5ee472d9f78a3daf36bf11a0b75be370"
+hash = "66fc7a46aa7ae275c6aa3c6316795fbe4b3c3bd393c8a72d28a4518409c196d9"
 
 [versions]
 minecraft = "1.21.1"
