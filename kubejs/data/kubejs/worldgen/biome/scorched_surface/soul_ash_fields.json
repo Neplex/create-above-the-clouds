@@ -31,7 +31,13 @@
     "water_color": 4159204,
     "water_fog_color": 329011
   },
-  "carvers": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
   "features": [
     [],
     [],

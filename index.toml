@@ -46,27 +46,27 @@ hash = "0f40496400ca227b4096c6eafc7e0ab14a4996d1bec1c86b2cc48a9e824e0a98"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/ash_wastes.json"
-hash = "ee93c67c29dc28667a123bd6578be4b4a161b75baefad6a97487a1fd46778577"
+hash = "6788f19eed5152448cfa6f510c88a68586821f387be8b9174050c7eeec861edc"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/basalt_highlands.json"
-hash = "8c6f312f8e08cb1d6c645893e484226e1db834498635b4bdeffa25fca2217cd2"
+hash = "1a42ec87906ca557821ebd49078af34d41b9d72cb3be9be420a633bd4d72da5d"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/glowstone_field.json"
-hash = "bf356282320c7f1f6fb2be2b50a8c8bfe050cdf5def50438e2fe226158ea765c"
+hash = "48f98f1a8abf401e0555ed9cc80c14919b40019963ba935510ac52c4bd898e6c"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/obsidian_barrens.json"
-hash = "b53f6ce0226f27ec8c8fbc8e7b83df08feaffe6bd7a763602e05349e2d593bac"
+hash = "d601e5a742e060f38e5a741421c94e5d9b8c69ccf057150e7892cba8e404a7bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/soul_ash_fields.json"
-hash = "670892528710d5587f3f49cdb18450bcea0be15a40d5c4fe682aace56f9a300b"
+hash = "7103fe2de97bdd0ea60e3fdd285a7636bab26711c0a18e69251239667e2ec484"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
-hash = "76b84384c8f72a4f5303e24c4b3338478b00346c7f3a785f9c461b069b0f0189"
+hash = "ce5fe470b9fe299fa3bc2c4449892761d39357494ee671887222513ad5bb6cc0"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
