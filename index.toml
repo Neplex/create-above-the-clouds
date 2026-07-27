@@ -66,7 +66,7 @@ hash = "670892528710d5587f3f49cdb18450bcea0be15a40d5c4fe682aace56f9a300b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
-hash = "cb7c6b59df9b622bb066ff45575ec76c2926d4845bf81ef6796be41fe1184f1c"
+hash = "76b84384c8f72a4f5303e24c4b3338478b00346c7f3a785f9c461b069b0f0189"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
@@ -102,7 +102,7 @@ hash = "5f743c78d093c566c73e67cbbc0e823da23573b19d92edc0f868305d1eab183e"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/scorched_surface.json"
-hash = "88514b9bc31fc84862a27649f0104f26e9cf6e7fceeef49966523e6b4a72bfc1"
+hash = "956a97841602860974ec99c8c386d42acc055b0fa8a70e1fbfefe05f1c9e15b5"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/sky_islands.json"
