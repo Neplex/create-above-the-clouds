@@ -275,7 +275,10 @@
         "type": "minecraft:condition",
         "if_true": {
           "type": "minecraft:biome",
-          "biome_is": ["kubejs:scorched_surface/ash_wastes"]
+          "biome_is": [
+            "kubejs:scorched_surface/ash_wastes",
+            "kubejs:scorched_surface/glowstone_field"
+          ]
         },
         "then_run": {
           "type": "minecraft:sequence",

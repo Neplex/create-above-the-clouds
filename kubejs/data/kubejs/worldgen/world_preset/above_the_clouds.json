@@ -90,7 +90,7 @@
               "parameters": {
                 "temperature": 0.0,
                 "humidity": 0.0,
-                "continentalness": 0.0,
+                "continentalness": 0.2,
                 "erosion": 0.0,
                 "weirdness": 0.0,
                 "depth": 0.0,
@@ -128,7 +128,7 @@
                 "humidity": 0.0,
                 "continentalness": 0.0,
                 "erosion": 0.0,
-                "weirdness": 0.0,
+                "weirdness": 0.3,
                 "depth": 0.0,
                 "offset": 0.3
               }
@@ -140,9 +140,21 @@
                 "humidity": 0.0,
                 "continentalness": 0.0,
                 "erosion": 0.4,
-                "weirdness": 0.0,
+                "weirdness": 0.1,
                 "depth": 0.0,
                 "offset": 0.5
+              }
+            },
+            {
+              "biome": "kubejs:scorched_surface/glowstone_field",
+              "parameters": {
+                "temperature": 0.2,
+                "humidity": 0.0,
+                "continentalness": 0.5,
+                "erosion": 0.2,
+                "weirdness": 0.5,
+                "depth": 0.0,
+                "offset": 0.0
               }
             }
           ]
