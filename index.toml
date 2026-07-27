@@ -46,27 +46,27 @@ hash = "0f40496400ca227b4096c6eafc7e0ab14a4996d1bec1c86b2cc48a9e824e0a98"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/ash_wastes.json"
-hash = "b92a508b32d2f663e3b1ab3d9f77138b25d29fdb9c0eb3b1cb6af8b04866f1e1"
+hash = "ee93c67c29dc28667a123bd6578be4b4a161b75baefad6a97487a1fd46778577"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/basalt_highlands.json"
-hash = "c773b0f585386264245ea6726adf14c090311cccfebc61df1c87f1cbe5143138"
+hash = "8c6f312f8e08cb1d6c645893e484226e1db834498635b4bdeffa25fca2217cd2"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/glowstone_field.json"
-hash = "503d35606bcef20bf2bba2551133f5c76e491dff85d088b90f49d0eb344f6755"
+hash = "bf356282320c7f1f6fb2be2b50a8c8bfe050cdf5def50438e2fe226158ea765c"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/obsidian_barrens.json"
-hash = "ff3cbfbcd01caa769801820f0a65be5939b43be0f9bdcbde881d9ce582b0309b"
+hash = "b53f6ce0226f27ec8c8fbc8e7b83df08feaffe6bd7a763602e05349e2d593bac"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/soul_ash_fields.json"
-hash = "38e574b12397e0e69cf3e7ad0cbd75c43ffa998b5391d0d6f26fea1a48024984"
+hash = "670892528710d5587f3f49cdb18450bcea0be15a40d5c4fe682aace56f9a300b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
-hash = "3c22ba803acbf761659b2235c7e8b71fa631af8c5c69b8067472588a58f48b6e"
+hash = "cb7c6b59df9b622bb066ff45575ec76c2926d4845bf81ef6796be41fe1184f1c"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
@@ -75,6 +75,10 @@ hash = "6af0ec1a3e70fa373ffd7a6851849752f95bc3a130e0121b96d7ccb059649ea6"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/glowstone_spike.json"
 hash = "fbe372c9b9379b50936aa3ce248165a7944d0db7a29bcdf98faea7193a9b475f"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/netherrack_vein.json"
+hash = "79bd2a5fd96b5d54a08f0868a5b73bf6472c2a4271975da68a76ef0e6f6b1049"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_basin.json"
@@ -111,6 +115,10 @@ hash = "4d8bd72beeba5aa7889a41d7f904e95232a4554a66982401715867a87576b04a"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/glowstone_spike.json"
 hash = "1d0ff77dfe86625f441d48ad751deabbb12919c07cc064ae683a5497902e0164"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/netherrack_vein.json"
+hash = "71cfbae19999d5627cb46dae472ade665343071cbbad787bf1e6dca944aca04b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake.json"

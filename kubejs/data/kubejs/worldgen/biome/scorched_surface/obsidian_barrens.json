@@ -41,6 +41,7 @@
     [],
     [],
     [
+      "kubejs:netherrack_vein",
       "minecraft:patch_fire",
       "minecraft:patch_soul_fire",
       "minecraft:ore_magma",

@@ -41,6 +41,7 @@
     [],
     [],
     [
+      "kubejs:netherrack_vein",
       "minecraft:spring_open",
       "minecraft:patch_fire",
       "minecraft:patch_soul_fire",
