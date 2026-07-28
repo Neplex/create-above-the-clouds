@@ -7,7 +7,7 @@
   },
   "structures": [
     {
-      "structure": "minecraft:fortress",
+      "structure": "betterfortresses:fortress",
       "weight": 3
     },
     {

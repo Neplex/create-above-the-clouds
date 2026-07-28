@@ -13,6 +13,10 @@ file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
 [[files]]
+file = "kubejs/data/betterfortresses/worldgen/structure_set/fortress.json"
+hash = "3007a7752347f99d79045a348637c215509ee01984bd51f85b87a930b096c83a"
+
+[[files]]
 file = "kubejs/data/cgs/worldgen/placed_feature/lead_ore_placed.json"
 hash = "cd3986390015e930b2c5e1cf8e8c5ed22e2cac934888a619f6a442e337fcda8d"
 
@@ -314,7 +318,7 @@ hash = "4fa7806392a13e78969578d1c9f2d6080c5fc78debb8f4655e2af3387f2be6a0"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/nether_complexes.json"
-hash = "6ed0b1438ce00c6946cae8fd59e07a8a8b0a030a8e39873f15e8999cfecc6e93"
+hash = "eff686b8d2ef5281120175ae3ec75c242708b3482b2f22162dc2f02df7fa5a23"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/template_pool/ancient_city/structures.json"
@@ -912,6 +916,16 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
 metafile = true
 
 [[files]]
