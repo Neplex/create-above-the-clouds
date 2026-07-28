@@ -829,6 +829,11 @@ hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
+file = "mods/realm-rpg-fallen-adventurers.pw.toml"
+hash = "e3dc2d295b421fd9e51608c84c1172dd794c94fb03fdcc85aa173257e4535728"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
