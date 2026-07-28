@@ -101,10 +101,10 @@
         "weight": 50
       },
       {
-        "type": "minecraft:enderman",
+        "type": "quark:wraith",
         "maxCount": 4,
         "minCount": 4,
-        "weight": 1
+        "weight": 5
       }
     ],
     "underground_water_creature": [],

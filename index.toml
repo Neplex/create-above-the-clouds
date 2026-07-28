@@ -13,6 +13,10 @@ file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "2b2422cad99584b029aec346748044dc39a28ea41b1b293583135d6da6bfe98d"
+
+[[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
 hash = "e815b161d763ff02c7db7eb8f1f19e73ab908720a2ca31274c89adba271eedf3"
 
@@ -45,8 +49,16 @@ file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "eea06d1ed9f45ec1bfb9fd4b944a0a225616518a5860d6fd516dc5125f0ba37e"
 
 [[files]]
+file = "kubejs/data/integrated_stronghold/tags/worldgen/biome/has_structure/integrated_stronghold.json"
+hash = "1859095e777ee9f065a1b92b6679be2255b4c808673e0c67d633e8f33fe6aac9"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/structure/stronghold.json"
+hash = "96e8be32bd8d976769251490935c2611aca6dd3722c4fe07b5f17c91ceb5ddda"
+
+[[files]]
 file = "kubejs/data/kubejs/dimension_type/scorched_surface.json"
-hash = "fa1e82faba88cae18da0933ffa016ae364076484ab72e08615b15acf9191f10a"
+hash = "afd26c067c85f51895db3b3d97d23fc66069367c9a0b9adaf316607a9f0f31cc"
 
 [[files]]
 file = "kubejs/data/kubejs/dimension_type/sky_islands.json"
@@ -86,7 +98,7 @@ hash = "d601e5a742e060f38e5a741421c94e5d9b8c69ccf057150e7892cba8e404a7bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/soul_ash_fields.json"
-hash = "7103fe2de97bdd0ea60e3fdd285a7636bab26711c0a18e69251239667e2ec484"
+hash = "ac8258ca76d8acc03844d94c3603c9a8dcfcb3bb3550c118772f78b1866fad81"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
@@ -126,7 +138,7 @@ hash = "5f743c78d093c566c73e67cbbc0e823da23573b19d92edc0f868305d1eab183e"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/scorched_surface.json"
-hash = "b261138285f8803075278f3e5b802938c0b3fc2fab5cfd04bdcee608ab86b131"
+hash = "2aad1c4f590bc06c1fa3ab85f8752e9b329b40bad205bd2451523a1e8e4119ee"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/sky_islands.json"
@@ -338,11 +350,11 @@ hash = "7192486dc530ef2cdf7171b62b2097be8f08ea0ad78ae36ecefecfe95367e714"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure/ancient_city.json"
-hash = "0bb3c575aeaa3ad556e05e5c32cd53148057ca609780aac7854100d55ef18a8f"
+hash = "4dad94a435227262ae3b46bf5020a1983d81b5db17ba3cc32fc72993a566c73a"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure/trial_chambers.json"
-hash = "3a47574985e28d279b58b4d7077224e4d77ea94159672f34f6352466befee397"
+hash = "50dcdd79c54920ae05d66808bc6d910321e0c86687f3a9b2294f606fb7518075"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/ancient_cities.json"
@@ -350,7 +362,7 @@ hash = "4fa7806392a13e78969578d1c9f2d6080c5fc78debb8f4655e2af3387f2be6a0"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure_set/nether_complexes.json"
-hash = "eff686b8d2ef5281120175ae3ec75c242708b3482b2f22162dc2f02df7fa5a23"
+hash = "efa1ca5f2476fd549b6a26ce2ffb77a9eb9e5cac0fa001b74b06303192381080"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/template_pool/ancient_city/structures.json"
@@ -694,6 +706,16 @@ hash = "b32476bc34fbea067e8ab28e7e102d807298fab4bdf562f7a936fb2734129bb2"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "51efd91733a69b031ff8533683e5a94b9c25a8e270e40e6ce9f4b03121e03450"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "9db2595b8dcf9759ec549481561132e1affc19634d368a78ae79aa45557c3be2"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
@@ -826,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
 
 [[files]]
@@ -971,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
