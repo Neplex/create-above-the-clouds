@@ -158,7 +158,11 @@ hash = "fc613e45255fcc2545ec2f2f136252fd67af664a2d88d6c486ffc1f1f6dddc62"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/processor_list/scorched_structure_block_replacer.json"
-hash = "a626dd2caaa69bcec3057aa55156d2e06a3e7284db1c3788a8e43d42f3d48494"
+hash = "c8238cbef266cf8701375df87df5363110e71ad763cce6257ed20fa5c31723e0"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/processor_list/water_lava_replacer.json"
+hash = "ae7891c4bf3a1e05106a498322a193094a59ad7fe4ade9e1431d13b9fd0a39bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
@@ -186,7 +190,7 @@ hash = "7477e53d6d2378c4ee17792c83e5816c919766b5e670b42ac922a0518599ec1c"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json"
-hash = "7477e53d6d2378c4ee17792c83e5816c919766b5e670b42ac922a0518599ec1c"
+hash = "59de5b6c0f13a58d4a7923890b84579150f33e4ef1087a91520ee9f7eb407a02"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/is_nether.json"
@@ -329,6 +333,10 @@ file = "kubejs/data/minecraft/worldgen/processor_list/ancient_city_walls_degrada
 hash = "e44a345f21e6f86e704749d3cd4e0081c2c6699a15fbcedba62bee7dbed2aeb5"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/processor_list/trial_chambers_copper_bulb_degradation.json"
+hash = "7192486dc530ef2cdf7171b62b2097be8f08ea0ad78ae36ecefecfe95367e714"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/structure/ancient_city.json"
 hash = "0bb3c575aeaa3ad556e05e5c32cd53148057ca609780aac7854100d55ef18a8f"
 
@@ -347,6 +355,14 @@ hash = "eff686b8d2ef5281120175ae3ec75c242708b3482b2f22162dc2f02df7fa5a23"
 [[files]]
 file = "kubejs/data/minecraft/worldgen/template_pool/ancient_city/structures.json"
 hash = "8790339cb614244247c9c9fac351152bdfc563e08df8ed40395cb716c4bc3365"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/template_pool/trial_chambers/atrium.json"
+hash = "225e3c026783892ad9a314e04b3fdeff2c6b587da1de9ce95f7a426d582c84c3"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/template_pool/trial_chambers/entrance.json"
+hash = "c491c6fcb84b93f3a1c011b9c02f23dcbe31fcda73a2c39f2c3510bf6cfc578b"
 
 [[files]]
 file = "kubejs/pack.mcmeta"
