@@ -10,6 +10,7 @@
     "kubejs:scorched_surface/glowstone_field",
     "kubejs:scorched_surface/obsidian_barrens",
     "kubejs:scorched_surface/soul_ash_fields",
-    "kubejs:scorched_surface/volcanic_peaks"
+    "kubejs:scorched_surface/volcanic_peaks",
+    "kubejs:scorched_surface/lava_lakes"
   ]
 }

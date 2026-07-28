@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:jigsaw",
+  "type": "yungsapi:yung_jigsaw",
   "biomes": "#minecraft:has_structure/trial_chambers",
   "dimension_padding": 10,
   "liquid_settings": "ignore_waterlogging",
@@ -134,7 +134,7 @@
   "start_height": {
     "type": "minecraft:uniform",
     "max_inclusive": {
-      "absolute": 30
+      "absolute": 20
     },
     "min_inclusive": {
       "absolute": 10
@@ -142,6 +142,12 @@
   },
   "start_pool": "minecraft:trial_chambers/chamber/end",
   "step": "underground_structures",
-  "terrain_adaptation": "bury",
+  "enhanced_terrain_adaptation": {
+    "type": "yungsapi:custom",
+    "kernel_size": 24,
+    "kernel_distance": 24,
+    "top": "bury",
+    "bottom": "bury"
+  },
   "use_expansion_hack": false
 }

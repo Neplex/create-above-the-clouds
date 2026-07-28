@@ -283,7 +283,8 @@
           "type": "minecraft:biome",
           "biome_is": [
             "kubejs:scorched_surface/ash_wastes",
-            "kubejs:scorched_surface/glowstone_field"
+            "kubejs:scorched_surface/glowstone_field",
+            "kubejs:scorched_surface/lava_lakes"
           ]
         },
         "then_run": {
