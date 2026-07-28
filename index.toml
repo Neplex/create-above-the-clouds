@@ -309,6 +309,14 @@ file = "kubejs/data/minecraft/worldgen/structure/trial_chambers.json"
 hash = "9428da60945ad52f7bdd56f1e97e76a4c53aeefdb16a2ea845c6468bedbd19a3"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/ancient_cities.json"
+hash = "4fa7806392a13e78969578d1c9f2d6080c5fc78debb8f4655e2af3387f2be6a0"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/structure_set/nether_complexes.json"
+hash = "6ed0b1438ce00c6946cae8fd59e07a8a8b0a030a8e39873f15e8999cfecc6e93"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/template_pool/ancient_city/structures.json"
 hash = "932efa158d1f7b0d31dfc7bdbef915ed97ca80d2b8717b6dbcfd48d6f058eb13"
 
