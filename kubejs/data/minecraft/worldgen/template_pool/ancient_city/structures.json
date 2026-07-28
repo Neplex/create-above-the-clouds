@@ -193,7 +193,7 @@
           {
             "element_type": "minecraft:single_pool_element",
             "location": "minecraft:ancient_city/structures/ice_box_1",
-            "processors": "kubejs:scorched_structure_block_replacer",
+            "processors": "minecraft:ancient_city_start_degradation",
             "projection": "rigid"
           }
         ],
