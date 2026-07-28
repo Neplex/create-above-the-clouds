@@ -1,0 +1,629 @@
+{
+  "processors": [
+    {
+      "integrity": 0.95,
+      "processor_type": "minecraft:block_rot",
+      "rottable_blocks": "#minecraft:ancient_city_replaceable"
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:water"
+          },
+          "output_state": { "Name": "minecraft:air" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:ice"
+          },
+          "output_state": { "Name": "minecraft:magma_block" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:sculk_sensor"
+          },
+          "output_state": {
+            "Name": "minecraft:sculk_sensor",
+            "Properties": {
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "north",
+                "shape": "straight",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "north",
+              "shape": "straight",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "south",
+                "shape": "straight",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "south",
+              "shape": "straight",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "west",
+                "shape": "straight",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "west",
+              "shape": "straight",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "east",
+                "shape": "straight",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "east",
+              "shape": "straight",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "north",
+                "shape": "inner_left",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "north",
+              "shape": "inner_left",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "south",
+                "shape": "inner_left",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "south",
+              "shape": "inner_left",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "west",
+                "shape": "inner_left",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "west",
+              "shape": "inner_left",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "east",
+                "shape": "inner_left",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "east",
+              "shape": "inner_left",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "north",
+                "shape": "inner_right",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "north",
+              "shape": "inner_right",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "south",
+                "shape": "inner_right",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "south",
+              "shape": "inner_right",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "west",
+                "shape": "inner_right",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "west",
+              "shape": "inner_right",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:deepslate_tile_stairs",
+              "Properties": {
+                "facing": "east",
+                "shape": "inner_right",
+                "waterlogged": "true"
+              }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:deepslate_tile_stairs",
+            "Properties": {
+              "facing": "east",
+              "shape": "inner_right",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "block": "minecraft:gray_wool",
+            "predicate_type": "minecraft:block_match"
+          },
+          "output_state": { "Name": "minecraft:cobbled_deepslate" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:wool"
+          },
+          "output_state": { "Name": "burnt:burnt_planks" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:wool_carpets"
+          },
+          "output_state": { "Name": "minecraft:air" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:planks"
+          },
+          "output_state": { "Name": "burnt:burnt_planks" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:fences"
+          },
+          "output_state": { "Name": "burnt:burnt_fence" }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dark_oak_log",
+              "Properties": { "axis": "x" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_log",
+            "Properties": { "axis": "x" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dark_oak_log",
+              "Properties": { "axis": "y" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_log",
+            "Properties": { "axis": "y" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dark_oak_log",
+              "Properties": { "axis": "z" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_log",
+            "Properties": { "axis": "z" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:ladder",
+              "Properties": { "facing": "north" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_ladder",
+            "Properties": { "facing": "north" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:ladder",
+              "Properties": { "facing": "south" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_ladder",
+            "Properties": { "facing": "south" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:ladder",
+              "Properties": { "facing": "east" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_ladder",
+            "Properties": { "facing": "east" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:ladder",
+              "Properties": { "facing": "west" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:burnt_ladder",
+            "Properties": { "facing": "west" }
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "input_predicate": {
+            "block": "minecraft:deepslate_bricks",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.3
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:cracked_deepslate_bricks"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:deepslate_tiles",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.3
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:cracked_deepslate_tiles"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:deepslate_tile_slab",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.3
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:air"
+          }
+        },
+        {
+          "input_predicate": {
+            "block": "minecraft:soul_lantern",
+            "predicate_type": "minecraft:random_block_match",
+            "probability": 0.05
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "minecraft:air"
+          }
+        },
+        {
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "burnt:burnt_planks",
+            "probability": 0.1
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "burnt:ember_planks"
+          }
+        },
+        {
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "burnt:burnt_fence",
+            "probability": 0.1
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "output_state": {
+            "Name": "burnt:ember_fence",
+            "Properties": {
+              "east": "false",
+              "north": "false",
+              "south": "false",
+              "west": "false",
+              "waterlogged": "false"
+            }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "probability": 0.1,
+            "block_state": {
+              "Name": "burnt:burnt_log",
+              "Properties": { "axis": "x" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:ember_log",
+            "Properties": { "axis": "x" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "probability": 0.1,
+            "block_state": {
+              "Name": "burnt:burnt_log",
+              "Properties": { "axis": "y" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:ember_log",
+            "Properties": { "axis": "y" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "probability": 0.1,
+            "block_state": {
+              "Name": "burnt:burnt_log",
+              "Properties": { "axis": "z" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:ember_log",
+            "Properties": { "axis": "z" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "probability": 0.05,
+            "block_state": {
+              "Name": "burnt:burnt_log",
+              "Properties": { "axis": "x" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:broken_burnt_log",
+            "Properties": { "axis": "x" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "probability": 0.05,
+            "block_state": {
+              "Name": "burnt:burnt_log",
+              "Properties": { "axis": "y" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:broken_burnt_log",
+            "Properties": { "axis": "y" }
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_blockstate_match",
+            "probability": 0.05,
+            "block_state": {
+              "Name": "burnt:burnt_log",
+              "Properties": { "axis": "z" }
+            }
+          },
+          "output_state": {
+            "Name": "burnt:broken_burnt_log",
+            "Properties": { "axis": "z" }
+          }
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:protected_blocks",
+      "value": "#minecraft:features_cannot_replace"
+    }
+  ]
+}

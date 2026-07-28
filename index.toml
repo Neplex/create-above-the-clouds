@@ -129,6 +129,10 @@ file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake_vegetation.json"
 hash = "788ee28f4797f5ff5ef8e849e4400e8cc28498d3576c4e6bba11fb268d4554ce"
 
 [[files]]
+file = "kubejs/data/kubejs/worldgen/processor_list/scorched_structure_block_replacer.json"
+hash = "4cbd40591054d6af1bc85056ba3162b2b15675db3b09d0d938610eec7e56d0bb"
+
+[[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
 hash = "10be0743aac7706252df65fd9f2d0eafbd56ddbc37b8d519db241f9a08d67395"
 
@@ -285,12 +289,28 @@ file = "kubejs/data/minecraft/worldgen/placed_feature/spring_water.json"
 hash = "90858de414d93fb700b25344dbd2f646c38984890db08c5b20849cae92b27bba"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/processor_list/ancient_city_generic_degradation.json"
+hash = "a749608e669d5f6d59fd5dc87326ad9715a104f21411d93a38c73f457d1d7f9b"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/processor_list/ancient_city_start_degradation.json"
+hash = "54c59866f7efce39ae02f96a49edb6463476f95f96fab12064f3a053d690ea1c"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/processor_list/ancient_city_walls_degradation.json"
+hash = "fe5249ae82e98b1af2c5f15aa7ab632ec9a81a528501effdd8275e411da21f46"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/structure/ancient_city.json"
-hash = "d598ea055cfacd1f261ae8f05c4d3ce7c495ce1f7b3e9b11ecf06b046120d59a"
+hash = "c87db9dd5f4ee4cf1ffdfc6c84f2383f373121e20c244fead355e3a75b789382"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/structure/trial_chambers.json"
 hash = "9428da60945ad52f7bdd56f1e97e76a4c53aeefdb16a2ea845c6468bedbd19a3"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/template_pool/ancient_city/structures.json"
+hash = "932efa158d1f7b0d31dfc7bdbef915ed97ca80d2b8717b6dbcfd48d6f058eb13"
 
 [[files]]
 file = "kubejs/pack.mcmeta"
