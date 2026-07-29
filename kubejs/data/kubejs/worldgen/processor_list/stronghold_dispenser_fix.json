@@ -1,0 +1,153 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "down", "triggered": "false" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "down", "triggered": "false" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "west", "triggered": "false" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "west", "triggered": "false" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "north", "triggered": "true" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "north", "triggered": "true" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "south", "triggered": "true" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "south", "triggered": "true" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "east", "triggered": "true" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "east", "triggered": "true" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "west", "triggered": "true" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "west", "triggered": "true" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "up", "triggered": "true" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "up", "triggered": "true" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        },
+        {
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "input_predicate": {
+            "predicate_type": "minecraft:blockstate_match",
+            "block_state": {
+              "Name": "minecraft:dispenser",
+              "Properties": { "facing": "down", "triggered": "true" }
+            }
+          },
+          "output_state": {
+            "Name": "minecraft:dispenser",
+            "Properties": { "facing": "down", "triggered": "true" }
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "kubejs:stronghold/dispenser"
+          }
+        }
+      ]
+    }
+  ]
+}

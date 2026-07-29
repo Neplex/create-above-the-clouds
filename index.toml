@@ -53,6 +53,82 @@ file = "kubejs/data/integrated_stronghold/tags/worldgen/biome/has_structure/inte
 hash = "1859095e777ee9f065a1b92b6679be2255b4c808673e0c67d633e8f33fe6aac9"
 
 [[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/armory_processor.json"
+hash = "33e9cf720971be2f48bc1d680f5b992158051790b72301121bf809850b6e8101"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/bedroom_processor.json"
+hash = "caabd3f488c22866852b632af6a7c436cd297e2c2dc70267ea8c07575ddf072d"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/brewing_processor.json"
+hash = "32a0b2d34fd640f28fb779b977f95d2e0176b0b32c12c54ae6f0d09835c72bc6"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/crypt_processor.json"
+hash = "3e5eaccec2ee30e9aca37d8bae1f07a3648226c9e99ea3990bec7d171339da67"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/dining_hall_processor.json"
+hash = "17562c063d3268a085357852f39d5f3bc7db4bc6e7d47750551343bf9a117773"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/elevator_processor.json"
+hash = "7bbd230742c98e9a11c26c0f1e21fd7ef4e3750f623cd4ef12be2817dc83fb25"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/enchanting_processor.json"
+hash = "7e7262d1d00e2b879c5a8eed9f41bc053379ea4840d33ed8c1f654f94d518e27"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/farm_processor.json"
+hash = "6483b41c8b83b4d45e2dfd306258493a6239fc7e8338111455f8eefbec540970"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/intersection_processor.json"
+hash = "d1e8c8776da4a76a125c1bfcc8855b6e78912fc847b73780a53bd9b6ad5479ca"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/library_processor.json"
+hash = "51abe0ff1fe9a98020eaff79be2af88c6b88b27c339c80e432215785ce518756"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/maze_processor.json"
+hash = "5861c94822ce3b2f071456b5b6e3a739f831ab13c47ee2676bda33212e16a4e0"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/nether_portal_processor.json"
+hash = "29274c5a98edb6204b665269b1b390ccab31ccdfb59be9ce4f1fe06bc47c4933"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/portal_room_processor.json"
+hash = "20de4d998faee2df2c5e00740c1f11abd31f727e9e2609a4051f5115e40fbbb2"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/prison_processor.json"
+hash = "cda89958f62b7c6b4e6e087087c472ef9f638619e3be6990dec9fa7e683b162c"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/sanctorum_processor.json"
+hash = "83e83c7b6a0b8285ec2757c4cb69e0aea2d8ad12f54ea9fe230328244fdb2680"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/secret_lab_processor.json"
+hash = "efcc64952efd4aaa227af3f39eb15de8e1cc4fb1da6f3a1a3d6c2d7fdda1d07f"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/storage_processor.json"
+hash = "280b05c768e456091ed3db037c15d1bbe2530259d072839c0f0fa18c12788fe5"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/stronghold_processor.json"
+hash = "7baad119fd549bb0d76874e07e1d10c379cdedab5996a3277a711793bed757aa"
+
+[[files]]
+file = "kubejs/data/integrated_stronghold/worldgen/processor_list/torture_chamber_processor.json"
+hash = "6ebd3bb73d31398295515df26944887f35eece72eee1c5c11387b9db3b483b72"
+
+[[files]]
 file = "kubejs/data/integrated_stronghold/worldgen/structure/stronghold.json"
 hash = "96e8be32bd8d976769251490935c2611aca6dd3722c4fe07b5f17c91ceb5ddda"
 
@@ -63,6 +139,10 @@ hash = "afd26c067c85f51895db3b3d97d23fc66069367c9a0b9adaf316607a9f0f31cc"
 [[files]]
 file = "kubejs/data/kubejs/dimension_type/sky_islands.json"
 hash = "2568ff8f7bd9518f1af021e7b3e8ba116bfbc1d00efd3ee5d0a359c6742ddde0"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_table/stronghold/dispenser.json"
+hash = "c37c2bfdbafd9617394598d71ba86468dd70dac7985917459fa76410a6b11e41"
 
 [[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/inject_sky_lakes.json"
@@ -171,6 +251,10 @@ hash = "fc613e45255fcc2545ec2f2f136252fd67af664a2d88d6c486ffc1f1f6dddc62"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/processor_list/scorched_structure_block_replacer.json"
 hash = "c8238cbef266cf8701375df87df5363110e71ad763cce6257ed20fa5c31723e0"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/processor_list/stronghold_dispenser_fix.json"
+hash = "60941ffcd605980515761e09bacab2af0a5c86dd73bad8ad3cfccd16b8793a60"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/processor_list/water_lava_replacer.json"
