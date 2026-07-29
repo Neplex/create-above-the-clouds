@@ -61,6 +61,10 @@ file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/kero
 hash = "b7a1a13f3bd1d2bc043b66ca5f7d305b35b81b9f6bbd652189458a3822144e1f"
 
 [[files]]
+file = "kubejs/data/createdieselgenerators/tags/worldgen/biome/oil_biome.json"
+hash = "40b2d4dec0624dfd32e8f86a970a7c5b9b588f7a7013c30474cc07c3689d94ea"
+
+[[files]]
 file = "kubejs/data/integrated_stronghold/tags/worldgen/biome/has_structure/integrated_stronghold.json"
 hash = "1859095e777ee9f065a1b92b6679be2255b4c808673e0c67d633e8f33fe6aac9"
 
