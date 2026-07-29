@@ -640,6 +640,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "8c13c49284e9c2f9007874916ab401799f66f5549779881ab2b9bcc57d450f13"
+metafile = true
+
+[[files]]
 file = "mods/create-dynamic-lights.pw.toml"
 hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
@@ -657,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/create-nomad.pw.toml"
 hash = "cf425e02f27a8cda55cb2cb4a3ffc9fd0afcd7a0b41350f65a339afb48076d91"
+metafile = true
+
+[[files]]
+file = "mods/create-petrochem.pw.toml"
+hash = "dfe40be06d2ae9c32e4123914ed32c2c94aa3308e28660b8026ed312546f1c8d"
 metafile = true
 
 [[files]]
