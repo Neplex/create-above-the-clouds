@@ -1,4 +1,8 @@
 ServerEvents.tags("fluid", (event) => {
+  event.add("c:kerosene", "petrochem:kerosene");
+  event.add("c:fuel_oil", "petrochem:fuel_oil");
+  event.add("c:heavy_gas_oil", "petrochem:heavy_gas_oil");
+
   event.remove("c:crude_oil", "petrochem:petroleum");
   event.remove("c:diesel", "createdieselgenerators:diesel");
 });

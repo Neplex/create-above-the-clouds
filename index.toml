@@ -49,6 +49,18 @@ file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "eea06d1ed9f45ec1bfb9fd4b944a0a225616518a5860d6fd516dc5125f0ba37e"
 
 [[files]]
+file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/fuel_oil.json"
+hash = "19cda4fa00e652baaa8ccd5f85f8e2a894005b9a6969bfed28a91f3cf91437cd"
+
+[[files]]
+file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/heavy_gas_oil.json"
+hash = "67d391c695ae69a40ad8dba6a4b1cc3d4d7472ebf2d1946fa6cb7a883a6cf321"
+
+[[files]]
+file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/kerosene.json"
+hash = "b7a1a13f3bd1d2bc043b66ca5f7d305b35b81b9f6bbd652189458a3822144e1f"
+
+[[files]]
 file = "kubejs/data/integrated_stronghold/tags/worldgen/biome/has_structure/integrated_stronghold.json"
 hash = "1859095e777ee9f065a1b92b6679be2255b4c808673e0c67d633e8f33fe6aac9"
 
@@ -478,7 +490,7 @@ hash = "fe00b3a4a471f7b2504787ec73de6e6ec9e1c24376fab72523b903b629ac4688"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
-hash = "6edbfc8230473d52f60c57274ae44c06b4962543994054e5af0101b57e117410"
+hash = "8fc0fa66b2888446e10e3839f5fb5283a902a4afe3d76525a20eb89af5ff37b1"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
