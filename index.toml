@@ -474,7 +474,11 @@ hash = "2176d38ec22ed118b9b909d3bfdfcb030a6b98a373f6834319f87197af5ae4fc"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "8186c81a4eb30cc1f829a39e966e136a7405508cda2569b23d6465764ba5d95c"
+hash = "fe00b3a4a471f7b2504787ec73de6e6ec9e1c24376fab72523b903b629ac4688"
+
+[[files]]
+file = "kubejs/server_scripts/oil.js"
+hash = "6edbfc8230473d52f60c57274ae44c06b4962543994054e5af0101b57e117410"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
