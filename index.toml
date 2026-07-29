@@ -6,7 +6,7 @@ hash = "6be3cb5dca70962923b8548c3b04b6d97f6ef4f335223a52098b0cec66d60fe3"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "13166bc291090e461ec461d5195d31c558a516c39c5e036c1d6072532d7e5da1"
+hash = "26075e06743f00142fa3acb3142841703eed679e6b37b1de44c7a329f7d81757"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
