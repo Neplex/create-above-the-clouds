@@ -87,6 +87,15 @@ ServerEvents.recipes((event) => {
       },
     ],
   });
+
+  // Plastic -> Rubber
+  event.recipes.create
+    .mixing("createpolymer:rubber", [
+      Fluid.of("petrochem:plastic", 250),
+      Fluid.of("petrochem:lubricant", 100),
+      "cgs:sulfur",
+    ])
+    .heated();
 });
 
 // Hide items from recipe viewers

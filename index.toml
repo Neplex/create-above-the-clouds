@@ -494,7 +494,7 @@ hash = "fe00b3a4a471f7b2504787ec73de6e6ec9e1c24376fab72523b903b629ac4688"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
-hash = "555cd0dac1428a6cb0b8a036cd5a49035e1430b0bf6f86848bc89fc69725b114"
+hash = "0c7b06c1f5c5c48a6a1c060a1eea440d5ab8f320c32898996b75d241d305d268"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
@@ -696,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/create-pipes-n-physics.pw.toml"
 hash = "7e360afaa52084defb6f2409ee32e6703350beb006816c4200790422dfdbefe3"
+metafile = true
+
+[[files]]
+file = "mods/create-polymer.pw.toml"
+hash = "c84116da9c7b2c8ed05acce9803f9e5eb5858975ef72ba392bd29570c6344f55"
 metafile = true
 
 [[files]]
