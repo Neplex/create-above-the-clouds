@@ -494,11 +494,15 @@ hash = "fe00b3a4a471f7b2504787ec73de6e6ec9e1c24376fab72523b903b629ac4688"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
-hash = "8fc0fa66b2888446e10e3839f5fb5283a902a4afe3d76525a20eb89af5ff37b1"
+hash = "555cd0dac1428a6cb0b8a036cd5a49035e1430b0bf6f86848bc89fc69725b114"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
 hash = "a9ce7d82e701cd4e8a1898a23b0b64191b60dcc0bdfb8e6ff004e8c87ec3dc86"
+
+[[files]]
+file = "kubejs/server_scripts/wires_and_springs.js"
+hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"

@@ -9,12 +9,20 @@ ServerEvents.tags("fluid", (event) => {
 
 ServerEvents.recipes((event) => {
   // Replace all inputs by tags
-  event.replaceInput({ input: Fluid.of("petrochem:desalted_oil") }, Fluid.of("petrochem:desalted_oil"), "#c:crude_oil");
+  event.replaceInput(
+    { input: Fluid.of("petrochem:desalted_oil") },
+    Fluid.of("petrochem:desalted_oil"),
+    "#c:crude_oil",
+  );
 
   // Replace Pterochem asphalt by diesel generator one
-  event.replaceOutput({ output: "petrochem:asphalt" }, "petrochem:asphalt", "createdieselgenerators:asphalt_block");
-  event.remove({ id: 'createdieselgenerators:crafting/asphalt_block' });
-  event.remove({ id: 'createdieselgenerators:mixing/asphalt_block' });
+  event.replaceOutput(
+    { output: "petrochem:asphalt" },
+    "petrochem:asphalt",
+    "createdieselgenerators:asphalt_block",
+  );
+  event.remove({ id: "createdieselgenerators:crafting/asphalt_block" });
+  event.remove({ id: "createdieselgenerators:mixing/asphalt_block" });
 
   // Remove the old recipes
   event.remove({ output: "petrochem:turbine" });
@@ -27,6 +35,7 @@ ServerEvents.recipes((event) => {
   event.remove({ output: "petrochem:petroleum_bucket" });
   event.remove({ output: "petrochem:desalted_oil" });
   event.remove({ output: "petrochem:desalted_oil_bucket" });
+  event.remove({ output: Fluid.of("petrochem:steam") });
   event.remove({ output: "createdieselgenerators:diesel" });
   event.remove({ output: "createdieselgenerators:diesel_bucket" });
   event.remove({ output: "createdieselgenerators:gasoline" });
@@ -37,7 +46,47 @@ ServerEvents.recipes((event) => {
   event.remove({ type: "createdieselgenerators:distillation" });
 
   // Remove old pretoleum desalting recipe
-  event.remove({ id: 'petrochem:electrolyzing/basic_desalting' })
+  event.remove({ id: "petrochem:electrolyzing/basic_desalting" });
+
+  // Basin Fermenting: Water -> Steam
+  event.custom({
+    type: "createdieselgenerators:basin_fermenting",
+    ingredients: [
+      {
+        type: "fluid_stack",
+        fluid: "minecraft:water",
+        amount: 1000,
+      },
+    ],
+    heat_requirement: "heated",
+    processing_time: 200,
+    results: [
+      {
+        id: "petrochem:steam",
+        amount: 1000,
+      },
+    ],
+  });
+
+  // Bulk Fermenting: Water -> Steam
+  event.custom({
+    type: "createdieselgenerators:bulk_fermenting",
+    ingredients: [
+      {
+        type: "fluid_stack",
+        fluid: "minecraft:water",
+        amount: 1000,
+      },
+    ],
+    heat_requirement: "heated",
+    processing_time: 200,
+    results: [
+      {
+        id: "petrochem:steam",
+        amount: 1000,
+      },
+    ],
+  });
 });
 
 // Hide items from recipe viewers
