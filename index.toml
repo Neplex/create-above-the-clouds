@@ -664,6 +664,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-diagram.pw.toml"
+hash = "e78f160c29491e553ef3e34f180dc799ef0df0b4af5cd5d985f329dcd713eb9d"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "8c13c49284e9c2f9007874916ab401799f66f5549779881ab2b9bcc57d450f13"
 metafile = true
