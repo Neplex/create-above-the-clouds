@@ -704,6 +704,11 @@ hash = "c84116da9c7b2c8ed05acce9803f9e5eb5858975ef72ba392bd29570c6344f55"
 metafile = true
 
 [[files]]
+file = "mods/create-smoke-stacks.pw.toml"
+hash = "8cc04584c3ba5d67c8aa88ab9a8a5b0feaa7ebe326946205b1b09015576fdbb0"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
