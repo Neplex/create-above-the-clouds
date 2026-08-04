@@ -17,6 +17,18 @@ file = "config/quark-common.toml"
 hash = "2b2422cad99584b029aec346748044dc39a28ea41b1b293583135d6da6bfe98d"
 
 [[files]]
+file = "config/sable_beyond/neoforge-compatibility.json"
+hash = "8ce429774e6a251cee3bf70a1177d8dd077ce21c2a9678e2e44e2b9a4201a6cc"
+
+[[files]]
+file = "config/sable_beyond/other.json"
+hash = "074aacf1d8baeb3f07bace85b0d9b17cb7f8b540da7fcbec847d473cdf55e8dc"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "3d184d4a56a441274bfd79c4c501e26477bc88806071578bcee2669c406395f3"
+
+[[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
 hash = "e815b161d763ff02c7db7eb8f1f19e73ab908720a2ca31274c89adba271eedf3"
 
@@ -1044,6 +1056,11 @@ hash = "eafd5e697346966c26bfde486b22d62e184764b56bdccada9a944086ab0f98e1"
 metafile = true
 
 [[files]]
+file = "mods/sable-chunk-guard.pw.toml"
+hash = "9b61a9e8a7354f506313af2d456a6285eeb6c8cc8ae2d79d0b693a9163904d78"
+metafile = true
+
+[[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
 hash = "db5ecf915997147c3811e1118f0b31535c92e96fd92b84b4bae574f17089c142"
 metafile = true
@@ -1051,6 +1068,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/sable_beyond.pw.toml"
+hash = "72817b94a481d4a023a4eb7a3007374a5682ae6ffccbf7dcb5142df2639bf553"
 metafile = true
 
 [[files]]
