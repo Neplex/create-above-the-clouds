@@ -69,14 +69,10 @@ ServerEvents.recipes((event) => {
     "createmetallurgy:coke",
     Ingredient.of("#c:dusts/carbon"),
   );
-  event.replaceInput(
-    {
-      type: "createmetallurgy:alloying",
-      output: Fluid.of("createmetallurgy:molten_steel"),
-    },
-    Fluid.of("createmetallurgy:molten_iron"),
-    "createbigcannons:molten_cast_iron",
-  );
+  event.remove({
+    type: "createmetallurgy:alloying",
+    output: Fluid.of("createmetallurgy:molten_steel"),
+  });
   event.remove({
     type: "create:compacting",
     output: "createbigcannons:cast_iron_ingot",
@@ -107,6 +103,27 @@ ServerEvents.recipes((event) => {
     results: [
       {
         id: "createbigcannons:molten_cast_iron",
+        amount: 270,
+      },
+    ],
+  });
+  event.custom({
+    type: "createmetallurgy:alloying",
+    heat_requirement: "heated",
+    ingredients: [
+      {
+        tag: "c:dusts/carbon",
+      },
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_cast_iron",
+        amount: 270,
+      },
+    ],
+    processing_time: 40,
+    results: [
+      {
+        id: "createbigcannons:molten_steel",
         amount: 270,
       },
     ],

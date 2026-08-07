@@ -53,8 +53,9 @@ ServerEvents.tags('item', event => {
     event.remove('overgeared:heated_metals', 'overgeared:heated_crude_steel')
     event.remove('overgeared:heated_metals', 'overgeared:heated_netherite_alloy')
     event.remove('overgeared:heated_metals', 'overgeared:heated_silver_ingot')
+})
 
-    // Molten metals
+ServerEvents.tags("fluid", (event) => {
     event.add('c:fluids/molten_bronze', 'createbigcannons:molten_bronze')
     event.add('c:fluids/molten_steel', 'createbigcannons:molten_steel')
     event.add('c:fluids/molten_cast_iron', 'createbigcannons:molten_cast_iron')
@@ -62,10 +63,29 @@ ServerEvents.tags('item', event => {
 
     event.add('c:fluids/molten_iron', 'createmetallurgy:molten_iron')
     event.add('c:fluids/molten_copper', 'createmetallurgy:molten_copper')
+    event.add('c:fluids/molten_brass', 'createmetallurgy:molten_brass')
     event.add('c:fluids/molten_bronze', 'createmetallurgy:molten_bronze')
     event.add('c:fluids/molten_steel', 'createmetallurgy:molten_steel')
     event.add('c:fluids/molten_gold', 'createbigcannons:molten_gold')
     event.add('c:fluids/molten_zinc', 'createmetallurgy:molten_zinc')
+
+    event.add('create:bottomless/deny', 'createbigcannons:molten_bronze');
+    event.add('create:bottomless/deny', 'createbigcannons:molten_steel');
+    event.add('create:bottomless/deny', 'createbigcannons:molten_cast_iron');
+    event.add('create:bottomless/deny', 'createbigcannons:molten_nethersteel');
+
+    event.add('createmetallurgy:molten_material', 'createbigcannons:molten_bronze');
+    event.add('createmetallurgy:molten_material', 'createbigcannons:molten_steel');
+    event.add('createmetallurgy:molten_material', 'createbigcannons:molten_cast_iron');
+    event.add('createmetallurgy:molten_material', 'createbigcannons:molten_nethersteel');
+
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_iron');
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_copper');
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_brass');
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_bronze');
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_steel');
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_gold');
+    event.add('createbigcannons:molten_metal', 'createmetallurgy:molten_zinc');
 })
 
 ServerEvents.recipes(event => {
@@ -103,6 +123,8 @@ ServerEvents.recipes(event => {
     event.replaceInput({input: Fluid.of('createbigcannons:molten_steel')}, Fluid.of('createbigcannons:molten_steel'), '#c:fluids/molten_steel')
     event.replaceInput({input: Fluid.of('createbigcannons:molten_cast_iron')}, Fluid.of('createbigcannons:molten_cast_iron'), '#c:fluids/molten_cast_iron')
     event.replaceInput({input: Fluid.of('createbigcannons:molten_nethersteel')}, Fluid.of('createbigcannons:molten_nethersteel'), '#c:fluids/molten_nethersteel')
+    event.replaceInput({input: Fluid.of('createmetallurgy:molten_bronze')}, Fluid.of('createbigcannons:molten_bronze'), '#c:fluids/molten_bronze')
+    event.replaceInput({input: Fluid.of('createmetallurgy:molten_steel')}, Fluid.of('createbigcannons:molten_steel'), '#c:fluids/molten_steel')
 
     // Replace outputs
     event.replaceOutput(
@@ -162,8 +184,8 @@ ServerEvents.recipes(event => {
     event.remove({input: 'createmetallurgy:tungsten_wire'})
 
     //  Remove old fluid recipes
-    event.remove({output: Fluid.of('createbigcannons:molten_bronze')})
-    event.remove({output: Fluid.of('createbigcannons:molten_steel')})
+    event.remove({output: Fluid.of('createmetallurgy:molten_bronze')})
+    event.remove({output: Fluid.of('createmetallurgy:molten_steel')})
     event.remove({output: Fluid.of('createmetallurgy:molten_tin')})
     event.remove({output: Fluid.of('createmetallurgy:molten_nickel')})
     event.remove({output: Fluid.of('createmetallurgy:molten_silver')})
@@ -227,8 +249,8 @@ RecipeViewerEvents.removeEntriesCompletely('item', event => {
     event.remove('createmetallurgy:tungsten_wire')
     event.remove('createmetallurgy:tungsten_wire_spool')
 
-    event.remove('createbigcannons:molten_bronze_bucket')
-    event.remove('createbigcannons:molten_steel_bucket')
+    event.remove('createmetallurgy:molten_bronze_bucket')
+    event.remove('createmetallurgy:molten_steel_bucket')
     event.remove('createmetallurgy:molten_tin_bucket')
     event.remove('createmetallurgy:molten_nickel_bucket')
     event.remove('createmetallurgy:molten_silver_bucket')
@@ -242,8 +264,8 @@ RecipeViewerEvents.removeEntriesCompletely('item', event => {
 })
 
 RecipeViewerEvents.removeEntriesCompletely('fluid', event => {
-    event.remove('createbigcannons:molten_bronze')
-    event.remove('createbigcannons:molten_steel')
+    event.remove('createmetallurgy:molten_bronze')
+    event.remove('createmetallurgy:molten_steel')
     event.remove('createmetallurgy:molten_tin')
     event.remove('createmetallurgy:molten_nickel')
     event.remove('createmetallurgy:molten_silver')
