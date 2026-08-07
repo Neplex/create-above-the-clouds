@@ -502,15 +502,19 @@ hash = "2176d38ec22ed118b9b909d3bfdfcb030a6b98a373f6834319f87197af5ae4fc"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "fe00b3a4a471f7b2504787ec73de6e6ec9e1c24376fab72523b903b629ac4688"
+hash = "1dd127b847e69e42bb5f2e83fab985cc1c898bcb8b9b8811a8b9c7417f43ebc2"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
 hash = "0c7b06c1f5c5c48a6a1c060a1eea440d5ab8f320c32898996b75d241d305d268"
 
 [[files]]
+file = "kubejs/server_scripts/smithing.js"
+hash = "20a993079a49f32ab59df9ea7d937cce10022022de55572117cd3676d045c152"
+
+[[files]]
 file = "kubejs/server_scripts/supplementaries.js"
-hash = "a9ce7d82e701cd4e8a1898a23b0b64191b60dcc0bdfb8e6ff004e8c87ec3dc86"
+hash = "038ed6db729862629b2c3b0eea71a089a0c42c57c592c987cefabadac7d57f73"
 
 [[files]]
 file = "kubejs/server_scripts/wires_and_springs.js"
@@ -693,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
+metafile = true
+
+[[files]]
+file = "mods/create-metallurgy.pw.toml"
+hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
 metafile = true
 
 [[files]]
@@ -998,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/overgeared.pw.toml"
+hash = "31478892964be9b260bc17df313f850569d5cf45a2746d1dd47f6f59930df9ab"
 metafile = true
 
 [[files]]

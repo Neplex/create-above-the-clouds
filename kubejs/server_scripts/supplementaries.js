@@ -10,6 +10,7 @@ ServerEvents.recipes(event => {
     event.replaceInput({output: 'create:rope_pulley'}, '#minecraft:wool', Ingredient.of('#c:ropes'))
 
     event.replaceInput({output: 'supplementaries:bomb'}, 'minecraft:tnt', 'createbigcannons:packed_guncotton')
+    event.replaceInput({output: 'supplementaries:bomb_spiky'}, 'minecraft:tnt', 'createbigcannons:packed_guncotton')
 
     // Replace output
     event.replaceOutput({output: 'supplementaries:rope'}, 'supplementaries:rope', 'farmersdelight:rope')
