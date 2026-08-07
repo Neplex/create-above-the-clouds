@@ -2,6 +2,9 @@ ServerEvents.tags("item", (event) => {
   event.add("c:dusts/carbon", "cgs:charcoal_dust");
   event.add("c:dusts/carbon", "petrochem:petroleum_coke");
   event.add("c:dusts/carbon", "createmetallurgy:coke");
+
+  event.remove("createmetallurgy:graphite_molds", "createmetallurgy:graphite_rod_mold");
+  event.remove("createmetallurgy:graphite_molds", "createmetallurgy:graphite_gear_mold");
 });
 
 ServerEvents.recipes((event) => {
@@ -323,6 +326,24 @@ ServerEvents.recipes((event) => {
     type: "create:compacting",
     output: "createbigcannons:nethersteel_block",
   });
+
+  // Uniformize molds
+  event.remove({ type: "createdieselgenerators:casting" });
+  event.remove({ output: "createdieselgenerators:mold" });
+  event.remove({ output: "createmetallurgy:graphite_rod_mold" });
+  event.remove({ output: "createmetallurgy:graphite_gear_mold" });
+  event.stonecutting(
+    Item.of("createdieselgenerators:mold[createdieselgenerators:mold_type='createdieselgenerators:bowl']"),
+    "#createmetallurgy:graphite_molds",
+  );
+  event.stonecutting(
+    Item.of("createdieselgenerators:mold[createdieselgenerators:mold_type='createdieselgenerators:lines']"),
+    "#createmetallurgy:graphite_molds",
+  );
+  event.stonecutting(
+    Item.of("createdieselgenerators:mold[createdieselgenerators:mold_type='createdieselgenerators:chain']"),
+    "#createmetallurgy:graphite_molds",
+  );
 });
 
 // Hide items from recipe viewers
@@ -338,4 +359,8 @@ RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
   event.remove("overgeared:casting_furnace");
 
   event.remove("createdieselgenerators:hammer");
+
+  event.remove("createdieselgenerators:mold[createdieselgenerators:mold_type='createdieselgenerators:bar']");
+  event.remove("createmetallurgy:graphite_rod_mold");
+  event.remove("createmetallurgy:graphite_gear_mold");
 });

@@ -24,6 +24,29 @@ ServerEvents.recipes(event => {
 
     // Remove the old recipes
     event.remove({output: 'farmersdelight:wheat_dough'})
+
+    // Cast chocolate bar
+    event.remove({ output: "create:bar_of_chocolate" });
+    event.custom({
+      type: "createmetallurgy:casting_in_table",
+      ingredients: [
+        {
+          type: "neoforge:single",
+          amount: 90,
+          fluid: "create:chocolate",
+        },
+        {
+          item: "createmetallurgy:graphite_ingot_mold",
+        },
+      ],
+      processing_time: 30,
+      result: {
+        item: {
+          count: 1,
+          id: "create:bar_of_chocolate",
+        },
+      },
+    });
 })
 
 // Hide items from recipe viewers
