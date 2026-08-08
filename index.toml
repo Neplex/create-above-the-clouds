@@ -501,6 +501,10 @@ file = "kubejs/server_scripts/food.js"
 hash = "b277999d75f2969929e467c8b7f76a2ead430edc20ae2ae7a37b9a2c6aeb4cae"
 
 [[files]]
+file = "kubejs/server_scripts/get_creative.js"
+hash = "a249a0bb32c9a076e193cab8ab5b5182e6faf4a5acc26d7185533d981e246149"
+
+[[files]]
 file = "kubejs/server_scripts/metal.js"
 hash = "dd6f026e69ffa66545aeb34c556ee3e6981e7f19cb206c5d78a528753ac9fb4b"
 
@@ -852,6 +856,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/get-creative.pw.toml"
+hash = "78a553d89765d88febbb1dec6e1c6e13fa8eb90486e66012e854f2461d85b400"
 metafile = true
 
 [[files]]
