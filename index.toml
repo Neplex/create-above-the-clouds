@@ -506,7 +506,7 @@ hash = "a249a0bb32c9a076e193cab8ab5b5182e6faf4a5acc26d7185533d981e246149"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "dd6f026e69ffa66545aeb34c556ee3e6981e7f19cb206c5d78a528753ac9fb4b"
+hash = "514eb58a86275b52a0c25447f7092f399995ddc8b57416eff84f1dc19d9523e1"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
