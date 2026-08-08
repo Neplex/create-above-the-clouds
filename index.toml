@@ -78,7 +78,7 @@ hash = "40b2d4dec0624dfd32e8f86a970a7c5b9b588f7a7013c30474cc07c3689d94ea"
 
 [[files]]
 file = "kubejs/data/integrated_stronghold/tags/worldgen/biome/has_structure/integrated_stronghold.json"
-hash = "1859095e777ee9f065a1b92b6679be2255b4c808673e0c67d633e8f33fe6aac9"
+hash = "fb8a348ae8bcb4ea381c01392527c1c39eddee1ad853293aeb2b3a4d1820c4fa"
 
 [[files]]
 file = "kubejs/data/integrated_stronghold/worldgen/processor_list/armory_processor.json"
@@ -546,12 +546,17 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/async-locator-refined.pw.toml"
+hash = "4652f7122f9fcd06f61f40a5c299d5316fde47cdbb23e8120c339f8b80a5ab27"
 metafile = true
 
 [[files]]
@@ -1201,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]

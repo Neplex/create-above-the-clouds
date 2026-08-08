@@ -1,3 +1,4 @@
 {
-  "values": ["#minecraft:is_nether"]
+  "replace": true,
+  "values": ["#minecraft:has_structure/stronghold"]
 }
