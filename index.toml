@@ -530,6 +530,11 @@ hash = "624c639ef3d79f0f4dbdc06ef0a3ec67aea295845368a172dca5c47f743c5596"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-preflight-checklist.pw.toml"
+hash = "ffee3c72b78ce8af3ef7a50e0ee4dd080edc1905c79b98bcd207e40324dffeb2"
+metafile = true
+
+[[files]]
 file = "mods/aerowear.pw.toml"
 hash = "a0b366eb0b182b4017ff3f7e99fe23012fad12b48986e79ce7a105275e29593e"
 metafile = true
