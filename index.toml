@@ -290,11 +290,11 @@ hash = "ae7891c4bf3a1e05106a498322a193094a59ad7fe4ade9e1431d13b9fd0a39bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
-hash = "fce0a83a8282baab2f0756294242b53338f4422e3537df251e18f728e205d08b"
+hash = "86eb6487601e957a567eb3dddf3c2715d0ccc68f67c518f62edf16d1c5330cba"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json"
-hash = "867a0a5f753883484a807a89e6055d67e53c58d421a75192d934dfa2056f11c6"
+hash = "4a01b8a9a72cc846d0a8f9cfb3bd8d87e0d8fd23e06ea71d7daced1f13bf3402"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json"
@@ -310,11 +310,11 @@ hash = "e3c8585ecb81fc62598ba36ed2675731f50c5e7a609859974bdda44afb0f94b2"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/stronghold.json"
-hash = "7477e53d6d2378c4ee17792c83e5816c919766b5e670b42ac922a0518599ec1c"
+hash = "d677351b0314cdb9202421d403ee8452acfc53daae9bb6ab515457a68744a7d9"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json"
-hash = "59de5b6c0f13a58d4a7923890b84579150f33e4ef1087a91520ee9f7eb407a02"
+hash = "d364cb02f2f7c9d3b150697f34729cd4be351ccb8ba93a03752ad237059e5cfc"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/is_nether.json"

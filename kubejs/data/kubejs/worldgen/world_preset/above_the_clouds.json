@@ -8,16 +8,19 @@
           "terrain": {
             "island_density": 0.4,
             "min_island_radius": 24,
-            "max_island_radius": 75,
+            "max_island_radius": 100,
             "min_island_y": 20,
             "max_island_y": 170,
             "max_island_thickness_blocks": 140,
-            "low_band_weight": 0.15,
-            "mid_high_band_weight": 0.75,
-            "very_high_band_weight": 0.1,
+            "low_band_weight": 0.4,
+            "mid_high_band_weight": 0.6,
+            "very_high_band_weight": 0.2,
             "low_band_center_offset": -18,
             "very_high_band_center_offset": 12,
-            "cluster_spacing": 96,
+            "cluster_spacing_mode": "dynamic",
+            "cluster_spacing": 100,
+            "min_cluster_spacing": 100,
+            "max_cluster_spacing": 200,
             "terrain_relief_scale": 1.0,
             "archetypes": {
               "classic_enabled": true,
@@ -66,6 +69,7 @@
           "advanced": {
             "default_near_miss_fallback_enabled": false,
             "ocean_block_type": "water",
+            "terrain_overlap_mode": "overlap",
             "structure_whitelist": [],
             "structure_denylist": [],
             "structure_category_overrides": []
