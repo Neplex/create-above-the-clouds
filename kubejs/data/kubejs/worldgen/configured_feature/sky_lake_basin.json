@@ -11,10 +11,33 @@
       }
     },
     "barrier": {
-      "type": "minecraft:simple_state_provider",
-      "state": {
-        "Name": "minecraft:mud"
-      }
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "minecraft:mud"
+          },
+          "weight": 2
+        },
+        {
+          "data": {
+            "Name": "minecraft:dirt"
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "minecraft:clay"
+          },
+          "weight": 1
+        },
+        {
+          "data": {
+            "Name": "minecraft:gravel"
+          },
+          "weight": 1
+        }
+      ]
     }
   }
 }

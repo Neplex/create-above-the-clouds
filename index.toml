@@ -226,11 +226,11 @@ hash = "79bd2a5fd96b5d54a08f0868a5b73bf6472c2a4271975da68a76ef0e6f6b1049"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_basin.json"
-hash = "28a5560111647c2e72dbbcf287e1636b759f4813ee3a64e37ef136979bc51092"
+hash = "cdb44fcdbd3dc7920cf474726f4c8e9fa68681e35ad286347ba224317241f82b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_vegetation.json"
-hash = "f37adc455b23703ca442dde2c32546015b87a31a074e87b224d3eafed591529f"
+hash = "ffef761595e6feccfaf1e9d3d8d67e7703ae34aefe879efed42399236da7b395"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/surface.json"
