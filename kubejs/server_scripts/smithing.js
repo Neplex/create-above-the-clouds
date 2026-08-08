@@ -361,6 +361,28 @@ ServerEvents.recipes((event) => {
     Item.of("createdieselgenerators:mold[createdieselgenerators:mold_type='createdieselgenerators:chain']"),
     "#createmetallurgy:graphite_molds",
   );
+
+  // Casing recipes
+  event.custom({
+    type: "createmetallurgy:casting_in_basin",
+    processing_time: 70,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createmetallurgy:molten_zinc",
+        amount: 90,
+      },
+      {
+        item: "create:andesite_casing",
+      }
+    ],
+    result: {
+      item: {
+        id: "powergrid:conductive_casing",
+        count: 1,
+      },
+    },
+  });
 });
 
 // Hide items from recipe viewers

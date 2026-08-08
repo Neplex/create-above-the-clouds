@@ -510,7 +510,7 @@ hash = "6ca649b272ac01d680a75fd87f81145c4610b9d159ba49af42eaf5ec2340142c"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
-hash = "0dfa0d3032cf855c4df133f4f6c3d47c9df461e7527261650a62f39f8f701842"
+hash = "d68fb758a8648697b36562b92aeb9888104ad7a1edb14928e5fcf40160eeb666"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
