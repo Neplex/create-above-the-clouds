@@ -251,6 +251,85 @@ ServerEvents.recipes((event) => {
     },
   });
 
+  // Steel casting
+  event.custom({
+    type: "createmetallurgy:casting_in_basin",
+    processing_time: 480,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_steel",
+        amount: 810,
+      },
+    ],
+    result: {
+      item: {
+        id: "createbigcannons:steel_block",
+        count: 1,
+      },
+    },
+  });
+  event.custom({
+    type: "createmetallurgy:casting_in_table",
+    processing_time: 60,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_steel",
+        amount: 90,
+      },
+      {
+        item: "createmetallurgy:graphite_ingot_mold",
+      },
+    ],
+    result: {
+      item: {
+        id: "overgeared:steel_ingot",
+        count: 1,
+      },
+    },
+  });
+  event.custom({
+    type: "createmetallurgy:casting_in_table",
+    processing_time: 6,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_steel",
+        amount: 10,
+      },
+      {
+        item: "createmetallurgy:graphite_nugget_mold",
+      },
+    ],
+    result: {
+      item: {
+        id: "overgeared:steel_nugget",
+        count: 1,
+      },
+    },
+  });
+  event.custom({
+    type: "createmetallurgy:casting_in_table",
+    processing_time: 6,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_steel",
+        amount: 90,
+      },
+      {
+        item: "createmetallurgy:graphite_plate_mold",
+      },
+    ],
+    result: {
+      item: {
+        id: "overgeared:steel_plate",
+        count: 1,
+      },
+    },
+  });
+
   // Nethersteel casting
   event.custom({
     type: "createmetallurgy:casting_in_basin",
@@ -310,7 +389,90 @@ ServerEvents.recipes((event) => {
     },
   });
 
+  // Bronze casting
+  event.custom({
+    type: "createmetallurgy:casting_in_basin",
+    processing_time: 480,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_bronze",
+        amount: 810,
+      },
+    ],
+    result: {
+      item: {
+        id: "createbigcannons:bronze_block",
+        count: 1,
+      },
+    },
+  });
+  event.custom({
+    type: "createmetallurgy:casting_in_table",
+    processing_time: 60,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_bronze",
+        amount: 90,
+      },
+      {
+        item: "createmetallurgy:graphite_ingot_mold",
+      },
+    ],
+    result: {
+      item: {
+        id: "createbigcannons:bronze_ingot",
+        count: 1,
+      },
+    },
+  });
+  event.custom({
+    type: "createmetallurgy:casting_in_table",
+    processing_time: 6,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_bronze",
+        amount: 10,
+      },
+      {
+        item: "createmetallurgy:graphite_nugget_mold",
+      },
+    ],
+    result: {
+      item: {
+        id: "createbigcannons:bronze_scrap",
+        count: 1,
+      },
+    },
+  });
+  event.custom({
+    type: "createmetallurgy:casting_in_table",
+    processing_time: 6,
+    ingredients: [
+      {
+        type: "neoforge:single",
+        fluid: "createbigcannons:molten_bronze",
+        amount: 90,
+      },
+      {
+        item: "createmetallurgy:graphite_plate_mold",
+      },
+    ],
+    result: {
+      item: {
+        id: "petrochem:bronze_sheet",
+        count: 1,
+      },
+    },
+  });
+
   // Remove packing recipes
+  event.remove({
+    type: "create:compacting",
+    output: "createbigcannons:bronze_nugget",
+  });
   event.remove({
     type: "create:compacting",
     output: "createbigcannons:bronze_ingot",
@@ -329,11 +491,19 @@ ServerEvents.recipes((event) => {
   });
   event.remove({
     type: "create:compacting",
+    output: "createbigcannons:cast_iron_nugget",
+  });
+  event.remove({
+    type: "create:compacting",
     output: "createbigcannons:cast_iron_ingot",
   });
   event.remove({
     type: "create:compacting",
     output: "createbigcannons:cast_iron_block",
+  });
+  event.remove({
+    type: "create:compacting",
+    output: "createbigcannons:nethersteel_nugget",
   });
   event.remove({
     type: "create:compacting",

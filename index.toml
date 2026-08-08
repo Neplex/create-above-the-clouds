@@ -502,7 +502,7 @@ hash = "b277999d75f2969929e467c8b7f76a2ead430edc20ae2ae7a37b9a2c6aeb4cae"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "925049a436b3e6fdfeb051abc1cb7a44d0a1f01f8a20ac170db2e1fa2f281c74"
+hash = "dd6f026e69ffa66545aeb34c556ee3e6981e7f19cb206c5d78a528753ac9fb4b"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
@@ -510,7 +510,7 @@ hash = "6ca649b272ac01d680a75fd87f81145c4610b9d159ba49af42eaf5ec2340142c"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
-hash = "d68fb758a8648697b36562b92aeb9888104ad7a1edb14928e5fcf40160eeb666"
+hash = "6879ece97418aebcb8df084cb57a20387d1c6082bb7bbcb263a58e8d1d32ba96"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"

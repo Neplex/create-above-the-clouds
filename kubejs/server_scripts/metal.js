@@ -126,7 +126,7 @@ ServerEvents.recipes(event => {
     event.replaceInput({input: Fluid.of('createmetallurgy:molten_bronze')}, Fluid.of('createbigcannons:molten_bronze'), '#c:fluids/molten_bronze')
     event.replaceInput({input: Fluid.of('createmetallurgy:molten_steel')}, Fluid.of('createbigcannons:molten_steel'), '#c:fluids/molten_steel')
 
-    // Replace outputs
+    // Replace outputsr
     event.replaceOutput(
       { output: "create:iron_sheet"},
       "create:iron_sheet",
@@ -184,17 +184,29 @@ ServerEvents.recipes(event => {
     event.remove({input: 'createmetallurgy:tungsten_wire'})
 
     //  Remove old fluid recipes
+    event.remove({input: Fluid.of('createmetallurgy:molten_bronze')})
     event.remove({output: Fluid.of('createmetallurgy:molten_bronze')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_steel')})
     event.remove({output: Fluid.of('createmetallurgy:molten_steel')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_tin')})
     event.remove({output: Fluid.of('createmetallurgy:molten_tin')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_nickel')})
     event.remove({output: Fluid.of('createmetallurgy:molten_nickel')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_silver')})
     event.remove({output: Fluid.of('createmetallurgy:molten_silver')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_aluminum')})
     event.remove({output: Fluid.of('createmetallurgy:molten_aluminum')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_osmium')})
     event.remove({output: Fluid.of('createmetallurgy:molten_osmium')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_lithium')})
     event.remove({output: Fluid.of('createmetallurgy:molten_lithium')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_invar')})
     event.remove({output: Fluid.of('createmetallurgy:molten_invar')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_constantan')})
     event.remove({output: Fluid.of('createmetallurgy:molten_constantan')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_electrum')})
     event.remove({output: Fluid.of('createmetallurgy:molten_electrum')})
+    event.remove({input: Fluid.of('createmetallurgy:molten_necromium')})
     event.remove({output: Fluid.of('createmetallurgy:molten_necromium')})
 
     // Remove buckets
