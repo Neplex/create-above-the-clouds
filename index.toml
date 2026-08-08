@@ -1165,6 +1165,11 @@ hash = "ca0b605b650a6c7fc1dcdb5ec28b4351c34de63f07ca0f83fba047d682e58183"
 metafile = true
 
 [[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "c170c3dd60f365ba7976ae8c143799a9ca07c8651c0b4b39cf6a43f45628d437"
+metafile = true
+
+[[files]]
 file = "mods/worldgenfeaturefix.pw.toml"
 hash = "ae20a99243ee4fdf165521727d0798732610755795133b111dcb0cd26c631536"
 metafile = true
