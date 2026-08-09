@@ -882,6 +882,11 @@ hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
 metafile = true
 
 [[files]]
+file = "mods/fowlplay.pw.toml"
+hash = "549e72a053da13a50404bd0901b75ce25c6045e778d5a89afcf58e9b5e1945f5"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
@@ -1088,7 +1093,7 @@ metafile = true
 
 [[files]]
 file = "mods/ragdoll-revive.pw.toml"
-hash = "2ceefdd51a88bf8f24715698fe647919cd8c8720052f39e4346090abb93b014d"
+hash = "8ad0a5883fb5874aad6b2b44ef2a8fcad230dcf372f65d5cda1edf665be1e9fc"
 metafile = true
 
 [[files]]
@@ -1169,6 +1174,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]

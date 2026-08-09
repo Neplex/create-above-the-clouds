@@ -1,6 +1,6 @@
 name = "Ragdoll Revive"
 filename = "ragdoll_revive-1.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6GKoZCVC/versions/ge2ASciU/ragdoll_revive-1.5.jar"
