@@ -1,0 +1,13 @@
+name = "Ragdoll Revive"
+filename = "ragdoll_revive-1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6GKoZCVC/versions/ge2ASciU/ragdoll_revive-1.5.jar"
+hash-format = "sha512"
+hash = "7e37fab158d71149d512855d132f5fcb4936786bd7d22f20631c2decb9f5609a35544138606d3da6da4ed8ad577f826d70f36956f45be3260286e9fa99961633"
+
+[update]
+[update.modrinth]
+mod-id = "6GKoZCVC"
+version = "ge2ASciU"

@@ -902,21 +902,6 @@ hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-and-sable-compatibility-patch.pw.toml"
-hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "a90b481b3ce142ec1c515e7f7f1a5ca3a2b9445a0e38222428ff86e8751d02d9"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "3843e6f8c47a3a62759c64a92d33e1527674581f7f7739378b3503ac4864dfc7"
 metafile = true
@@ -1097,6 +1082,16 @@ hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
 
 [[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
+metafile = true
+
+[[files]]
+file = "mods/ragdoll-revive.pw.toml"
+hash = "2ceefdd51a88bf8f24715698fe647919cd8c8720052f39e4346090abb93b014d"
+metafile = true
+
+[[files]]
 file = "mods/realm-rpg-fallen-adventurers.pw.toml"
 hash = "e3dc2d295b421fd9e51608c84c1172dd794c94fb03fdcc85aa173257e4535728"
 metafile = true
@@ -1124,6 +1119,16 @@ metafile = true
 [[files]]
 file = "mods/sable-chunk-guard.pw.toml"
 hash = "9b61a9e8a7354f506313af2d456a6285eeb6c8cc8ae2d79d0b693a9163904d78"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdoll-corpse.pw.toml"
+hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
