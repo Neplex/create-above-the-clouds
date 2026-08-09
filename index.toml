@@ -33,6 +33,10 @@ file = "config/supplementaries-common.toml"
 hash = "58f715989f9c15fb3fc0d0dcc9b844e0b7f8afc77570c9660ff5bf46a23332c3"
 
 [[files]]
+file = "config/thick_air-common.toml"
+hash = "e049ab8ffda32c94ebcf6242458e693d6170a7b54af4a6eaa9f4388de4f46342"
+
+[[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
 hash = "e815b161d763ff02c7db7eb8f1f19e73ab908720a2ca31274c89adba271eedf3"
 
@@ -549,6 +553,10 @@ file = "kubejs/server_scripts/supplementaries.js"
 hash = "f7e5c7201aa4d77f686889e4d8952c74f40147640ca7d26423dd71c1626a326d"
 
 [[files]]
+file = "kubejs/server_scripts/thick_air.js"
+hash = "6c7d9e11c4bfe0025eeee2f1304ea0cc52bbbc93890cf4f8b3265d839f8ea0e8"
+
+[[files]]
 file = "kubejs/server_scripts/wires_and_springs.js"
 hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
@@ -729,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-backtank.pw.toml"
+hash = "4411918373464df9c30ab1b16394e88add2ca3db98d0b7e7ab5e2de88b740fa1"
 metafile = true
 
 [[files]]
@@ -1214,6 +1227,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "dca0f7bb1835c26fe31b7942b99783d8340bd52a23d9fecef7a2c6ceb89fae5d"
+metafile = true
+
+[[files]]
+file = "mods/thick-air.pw.toml"
+hash = "408665374667fb701ab880ed3ba4c24ea7439b9262220784df9236346b5c6cb7"
 metafile = true
 
 [[files]]
