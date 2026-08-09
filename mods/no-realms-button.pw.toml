@@ -1,0 +1,13 @@
+name = "No Realms Button"
+filename = "norealmsbutton-3.0.4+1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/65K76rSJ/norealmsbutton-3.0.4%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "4199837a56d979b6faf032ba2cb07450adf9df97b885e7fba823d7efb35425d0683a40755b4490149312ea7882d5f5107273517dd9c00899d869b3935355dfb1"
+
+[update]
+[update.modrinth]
+mod-id = "AMMUyCdF"
+version = "65K76rSJ"

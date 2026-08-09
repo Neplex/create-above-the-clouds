@@ -1042,6 +1042,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/no-realms-button.pw.toml"
+hash = "51f62fe1464df2df1f8cd5acc9aaefa75b8641e15f577e49a3b87e1c117a3bed"
+metafile = true
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
