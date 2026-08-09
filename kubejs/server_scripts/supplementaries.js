@@ -12,15 +12,24 @@ ServerEvents.recipes(event => {
     event.replaceInput({output: 'supplementaries:bomb'}, 'minecraft:tnt', 'createbigcannons:packed_guncotton')
     event.replaceInput({output: 'supplementaries:bomb_spiky'}, 'minecraft:tnt', 'createbigcannons:packed_guncotton')
 
-    // Replace output
-    event.replaceOutput({output: 'supplementaries:rope'}, 'supplementaries:rope', 'farmersdelight:rope')
-
     // Remove recipes
+    event.remove({output: 'supplementaries:rope'})
     event.remove({output: 'supplementaries:turn_table'})
     event.remove({output: 'supplementaries:pulley_block'})
     event.remove({output: 'supplementaries:spring_launcher'})
     event.remove({output: 'supplementaries:cannon'})
     event.remove({output: 'create:schematicannon'})
+
+    event.shaped(
+        'farmersdelight:rope',
+        [
+            'A',
+            'A'
+        ],
+        {
+            A: 'supplementaries:flax',
+        }
+    )
 
     event.shaped(
         'supplementaries:spring_launcher',

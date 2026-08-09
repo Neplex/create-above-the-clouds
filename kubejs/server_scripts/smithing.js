@@ -163,7 +163,7 @@ ServerEvents.recipes((event) => {
   });
   event.remove({
     type: "createmetallurgy:alloying",
-    output: "createmetallurgy:molten_bronze",
+    output: Fluid.of("createmetallurgy:molten_bronze"),
   });
   event.custom({
     type: "createmetallurgy:alloying",
@@ -471,7 +471,7 @@ ServerEvents.recipes((event) => {
   // Remove packing recipes
   event.remove({
     type: "create:compacting",
-    output: "createbigcannons:bronze_nugget",
+    output: "createbigcannons:bronze_scrap",
   });
   event.remove({
     type: "create:compacting",

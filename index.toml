@@ -29,6 +29,10 @@ file = "config/supplementaries-client.toml"
 hash = "3d184d4a56a441274bfd79c4c501e26477bc88806071578bcee2669c406395f3"
 
 [[files]]
+file = "config/supplementaries-common.toml"
+hash = "58f715989f9c15fb3fc0d0dcc9b844e0b7f8afc77570c9660ff5bf46a23332c3"
+
+[[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
 hash = "e815b161d763ff02c7db7eb8f1f19e73ab908720a2ca31274c89adba271eedf3"
 
@@ -494,7 +498,7 @@ hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "53876a05ceec30a9a5cfc058f058c7e878d70ff4ef38c5982284db4b15fe1820"
+hash = "02fddffeb8f5f3e39c90e75555e28b20dab4f8396f43127fda690ceea00bff1d"
 
 [[files]]
 file = "kubejs/server_scripts/food.js"
@@ -505,24 +509,44 @@ file = "kubejs/server_scripts/get_creative.js"
 hash = "a249a0bb32c9a076e193cab8ab5b5182e6faf4a5acc26d7185533d981e246149"
 
 [[files]]
+file = "kubejs/server_scripts/guns.js"
+hash = "6ca7d77da37d89c1f5b9cbc27afabc8f247a5b2bb9f9352319933f9205432e9a"
+
+[[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "514eb58a86275b52a0c25447f7092f399995ddc8b57416eff84f1dc19d9523e1"
+hash = "9afd8546752426d814cf30a0027c80fce6c52fe78d1c93b9ba91430c20aae022"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
-hash = "6ca649b272ac01d680a75fd87f81145c4610b9d159ba49af42eaf5ec2340142c"
+hash = "d473d08b746b66ae14a3e5c6fbd3159821b361aee49be1683e9e6cedc0afe03a"
+
+[[files]]
+file = "kubejs/server_scripts/powergrid.js"
+hash = "e72484fdf5a14df1c9578924166231765d22662ea82ebb2ead88636319c51a8e"
+
+[[files]]
+file = "kubejs/server_scripts/quark.js"
+hash = "716c41b7378b76e444719c48b5defea2046146bb02f30164d1eccef4cc80a064"
 
 [[files]]
 file = "kubejs/server_scripts/rubber.js"
 hash = "508510af268f296acaea2d3b56260a3c2f378c738fc503b1bf9b44b1bb93635e"
 
 [[files]]
+file = "kubejs/server_scripts/sable.js"
+hash = "7ad12d216c563747ff6ce083859a9e2963fb7f57e891e4cd2f1d905f3f7df088"
+
+[[files]]
 file = "kubejs/server_scripts/smithing.js"
-hash = "6879ece97418aebcb8df084cb57a20387d1c6082bb7bbcb263a58e8d1d32ba96"
+hash = "adf9f50b32055f5280a1de6813a94ec13aa3089b9ad7d64d7f4a229b39aba68c"
+
+[[files]]
+file = "kubejs/server_scripts/soap.js"
+hash = "5f15788e28355c46748881df6152c6c076d30ed8230dda0e991d2ff6d137ad86"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
-hash = "038ed6db729862629b2c3b0eea71a089a0c42c57c592c987cefabadac7d57f73"
+hash = "f7e5c7201aa4d77f686889e4d8952c74f40147640ca7d26423dd71c1626a326d"
 
 [[files]]
 file = "kubejs/server_scripts/wires_and_springs.js"

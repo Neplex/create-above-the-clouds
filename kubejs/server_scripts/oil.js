@@ -66,14 +66,14 @@ ServerEvents.recipes((event) => {
   event.remove({ output: "petrochem:pumpjack_well" });
   event.remove({ output: "petrochem:small_engine" });
   event.remove({ output: "petrochem:medium_engine" });
-  event.remove({ output: "petrochem:petroleum" });
+  event.remove({ output: Fluid.of("petrochem:petroleum") });
   event.remove({ output: "petrochem:petroleum_bucket" });
-  event.remove({ output: "petrochem:desalted_oil" });
+  event.remove({ output: Fluid.of("petrochem:desalted_oil") });
   event.remove({ output: "petrochem:desalted_oil_bucket" });
   event.remove({ output: Fluid.of("petrochem:steam") });
-  event.remove({ output: "createdieselgenerators:diesel" });
+  event.remove({ output: Fluid.of("createdieselgenerators:diesel") });
   event.remove({ output: "createdieselgenerators:diesel_bucket" });
-  event.remove({ output: "createdieselgenerators:gasoline" });
+  event.remove({ output: Fluid.of("createdieselgenerators:gasoline") });
   event.remove({ output: "createdieselgenerators:gasoline_bucket" });
   event.remove({ output: "createdieselgenerators:distillation_controller" });
 

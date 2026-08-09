@@ -167,7 +167,6 @@ ServerEvents.recipes(event => {
   event.remove({output: 'create:copper_sheet'})
   event.remove({output: 'createbigcannons:steel_scrap'})
   event.remove({output: 'createbigcannons:steel_ingot'})
-  event.remove({output: 'createbigcannons:steel_plate'})
   event.remove({output: 'cgs:steel_nugget'})
   event.remove({output: 'cgs:steel_ingot'})
   event.remove({output: 'cgs:steel_block'})
