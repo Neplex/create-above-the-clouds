@@ -25,6 +25,10 @@ file = "config/sable_beyond/other.json"
 hash = "074aacf1d8baeb3f07bace85b0d9b17cb7f8b540da7fcbec847d473cdf55e8dc"
 
 [[files]]
+file = "config/simpleradio-server.toml"
+hash = "b395a031f9ef61c70b3e8bd26e450daeea792b5e5dcb70464f907ab3c9c89f01"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "3d184d4a56a441274bfd79c4c501e26477bc88806071578bcee2669c406395f3"
 
@@ -35,6 +39,10 @@ hash = "58f715989f9c15fb3fc0d0dcc9b844e0b7f8afc77570c9660ff5bf46a23332c3"
 [[files]]
 file = "config/thick_air-common.toml"
 hash = "e049ab8ffda32c94ebcf6242458e693d6170a7b54af4a6eaa9f4388de4f46342"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "2bbca51727771d5048fb1fbc13d955648dc19a8ebb8f0a3c60fedc39a22967d2"
 
 [[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
@@ -778,7 +786,7 @@ hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/server_scripts/wood.js"
-hash = "377419a2da890a66dd3ba5a15ba4da25dcae9c2fd0e4a044e8527cf16344d287"
+hash = "be0030be8e2d769eb786e190eb6721f8cb8f69300ff239c1e1b455d2fcd1881d"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
@@ -1225,6 +1233,11 @@ hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "9d979373cbe241f781d50fcf9e41bb84576760bbe050d9d8a89f451e0ff7a615"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -1402,6 +1415,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "5cac8f28b628730c4281d5a989b17314186b9099bc96e7b1637d05970db6e7ef"
 metafile = true
 
 [[files]]

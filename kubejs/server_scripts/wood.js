@@ -7,11 +7,12 @@ ServerEvents.recipes((event) => {
   event.remove({ output: /crimson/ });
   event.remove({ output: /quark:hollow/ });
 
-  event.recipes.createCrushing(
+  event.recipes.create.crushing(
     [
       "10x createdieselgenerators:wood_chip",
+      CreateItem.of("2x createdieselgenerators:wood_chip", 0.5),
     ],
-    "#quark:hollow_logs",
+    Ingredient.of("#quark:hollow_logs"),
   );
 });
 
