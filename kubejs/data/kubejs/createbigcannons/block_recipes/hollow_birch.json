@@ -1,0 +1,8 @@
+{
+  "type": "createbigcannons:drill_boring",
+  "input": {
+    "type": "block",
+    "block": "minecraft:birch_log"
+  },
+  "result": "quark:hollow_birch_log"
+}

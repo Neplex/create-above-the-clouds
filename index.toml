@@ -69,6 +69,134 @@ file = "kubejs/data/create/worldgen/placed_feature/zinc_ore.json"
 hash = "eea06d1ed9f45ec1bfb9fd4b944a0a225616518a5860d6fd516dc5125f0ba37e"
 
 [[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/built_up_steel_cannon_barrel.json"
+hash = "bef423132c5885dd8de48f5ef71a22dded2fd844207adf52fc86737a3c848b8f"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/built_up_steel_cannon_chamber.json"
+hash = "7d85ed901313fc4c302d1f44d13aca0f3c621967398d38ee66808e72bc2347c1"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_autocannon_breech.json"
+hash = "456733e2cdde8c07f587fde70ddd551ccaa940ffbbba320adfbe0a00608d285d"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_autocannon_recoil_spring.json"
+hash = "042d96f87276224e127f55b513d663208917d02dfbbd05a46535e7e781a06f24"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_screw_breech.json"
+hash = "59d9772a13e5793b9194a0c2bd6eaf2618c53c6c88a2a5da55de31ce2f5a331a"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/incomplete_steel_sliding_breech.json"
+hash = "88fce3d07e599e3da9395b4e07b93c3f87442b139f2a957905b14582d5dd58be"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/large_steel_cannon_layer.json"
+hash = "f525fa54a1037889c6582acbd7f8a9874a4c227fe5929a3ba6aea1405b242d26"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/medium_steel_cannon_layer.json"
+hash = "ae458bd09d952fcabab808dd8241a3aa9e2ed76dc2a5203062646e2b45f4c5c5"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/small_steel_cannon_layer.json"
+hash = "5f70c709b4f389779351731521d5b98c1cf185c430a7284ba93ce32a34388f95"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/thick_steel_cannon_chamber.json"
+hash = "955ab19dfef7ad2cb01db47f12e8d7e6ed6d3adea51807786e18e3a388c1ecc8"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_large_steel_cannon_layer.json"
+hash = "4980148d84b2de90d9cdff5b878f1a420ff0656528a90a8f92db53f25bee4a71"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_medium_steel_cannon_layer.json"
+hash = "063192a27e030e15097b1ce295de66852be93637c70bfbdb608283ebde9dbb33"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_small_steel_cannon_layer.json"
+hash = "7a4ff45abb0e43e0d961194cd15a1de2f6793ab3d52f86c22d9716f981a2f52c"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_steel_autocannon_barrel.json"
+hash = "eb6525e8fef428626affff756dda08745cef191c0f5704b3aca1f5391720ce12"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_steel_autocannon_breech.json"
+hash = "1cec2afd65a527d3078eb3b9acbfb3fdb75d90539520fed3f8f224e5cb74372d"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_steel_autocannon_recoil_spring.json"
+hash = "677d7017edade3a67e80138467d4f455b7eb4ea1d0f265a2830b6d4507899538"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_steel_screw_breech.json"
+hash = "f4af4ce66eb7abb7bb2c788f1d081431ae5d3ae7aba8fcbb65ca91060c949727"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_steel_sliding_breech.json"
+hash = "944f95924e0655d5cd1cf11081e054931c6e84eb26e2271d6495ce6844fc767f"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_very_large_steel_cannon_layer.json"
+hash = "f723679b1aec30bc2b27f038b1cc8248e490a26f1bfd68190b0780e0717b52d0"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/unbored_very_small_steel_cannon_layer.json"
+hash = "1b92fa943f68a5b3877538f57361d5bd4d024af511f863b465b1a7bc0e3d79db"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/very_large_steel_cannon_layer.json"
+hash = "4143e4425ebee70c124f3914efdfb09f265a30a306df738bf25fb1b13b939933"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/blocks/very_small_steel_cannon_layer.json"
+hash = "16babbe1bc11182c4d1a02ce0984fe7d76eee07208cb914755eea313a05fc30f"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_large_steel_cannon_layer.json"
+hash = "7cd0d9bf138bb7938a292daebda71ad0a575093be8d32baeb58beede7a740682"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_medium_steel_cannon_layer.json"
+hash = "f0c0b587bbcea754a8126d83ec0045b1760a82335d9c50b152e33fbc8e19a6f4"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_small_steel_cannon_layer.json"
+hash = "912d458c5e4ad099eaa03e27bcd8e2fc3821d6fea55a476ecc1cae8b5b5bcfbf"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_steel_autocannon_barrel.json"
+hash = "738c63fe14e8179070e4b9da669599b6092dde8c16b41ad49a8af5567fd40e89"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_steel_autocannon_breech.json"
+hash = "882ddc87246ff09a0ec9c57b9e2ba5c6bb7283a2d3f3c2b2af095767fc5ed758"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_steel_autocannon_recoil_spring.json"
+hash = "578e2cce5fab2d7aae70775beae32e9be213b351b6f0c6a0a55181e5ade6f858"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_steel_screw_breech.json"
+hash = "df2ce52847f99c4eb36bfed7c6d013f48221ddd7470e38f1c1a1936c49863955"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_steel_sliding_breech.json"
+hash = "d8593c351c0e0b0d1eabce1673608a381bd8f08bacc2f00764257735981b7e28"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_very_large_steel_cannon_layer.json"
+hash = "02d907566fa556b439d4e80fc0753c8ee9d17aaf5a84e1b917d318b89a083301"
+
+[[files]]
+file = "kubejs/data/createbigcannons/loot_table/boring_scrap/unbored_very_small_steel_cannon_layer.json"
+hash = "fd149ec3c7eadb6803286dddc0105a30f5a96a4a46c7f39a65fa92c1569065e2"
+
+[[files]]
 file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/fuel_oil.json"
 hash = "19cda4fa00e652baaa8ccd5f85f8e2a894005b9a6969bfed28a91f3cf91437cd"
 
@@ -167,6 +295,50 @@ hash = "6ebd3bb73d31398295515df26944887f35eece72eee1c5c11387b9db3b483b72"
 [[files]]
 file = "kubejs/data/integrated_stronghold/worldgen/structure/stronghold.json"
 hash = "96e8be32bd8d976769251490935c2611aca6dd3722c4fe07b5f17c91ceb5ddda"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_acacia.json"
+hash = "e865d576a6ef9b6a42bb64899fa04cc97ccff2ff0891bbf13d25f6b76eee0b1d"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_ancient.json"
+hash = "18bec9fc857a5026b9d64c87e1e4a29f14b593128e5ab0a7c1b5bc9bb37b6184"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_azalea.json"
+hash = "757e8f33588f1e50f7a06f7c9355825fd1f938ea181d420d4f98c2597a4ec39f"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_birch.json"
+hash = "80e5ccd290170226b9dd3899d955ddca6bf912d08a0aef59b2491e0532f5b6d0"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_blossom.json"
+hash = "386eeba4b7a1a9067fc1f41e2953a2cb13ac47d8cddb49db2a3d391ebc9409c4"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_cherry.json"
+hash = "701314e256bb5ed971c92d6bdcee5d2a2eaf2c4cd0bd02a466ecfb38571efd14"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_dark_oak.json"
+hash = "bad77de2703699189742f4738aa031bb30fb2b627b7b739e2474d053ee29c024"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_jungle.json"
+hash = "814dafbf5e560c1b921114ac799228a3dc17a0f46bb6c1d4f4e3e0a698ca6d55"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_mangrove.json"
+hash = "36f16f7ddc243d81948c32412d778fc9041749379402965129f34ce884ae51b8"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_oak.json"
+hash = "450c2abf60115bb5d39ebe31d5124520a25385686948a50e453217801d054a1b"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_spruce.json"
+hash = "5d96b6b2fadca89a8ba5eb9e0297076c30146816beae72691caaa58446ceda50"
 
 [[files]]
 file = "kubejs/data/kubejs/dimension_type/scorched_surface.json"
@@ -299,6 +471,38 @@ hash = "ae7891c4bf3a1e05106a498322a193094a59ad7fe4ade9e1431d13b9fd0a39bd"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
 hash = "86eb6487601e957a567eb3dddf3c2715d0ccc68f67c518f62edf16d1c5330cba"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/acacia_log.json"
+hash = "35a560a19f9e167eef28a6ef959f7bc2b4980252e8ef106c3019d1c2e85d4a79"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/birch_log.json"
+hash = "540ad28b4c3c1b32c924234a004ff4f5a181727179fc4783cae6e5f60c36f47d"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/cherry_log.json"
+hash = "f546df25539316376d0d15c5faa2c440e70c3777f8847d0cd1781c2cd2ab6821"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/dark_oak_log.json"
+hash = "c859725d33dfc18d46843e1f53854f5df5fce1f07bafa6aa61fdda3109689de0"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/jungle_log.json"
+hash = "539247a453b787ae2db1da9575f03f4ea476ac2be0963e2974fdb641e456b9ce"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/mangrove_log.json"
+hash = "57a9355c1e2d550a09cd1b9b943e71100f9ecd3bd17bff2343f576e4887709c7"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/oak_log.json"
+hash = "1ec8303e55a30d9bd0ffa8d5896c9c23c01d1c23196909d3d84eb3f04878560c"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/boring_scrap/spruce_log.json"
+hash = "9c2a2ddc1b32d1d4363ccb27e20358805acaddfc3a4ea1af295fb0d67114d2ba"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json"
@@ -497,6 +701,18 @@ file = "kubejs/data/minecraft/worldgen/template_pool/trial_chambers/entrance.jso
 hash = "c491c6fcb84b93f3a1c011b9c02f23dcbe31fcda73a2c39f2c3510bf6cfc578b"
 
 [[files]]
+file = "kubejs/data/quark/loot_table/boring_scrap/ancient_log.json"
+hash = "bdeb830f7cebefd54572aa6a9e8dbcfa25b240352c9ddaff75c27d62d0e9eb5a"
+
+[[files]]
+file = "kubejs/data/quark/loot_table/boring_scrap/azalea_log.json"
+hash = "e78178877b91fd9cfa248eff6a48bf9a489d0533298583a4478ce20be42f1a05"
+
+[[files]]
+file = "kubejs/data/quark/loot_table/boring_scrap/blossom_log.json"
+hash = "c47577afe35cfee1abaa21efce31445b0da539e22778b13ab459d0330a01635b"
+
+[[files]]
 file = "kubejs/pack.mcmeta"
 hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
@@ -559,6 +775,10 @@ hash = "6c7d9e11c4bfe0025eeee2f1304ea0cc52bbbc93890cf4f8b3265d839f8ea0e8"
 [[files]]
 file = "kubejs/server_scripts/wires_and_springs.js"
 hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
+
+[[files]]
+file = "kubejs/server_scripts/wood.js"
+hash = "377419a2da890a66dd3ba5a15ba4da25dcae9c2fd0e4a044e8527cf16344d287"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"

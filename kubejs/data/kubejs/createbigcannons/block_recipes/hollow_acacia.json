@@ -1,0 +1,8 @@
+{
+  "type": "createbigcannons:drill_boring",
+  "input": {
+    "type": "block",
+    "block": "minecraft:acacia_log"
+  },
+  "result": "quark:hollow_acacia_log"
+}

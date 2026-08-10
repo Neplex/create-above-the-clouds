@@ -1,0 +1,8 @@
+{
+  "type": "createbigcannons:drill_boring",
+  "input": {
+    "type": "block",
+    "block": "minecraft:spruce_log"
+  },
+  "result": "quark:hollow_spruce_log"
+}

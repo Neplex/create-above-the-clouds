@@ -1,0 +1,8 @@
+{
+  "type": "createbigcannons:drill_boring",
+  "input": {
+    "type": "block",
+    "block": "minecraft:jungle_log"
+  },
+  "result": "quark:hollow_jungle_log"
+}
