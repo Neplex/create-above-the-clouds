@@ -17,6 +17,10 @@ file = "config/quark-common.toml"
 hash = "2b2422cad99584b029aec346748044dc39a28ea41b1b293583135d6da6bfe98d"
 
 [[files]]
+file = "config/ragdoll_reactions-server.toml"
+hash = "ea34e1261ad201c2804ab9ee20460c9e5773e18dd2f9289635acca157de5f5f7"
+
+[[files]]
 file = "config/sable_beyond/neoforge-compatibility.json"
 hash = "8ce429774e6a251cee3bf70a1177d8dd077ce21c2a9678e2e44e2b9a4201a6cc"
 
@@ -745,6 +749,10 @@ file = "kubejs/server_scripts/metal.js"
 hash = "9afd8546752426d814cf30a0027c80fce6c52fe78d1c93b9ba91430c20aae022"
 
 [[files]]
+file = "kubejs/server_scripts/nomad.js"
+hash = "ee4af692fa50ce033cbdf3f86e21f706501cb92d12c4e38abf9225fc73f21ef3"
+
+[[files]]
 file = "kubejs/server_scripts/oil.js"
 hash = "d473d08b746b66ae14a3e5c6fbd3159821b361aee49be1683e9e6cedc0afe03a"
 
@@ -990,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
+metafile = true
+
+[[files]]
+file = "mods/create-grappling-hooks.pw.toml"
+hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
 metafile = true
 
 [[files]]
