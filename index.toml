@@ -353,6 +353,14 @@ file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_spruce.json"
 hash = "5d96b6b2fadca89a8ba5eb9e0297076c30146816beae72691caaa58446ceda50"
 
 [[files]]
+file = "kubejs/data/kubejs/dimension_physics/scorched_surface.json"
+hash = "7609d27383e9111e9a16d69f44f876f8b26578b0d4fd76ae849cf05377e4220b"
+
+[[files]]
+file = "kubejs/data/kubejs/dimension_physics/sky_islands.json"
+hash = "e6ab873117bdd1073aca92dd4b919df2ca9ac808fa3898e83963f3ad19aa6574"
+
+[[files]]
 file = "kubejs/data/kubejs/dimension_type/scorched_surface.json"
 hash = "afd26c067c85f51895db3b3d97d23fc66069367c9a0b9adaf316607a9f0f31cc"
 
@@ -770,7 +778,7 @@ hash = "508510af268f296acaea2d3b56260a3c2f378c738fc503b1bf9b44b1bb93635e"
 
 [[files]]
 file = "kubejs/server_scripts/sable.js"
-hash = "7ad12d216c563747ff6ce083859a9e2963fb7f57e891e4cd2f1d905f3f7df088"
+hash = "980d821e028986c6c2f3f7eec166d643b0770ceefd730245ea39c4e63ba623a4"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
@@ -1081,6 +1089,11 @@ hash = "6886c6cc7d4d43e2b9792af5c91fe381be0b33b1aea5f0decc465a5c17bc7004"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-sable.pw.toml"
+hash = "812514738797aef05b5e8e28a7059400b6728aeb66db5b68c73e5a94470c8123"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
@@ -1233,6 +1246,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/kubejsable.pw.toml"
+hash = "373056af412ff3db99051f70f9ffc723f9c97857da4c4494d8fa96fe8f681b32"
 metafile = true
 
 [[files]]
