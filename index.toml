@@ -733,6 +733,10 @@ file = "kubejs/server_scripts/create.js"
 hash = "02fddffeb8f5f3e39c90e75555e28b20dab4f8396f43127fda690ceea00bff1d"
 
 [[files]]
+file = "kubejs/server_scripts/dashpanels.js"
+hash = "85ca859fcdc13535c59d2c5411bbb9608b997b22312cc3d0c640f03dc2880bf8"
+
+[[files]]
 file = "kubejs/server_scripts/food.js"
 hash = "b277999d75f2969929e467c8b7f76a2ead430edc20ae2ae7a37b9a2c6aeb4cae"
 
@@ -782,7 +786,7 @@ hash = "5f15788e28355c46748881df6152c6c076d30ed8230dda0e991d2ff6d137ad86"
 
 [[files]]
 file = "kubejs/server_scripts/supplementaries.js"
-hash = "f7e5c7201aa4d77f686889e4d8952c74f40147640ca7d26423dd71c1626a326d"
+hash = "152f6600bff0edf450dbef774ef0a4d38be283f09ad1d2f5740aedc51a0db487"
 
 [[files]]
 file = "kubejs/server_scripts/thick_air.js"
@@ -1073,6 +1077,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels.pw.toml"
+hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
 metafile = true
 
 [[files]]
