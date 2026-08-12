@@ -49,6 +49,10 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "2bbca51727771d5048fb1fbc13d955648dc19a8ebb8f0a3c60fedc39a22967d2"
 
 [[files]]
+file = "kubejs/client_scripts/dashpanels.js"
+hash = "258e7aa026aa0b8d4f03a654072e47197e0ef2a728944e252eccd5ef788506f1"
+
+[[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
 hash = "e815b161d763ff02c7db7eb8f1f19e73ab908720a2ca31274c89adba271eedf3"
 
