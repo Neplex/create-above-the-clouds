@@ -42,7 +42,7 @@ hash = "58f715989f9c15fb3fc0d0dcc9b844e0b7f8afc77570c9660ff5bf46a23332c3"
 
 [[files]]
 file = "config/thick_air-common.toml"
-hash = "e049ab8ffda32c94ebcf6242458e693d6170a7b54af4a6eaa9f4388de4f46342"
+hash = "5ba754bf8daec906fd651d6f22d8b72f5ac74fe33c97a85dd8593050ce01afa6"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
