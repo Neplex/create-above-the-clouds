@@ -17,6 +17,14 @@ file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
 [[files]]
+file = "config/everycomp-common.toml"
+hash = "6917d47d3b066c364a4c09cf40cc9dd481ec954dce7b73744e8446dfffac7546"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+hash = "447a8c5c1abcb91d48e1f8673090b18bd086dfc68db65c60b4409dbf9a016698"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "2b2422cad99584b029aec346748044dc39a28ea41b1b293583135d6da6bfe98d"
 
@@ -75,6 +83,10 @@ hash = "aaa666b280968b68d11cee0429aa8b26d24521ab53dff69dd2889379c9c2ff05"
 [[files]]
 file = "kubejs/data/betterfortresses/worldgen/template_pool/bridge_terminators.json"
 hash = "e10939aa2200993296fce74aa8de718cc149846c63c133e9c7e0220abf68d12a"
+
+[[files]]
+file = "kubejs/data/burnt/loot_table/boring_scrap/burnt_log.json"
+hash = "caec7ee3b45c8f763dc6d68d752773cb3d22eadad997453b1f5bff82a8db43b1"
 
 [[files]]
 file = "kubejs/data/cgs/worldgen/placed_feature/lead_ore_placed.json"
@@ -233,6 +245,10 @@ file = "kubejs/data/createdieselgenerators/tags/worldgen/biome/oil_biome.json"
 hash = "40b2d4dec0624dfd32e8f86a970a7c5b9b588f7a7013c30474cc07c3689d94ea"
 
 [[files]]
+file = "kubejs/data/createpolymer/loot_table/boring_scrap/rubber_log.json"
+hash = "a1cb5043f9320135d704445fea7a123d4e9a85d46c2a8c8d40a32c0d82094f9d"
+
+[[files]]
 file = "kubejs/data/integrated_stronghold/tags/worldgen/biome/has_structure/integrated_stronghold.json"
 hash = "fb8a348ae8bcb4ea381c01392527c1c39eddee1ad853293aeb2b3a4d1820c4fa"
 
@@ -337,6 +353,10 @@ file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_blossom.json"
 hash = "386eeba4b7a1a9067fc1f41e2953a2cb13ac47d8cddb49db2a3d391ebc9409c4"
 
 [[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_burnt.json"
+hash = "f2371f0976efec2bc9016a8a25979d9ed0a1498785f186e59e9c0fd7c9f346d1"
+
+[[files]]
 file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_cherry.json"
 hash = "701314e256bb5ed971c92d6bdcee5d2a2eaf2c4cd0bd02a466ecfb38571efd14"
 
@@ -355,6 +375,10 @@ hash = "36f16f7ddc243d81948c32412d778fc9041749379402965129f34ce884ae51b8"
 [[files]]
 file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_oak.json"
 hash = "450c2abf60115bb5d39ebe31d5124520a25385686948a50e453217801d054a1b"
+
+[[files]]
+file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_rubber.json"
+hash = "c000b84b733859f33e055f44d3d1f762e2318a8f1f97b1b21aa809a5a2b2f24a"
 
 [[files]]
 file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_spruce.json"
@@ -758,7 +782,7 @@ hash = "6ca7d77da37d89c1f5b9cbc27afabc8f247a5b2bb9f9352319933f9205432e9a"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "9afd8546752426d814cf30a0027c80fce6c52fe78d1c93b9ba91430c20aae022"
+hash = "ad44945edc7b9198c4f2bf3fe84f86b1ecd0c9fda463f70164185437fa6dc71e"
 
 [[files]]
 file = "kubejs/server_scripts/nomad.js"
@@ -806,7 +830,7 @@ hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/server_scripts/wood.js"
-hash = "be0030be8e2d769eb786e190eb6721f8cb8f69300ff239c1e1b455d2fcd1881d"
+hash = "5bba5027e0684a796e94215704a616768f68c5bf51bb6db6e419419e77bee8cd"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
@@ -1143,6 +1167,11 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "f91c58dd28057838313e9bc2a23a8abab71fb9db7b9fdb63742267ae7fc51ed1"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
@@ -1175,6 +1204,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/gems-realm.pw.toml"
+hash = "f8eef1c338297f16e3dbcddd92a63d11130dde0b1823a43be276dcdb02f581b0"
 metafile = true
 
 [[files]]
@@ -1500,6 +1534,11 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "c8bd23ccde1de369034886cd5641d288714072e2935fd6d311f2902af34880ad"
+metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
 metafile = true
 
 [[files]]

@@ -49,6 +49,14 @@ ServerEvents.tags('item', event => {
   event.remove('c:plates', 'powergrid:zinc_sheet')
   event.remove('c:plates/zinc', 'powergrid:zinc_sheet')
 
+  // Gemsrealm
+  event.remove('c:nuggets', /gemsrealm:mc\/.*\/netherite_nugget/)
+  event.remove('c:nuggets/netherite', /gemsrealm:mc\/.*\/netherite_nugget/)
+  event.remove('c:nuggets', /gemsrealm:mc\/.*\/steel_nugget/)
+  event.remove('c:nuggets/steel', /gemsrealm:mc\/.*\/steel_nugget/)
+  event.remove('c:nuggets', /gemsrealm:mc\/.*\/bronze_nugget/)
+  event.remove('c:nuggets/bronze', /gemsrealm:mc\/.*\/bronze_nugget/)
+
   // Heated ingots
   event.remove('overgeared:heated_metals', 'overgeared:heated_crude_steel');
   event.remove('overgeared:heated_metals', 'overgeared:heated_netherite_alloy');
@@ -121,6 +129,9 @@ ServerEvents.recipes(event => {
   event.replaceInput({input: 'petrochem:bronze_ingot'}, 'petrochem:bronze_ingot', Ingredient.of('#c:ingots/bronze'))
   
   event.replaceInput({input: 'createmetallurgy:tungsten_wire_spool'}, 'createmetallurgy:tungsten_wire_spool', 'powergrid:iron_wire')
+  
+  event.replaceInput({input: /gemsrealm:mc\/.*\/steel_nugget/}, /gemsrealm:mc\/.*\/steel_nugget/, Ingredient.of('#c:nuggets/steel'))
+  event.replaceInput({input: /gemsrealm:mc\/.*\/bronze_nugget/}, /gemsrealm:mc\/.*\/bronze_nugget/, Ingredient.of('#c:nuggets/bronze'))
 
   // Replace all fluid inputs by tags
   event.replaceInput({input: Fluid.of('createbigcannons:molten_bronze')}, Fluid.of('createbigcannons:molten_bronze'), '#c:fluids/molten_bronze')
@@ -179,6 +190,9 @@ ServerEvents.recipes(event => {
   event.remove({output: 'petrochem:tin_nugget'})
   event.remove({output: 'overgeared:copper_nugget'})
   event.remove({output: 'powergrid:zinc_sheet'})
+  event.remove({output: /gemsrealm:mc\/.*\/netherite_nugget/});
+  event.remove({output: /gemsrealm:mc\/.*\/steel_nugget/});
+  event.remove({output: /gemsrealm:mc\/.*\/bronze_nugget/});
 
   // Remove materials
   event.remove({output: 'overgeared:heated_silver_ingot'})
@@ -276,6 +290,10 @@ RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
   event.remove("createmetallurgy:molten_constantan_bucket");
   event.remove("createmetallurgy:molten_electrum_bucket");
   event.remove("createmetallurgy:molten_necromium_bucket");
+
+  event.remove(/gemsrealm:mc\/.*\/netherite_nugget/);
+  event.remove(/gemsrealm:mc\/.*\/steel_nugget/);
+  event.remove(/gemsrealm:mc\/.*\/bronze_nugget/);
 });
 
 RecipeViewerEvents.removeEntriesCompletely("fluid", (event) => {

@@ -1,0 +1,8 @@
+{
+  "type": "createbigcannons:drill_boring",
+  "input": {
+    "type": "block",
+    "block": "burnt:burnt_log"
+  },
+  "result": "everycomp:q/burnt/hollow_burnt_log"
+}
