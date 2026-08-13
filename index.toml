@@ -22,7 +22,7 @@ hash = "6917d47d3b066c364a4c09cf40cc9dd481ec954dce7b73744e8446dfffac7546"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "447a8c5c1abcb91d48e1f8673090b18bd086dfc68db65c60b4409dbf9a016698"
+hash = "5b686e02665810c014395b2e6c64ee861425fb05db664becefe57f45fb9cfdea"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -830,7 +830,7 @@ hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/server_scripts/wood.js"
-hash = "5bba5027e0684a796e94215704a616768f68c5bf51bb6db6e419419e77bee8cd"
+hash = "c15a3d898fb14de4160b270d2e18c630ace25b1e2364e78f0bb4507e85c77378"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"

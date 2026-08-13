@@ -50,7 +50,7 @@
 			smoldering_bamboo = false
 			burnt = true
 			smoldering = false
-			burnt_bamboo = true
+			burnt_bamboo = false
 			ember = false
 			sooty_oak = false
 			sooty_dark_oak = false
@@ -158,7 +158,7 @@
 			post = true
 			chest = true
 			stripped_post = true
-			ladder = true
+			ladder = false
 			trapped_chest = true
 			bookshelf = true
 			hollow_log = true
