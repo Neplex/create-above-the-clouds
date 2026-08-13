@@ -9,6 +9,10 @@ file = "config/bcc-common.toml"
 hash = "0b315e154650f6cc3bc968a897a385fe7092894cc0e7d2dddf2467058152c779"
 
 [[files]]
+file = "config/biomespawnpoint/spawnbiomes.txt"
+hash = "379b68a651e62329ec87ee5909aaa31deed070f8457e8ceca639bc045557b5de"
+
+[[files]]
 file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
@@ -486,7 +490,7 @@ hash = "ae7891c4bf3a1e05106a498322a193094a59ad7fe4ade9e1431d13b9fd0a39bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
-hash = "86eb6487601e957a567eb3dddf3c2715d0ccc68f67c518f62edf16d1c5330cba"
+hash = "57ec10504307ef9a5d45c21bff7a033eb268ede38fe8ece213971e5f9a22a037"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/boring_scrap/acacia_log.json"
@@ -861,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
+metafile = true
+
+[[files]]
+file = "mods/biome-spawn-point.pw.toml"
+hash = "83c08f0fcf1beb813ef9edecd7dedafbd6b19d6636b02fc35cbb3475e23ce7d3"
 metafile = true
 
 [[files]]

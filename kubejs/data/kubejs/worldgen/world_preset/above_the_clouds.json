@@ -19,8 +19,8 @@
             "very_high_band_center_offset": 12,
             "cluster_spacing_mode": "dynamic",
             "cluster_spacing": 100,
-            "min_cluster_spacing": 100,
-            "max_cluster_spacing": 200,
+            "min_cluster_spacing": 90,
+            "max_cluster_spacing": 150,
             "terrain_relief_scale": 1.0,
             "archetypes": {
               "classic_enabled": true,
