@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:square",
+  "argument": {
+    "type": "lithostitched:sin",
+    "argument": {
+      "type": "minecraft:mul",
+      "argument1": 3,
+      "argument2": {
+        "type": "minecraft:add",
+        "argument1": -0.5,
+        "argument2": "kubejs:scorched_surface/volcanic_base"
+      }
+    }
+  }
+}

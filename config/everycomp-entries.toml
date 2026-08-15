@@ -73,6 +73,10 @@
 			ancient = true
 			blossom = true
 
+		[types.wood_type.burnt_additions]
+			smoldering_soul = false
+			soul_tempered = true
+
 		[types.leaves_type.burnt]
 			burnt = false
 			smoldering = false

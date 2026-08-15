@@ -20,15 +20,7 @@
   "noise_router": {
     "lava": 0,
     "ridges": 0,
-    "temperature": {
-      "type": "minecraft:shifted_noise",
-      "noise": "minecraft:temperature",
-      "shift_x": "minecraft:shift_x",
-      "shift_y": 0,
-      "shift_z": "minecraft:shift_z",
-      "xz_scale": 1,
-      "y_scale": 0
-    },
+    "temperature": "kubejs:scorched_surface/temperature",
     "vegetation": {
       "type": "minecraft:shifted_noise",
       "noise": "minecraft:vegetation",

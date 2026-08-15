@@ -13,6 +13,10 @@ file = "config/biomespawnpoint/spawnbiomes.txt"
 hash = "379b68a651e62329ec87ee5909aaa31deed070f8457e8ceca639bc045557b5de"
 
 [[files]]
+file = "config/burnt_additions.json"
+hash = "501c261f671dcb74512348f2fdda127877554183952e431d88979b34ff1ccb36"
+
+[[files]]
 file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
@@ -22,7 +26,7 @@ hash = "6917d47d3b066c364a4c09cf40cc9dd481ec954dce7b73744e8446dfffac7546"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "5b686e02665810c014395b2e6c64ee861425fb05db664becefe57f45fb9cfdea"
+hash = "3cd222282527586e899153148342e1414690249221ddbfae261e3925665f399b"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -87,6 +91,30 @@ hash = "e10939aa2200993296fce74aa8de718cc149846c63c133e9c7e0220abf68d12a"
 [[files]]
 file = "kubejs/data/burnt/loot_table/boring_scrap/burnt_log.json"
 hash = "caec7ee3b45c8f763dc6d68d752773cb3d22eadad997453b1f5bff82a8db43b1"
+
+[[files]]
+file = "kubejs/data/burnt_additions/loot_table/blocks/sulphur_ore.json"
+hash = "7818c16faf5e94ac535a0743b0e919a4a62f2a47aa02e3fdc0d2b39af1d2f71d"
+
+[[files]]
+file = "kubejs/data/burnt_additions/loot_table/blocks/sulphur_trail.json"
+hash = "218e74e75752aef42814769f36db878be8604954635682c7cb9a6a6236828fc2"
+
+[[files]]
+file = "kubejs/data/burnt_additions/worldgen/structure/volcano.json"
+hash = "acdd86cbdd1121f0fea48fc07dc4c8a3023e3c2541c971d315707dbb4383b8a7"
+
+[[files]]
+file = "kubejs/data/burnt_additions/worldgen/structure/volcano_deltas.json"
+hash = "e5daa65c1c3f0c96e2bd2c1124e096d8566915db45a4563bebcef15d4ca537c2"
+
+[[files]]
+file = "kubejs/data/burnt_additions/worldgen/structure_set/volcano.json"
+hash = "a92d45b68d663da71a0455e09252c5320c892a8cd90e13dd8c1f1f55731326cb"
+
+[[files]]
+file = "kubejs/data/burnt_additions/worldgen/structure_set/volcano_deltas.json"
+hash = "80c49f5fb856de866dc682808b3254950eb1e14d89f5964c4c4d6e9b1b001960"
 
 [[files]]
 file = "kubejs/data/cgs/worldgen/placed_feature/lead_ore_placed.json"
@@ -434,7 +462,7 @@ hash = "ac8258ca76d8acc03844d94c3603c9a8dcfcb3bb3550c118772f78b1866fad81"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
-hash = "ce5fe470b9fe299fa3bc2c4449892761d39357494ee671887222513ad5bb6cc0"
+hash = "487e0e7c6e44cb2b1ccab392736671a1b69c545d8e1e262ef34bf4ed42ba5849"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
@@ -458,19 +486,31 @@ hash = "ffef761595e6feccfaf1e9d3d8d67e7703ae34aefe879efed42399236da7b395"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/surface.json"
-hash = "43c3b1fec50f54fa09d8fdcf7276c8f44023f2d17c1b13d0268516fe8a775af1"
+hash = "248b19ac162252c0d3156089839dc58170e6778975c09e603d4aee9ff4d007d7"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/tectonics.json"
-hash = "9ad552c364274f9c014c0894f33e6e9442eb47baea572741f88d95281da2c97a"
+hash = "00fd20b460b713439e86827b521407507ab650cadd02100586b0fe1313b77855"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/temperature.json"
+hash = "db1bd16483f9b11fd1b5ba721531d8880a29c1ce30d645d30aa2137a003346f0"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/volcanic.json"
-hash = "5f743c78d093c566c73e67cbbc0e823da23573b19d92edc0f868305d1eab183e"
+hash = "d1b8a872a4b915435fbf895b51fb59a184e08fdcd74670e9b4507f6fd30938f4"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/volcanic_base.json"
+hash = "8109efb739b7ebfebd504a12e4090d2c626141202eef2631b312b607ac6c77d0"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/volcanic_shape.json"
+hash = "ba510650dde0f1f7909bd6cf1e1d40eee5d8ef00b11d1162de1e712489c9422b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/scorched_surface.json"
-hash = "2aad1c4f590bc06c1fa3ab85f8752e9b329b40bad205bd2451523a1e8e4119ee"
+hash = "f808697c3b19c6bdca46570669ea23fa59dc249a469c7fa306d6b0380e6d8ad6"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/sky_islands.json"
@@ -514,7 +554,7 @@ hash = "ae7891c4bf3a1e05106a498322a193094a59ad7fe4ade9e1431d13b9fd0a39bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
-hash = "57ec10504307ef9a5d45c21bff7a033eb268ede38fe8ece213971e5f9a22a037"
+hash = "2c0c991cf29e3c8461bc1d28af2a6a9221d5ba64a0315c5e4093065103fea0cc"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/boring_scrap/acacia_log.json"
@@ -761,8 +801,12 @@ file = "kubejs/pack.mcmeta"
 hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
 [[files]]
+file = "kubejs/server_scripts/burnt.js"
+hash = "e935aac1cfb081897383d9bacad3ee8b459f6ac9ae0ed2eeeb3af532e67d8ef3"
+
+[[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "02fddffeb8f5f3e39c90e75555e28b20dab4f8396f43127fda690ceea00bff1d"
+hash = "4f77d50c27cb51ccb9ff78902e64fd8c06837dd13ae5b9add1a560622cca60e0"
 
 [[files]]
 file = "kubejs/server_scripts/dashpanels.js"
@@ -830,7 +874,7 @@ hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/server_scripts/wood.js"
-hash = "c15a3d898fb14de4160b270d2e18c630ace25b1e2364e78f0bb4507e85c77378"
+hash = "00d59adb676f06bb70091bea2172f7de630a127ea0c2383207d3fc03a64a5821"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
@@ -907,8 +951,8 @@ hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
-file = "mods/burnt-basic.pw.toml"
-hash = "44302c0b9c5e79066d77346140e933c9bda958326ffdf679df98987622b2d4e4"
+file = "mods/burnt.pw.toml"
+hash = "969921953506883977acf6f481728957fd113a1e847133d0edab37cc563d64b9"
 metafile = true
 
 [[files]]

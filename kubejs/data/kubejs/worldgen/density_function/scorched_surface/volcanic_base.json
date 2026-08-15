@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:add",
+    "argument1": "kubejs:scorched_surface/temperature",
+    "argument2": {
+      "type": "minecraft:mul",
+      "argument1": -0.1,
+      "argument2":{
+          "type": "minecraft:add",
+          "argument1": "minecraft:overworld/ridges_folded",
+          "argument2": "minecraft:overworld/base_3d_noise"
+        }
+    }
+  }
+}

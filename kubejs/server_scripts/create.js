@@ -1,3 +1,9 @@
+ServerEvents.tags("item", (event) => {
+  event.add('burnt_additions:breathing_equipment', 'create:copper_diving_helmet');
+  event.add("burnt_additions:breathing_equipment", 'create:netherite_diving_helmet');
+  event.add("burnt_additions:breathing_equipment", 'radiologistics:pilot_helmet');
+});
+
 ServerEvents.recipes((event) => {
   event.replaceInput(
     { output: "create:elevator_pulley" },

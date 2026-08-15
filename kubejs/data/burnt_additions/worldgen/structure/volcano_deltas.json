@@ -1,0 +1,15 @@
+{
+  "type": "burnt_additions:sunken",
+  "template": "burnt_additions:volcano_deltas",
+  "y_offset": 2,
+  "flatness": 2,
+  "footprint": 8,
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {},
+  "biomes": [
+    "minecraft:basalt_deltas",
+    "kubejs:scorched_surface/basalt_highlands"
+  ],
+  "blend": true
+}
