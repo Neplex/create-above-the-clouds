@@ -1091,6 +1091,11 @@ hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
 metafile = true
 
 [[files]]
+file = "mods/create-hostile-skies.pw.toml"
+hash = "d8056e7e753122e2de78004267f3ed2f10f635e2e27d10de5dda7c458cd4850a"
+metafile = true
+
+[[files]]
 file = "mods/create-metallurgy.pw.toml"
 hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
 metafile = true
