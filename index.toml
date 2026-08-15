@@ -17,6 +17,10 @@ file = "config/burnt_additions.json"
 hash = "501c261f671dcb74512348f2fdda127877554183952e431d88979b34ff1ccb36"
 
 [[files]]
+file = "config/cloud_configs.json"
+hash = "8da63af442b123f4641fd96459ec4cb23e72da9ec9699413eb084c24a22dd806"
+
+[[files]]
 file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
@@ -988,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cloud_tweaks.pw.toml"
+hash = "9d2ef13cc13871746c9ff1f0b6a564b462e61f68b62a861bb1b9577ddf627d89"
 metafile = true
 
 [[files]]
