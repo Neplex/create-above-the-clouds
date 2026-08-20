@@ -1185,6 +1185,11 @@ hash = "6886c6cc7d4d43e2b9792af5c91fe381be0b33b1aea5f0decc465a5c17bc7004"
 metafile = true
 
 [[files]]
+file = "mods/deployer.pw.toml"
+hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
@@ -1227,6 +1232,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "37837e070e56f87658723ea7b0415df0842527d2a1dfa4a95252e1d05087eee4"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "635b8380894bc7c050deeb426f3e5947b27bda821a616b0ef6a757ae729e96b8"
 metafile = true
 
 [[files]]
@@ -1552,6 +1562,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
+metafile = true
+
+[[files]]
+file = "mods/simulated-gauges.pw.toml"
+hash = "b131faa1c8ca8217f5d52612d4b41f8f8f019488f6b1e3bfee065ca82c21bdfb"
 metafile = true
 
 [[files]]
