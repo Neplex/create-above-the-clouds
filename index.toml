@@ -1145,6 +1145,11 @@ hash = "c84116da9c7b2c8ed05acce9803f9e5eb5858975ef72ba392bd29570c6344f55"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
+metafile = true
+
+[[files]]
 file = "mods/create-radiologistics.pw.toml"
 hash = "b5efa23680fcc1a9bf545a1fa516e4ae26fb1ca98f4609a0cd7b594947708f61"
 metafile = true
