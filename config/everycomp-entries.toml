@@ -9,7 +9,7 @@
 		[types.metal_type.createbigcannons]
 			cast_iron = true
 			bronze = true
-			steel = true
+			steel = false
 			nethersteel = true
 
 		[types.metal_type.createmetallurgy]

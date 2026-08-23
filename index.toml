@@ -30,7 +30,11 @@ hash = "6917d47d3b066c364a4c09cf40cc9dd481ec954dce7b73744e8446dfffac7546"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "3cd222282527586e899153148342e1414690249221ddbfae261e3925665f399b"
+hash = "8f618cd41da9bdead539b1908a6236bcbdb670a222b5bf00c0e916437e65e152"
+
+[[files]]
+file = "config/gemsrealm-hazardous.toml"
+hash = "c2a9d9ae72d343520c095aebbacf1ebf8c3a5da06e90eab3ad2451d58820ceda"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -830,7 +834,7 @@ hash = "6ca7d77da37d89c1f5b9cbc27afabc8f247a5b2bb9f9352319933f9205432e9a"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
-hash = "ad44945edc7b9198c4f2bf3fe84f86b1ecd0c9fda463f70164185437fa6dc71e"
+hash = "6e39bad608d5b91b5692df42b20477927cc882c497d3efd80d1a915772bd9e1d"
 
 [[files]]
 file = "kubejs/server_scripts/nomad.js"
