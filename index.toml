@@ -77,6 +77,10 @@ file = "kubejs/client_scripts/dashpanels.js"
 hash = "258e7aa026aa0b8d4f03a654072e47197e0ef2a728944e252eccd5ef788506f1"
 
 [[files]]
+file = "kubejs/client_scripts/powergrid.js"
+hash = "32082ddca50472e56dbc300120c59d3dea3aa9842980a906374b9d8ad7359342"
+
+[[files]]
 file = "kubejs/data/betterfortresses/tags/worldgen/biome/has_structure/better_fortress.json"
 hash = "e815b161d763ff02c7db7eb8f1f19e73ab908720a2ca31274c89adba271eedf3"
 
@@ -846,7 +850,7 @@ hash = "d473d08b746b66ae14a3e5c6fbd3159821b361aee49be1683e9e6cedc0afe03a"
 
 [[files]]
 file = "kubejs/server_scripts/powergrid.js"
-hash = "e72484fdf5a14df1c9578924166231765d22662ea82ebb2ead88636319c51a8e"
+hash = "f163d45a3d013b608a3d65fafc8efcffa02dcb4217b4c7e47607df84823edfae"
 
 [[files]]
 file = "kubejs/server_scripts/quark.js"
