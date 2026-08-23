@@ -21,9 +21,7 @@
 [metaltype]
 	#Exclude one or all of Supported-Mod for MetalType
 	#	The example is same as CrystalType's
-	blacklist = [
-		".*:steel.*"
-	]
+	blacklist = []
 
 [entryset]
 	#Exclude EntrySet from the module for All of CrystalType, DustType, GemType, MetalType
@@ -34,4 +32,6 @@
 	#        "chipped:.*"					COMMENT: .* is a RegEx/Advanced-WildCard which will exclude all of EntrySets from one Module
 	#    ]
 	#
-	blacklist = []
+	blacklist = [
+		"create:.*sheet"
+	]
