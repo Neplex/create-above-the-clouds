@@ -1,7 +1,16 @@
 ServerEvents.tags("item", (event) => {
-  event.add('burnt_additions:breathing_equipment', 'create:copper_diving_helmet');
-  event.add("burnt_additions:breathing_equipment", 'create:netherite_diving_helmet');
-  event.add("burnt_additions:breathing_equipment", 'radiologistics:pilot_helmet');
+  event.add(
+    "burnt_additions:breathing_equipment",
+    "create:copper_diving_helmet",
+  );
+  event.add(
+    "burnt_additions:breathing_equipment",
+    "create:netherite_diving_helmet",
+  );
+  event.add(
+    "burnt_additions:breathing_equipment",
+    "radiologistics:pilot_helmet",
+  );
 });
 
 ServerEvents.recipes((event) => {
@@ -15,6 +24,22 @@ ServerEvents.recipes((event) => {
     "minecraft:dried_kelp_block",
     "create:belt_connector",
   );
+
+  event.replaceInput(
+    { output: "createbigcannons:block_armor_inspection_tool" },
+    "create:precision_mechanism",
+    "minecraft:compass",
+  );
+  event.replaceInput(
+    { output: "createbigcannons:block_armor_inspection_tool" },
+    "minecraft:iron_bars",
+    Ingredient.of("#cgs:nails"),
+  );
+
+  event.remove({output: 'createdieselgenerators:basin_lid'});
+    event.shaped('createdieselgenerators:basin_lid', ["AAA"], {
+    A: "create:andesite_alloy",
+  });
 });
 
 RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
