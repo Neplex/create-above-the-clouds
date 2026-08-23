@@ -1651,7 +1651,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "8e464c45945b7311b01d0be50a714e8a64d389dc27331f4a27d7981fd29131b9"
+hash = "ad3c58ce67c1063c917a3764281ac4ca1b6055b0e065ffc1b21d95286ebf2633"
 metafile = true
 
 [[files]]
@@ -1693,3 +1693,7 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "ff5497325c02950bb209eba1ebed43f3c97a4f5b3dcc191a2056160f4bd3aad4"
