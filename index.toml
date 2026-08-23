@@ -834,7 +834,7 @@ hash = "ad44945edc7b9198c4f2bf3fe84f86b1ecd0c9fda463f70164185437fa6dc71e"
 
 [[files]]
 file = "kubejs/server_scripts/nomad.js"
-hash = "ee4af692fa50ce033cbdf3f86e21f706501cb92d12c4e38abf9225fc73f21ef3"
+hash = "dcf2a49b48d47cbb5aba496e7400e9ecc0c4e8c62c4c024ef0402b3b5ba12fb6"
 
 [[files]]
 file = "kubejs/server_scripts/oil.js"
@@ -855,6 +855,10 @@ hash = "508510af268f296acaea2d3b56260a3c2f378c738fc503b1bf9b44b1bb93635e"
 [[files]]
 file = "kubejs/server_scripts/sable.js"
 hash = "7ad12d216c563747ff6ce083859a9e2963fb7f57e891e4cd2f1d905f3f7df088"
+
+[[files]]
+file = "kubejs/server_scripts/simulated.js"
+hash = "b1d9366941cb7fb6dc63ff31984651201136d2cd0045360bee8ef4edead9f74e"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
