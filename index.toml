@@ -865,6 +865,10 @@ file = "kubejs/server_scripts/sable.js"
 hash = "7ad12d216c563747ff6ce083859a9e2963fb7f57e891e4cd2f1d905f3f7df088"
 
 [[files]]
+file = "kubejs/server_scripts/simple_radio.js"
+hash = "8bab0ce32706d54a28e09b154b5b2a755244e6a335f1fc0aea865fc9762f1085"
+
+[[files]]
 file = "kubejs/server_scripts/simulated.js"
 hash = "b1d9366941cb7fb6dc63ff31984651201136d2cd0045360bee8ef4edead9f74e"
 
