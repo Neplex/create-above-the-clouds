@@ -1,0 +1,13 @@
+name = "Create: Colored Connections"
+filename = "create-colored-connections-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s8chGgzt/versions/9nao3ffB/create-colored-connections-0.3.0.jar"
+hash-format = "sha512"
+hash = "012c955449e540bcd1b703b0756187737581c461dfe4bdfc58df22074cb266279c18e861d94875366f9aa0ce1924a2aaa8a7f9ce7834acb773a337f261c26387"
+
+[update]
+[update.modrinth]
+mod-id = "s8chGgzt"
+version = "9nao3ffB"

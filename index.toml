@@ -1105,6 +1105,11 @@ hash = "4930d2adc5440081d3c26446f3234e706790ec4fc8c408755ead1eb8677eb366"
 metafile = true
 
 [[files]]
+file = "mods/create-colored-connections.pw.toml"
+hash = "fad0c10cd3fcbb2510fa21f843dff01f540c001cda785436e3548051073e7600"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-backtank.pw.toml"
 hash = "4411918373464df9c30ab1b16394e88add2ca3db98d0b7e7ab5e2de88b740fa1"
 metafile = true
