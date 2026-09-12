@@ -841,6 +841,10 @@ file = "kubejs/server_scripts/metal.js"
 hash = "6e39bad608d5b91b5692df42b20477927cc882c497d3efd80d1a915772bd9e1d"
 
 [[files]]
+file = "kubejs/server_scripts/minecraft.js"
+hash = "e43ff33cec574deb7dc66c2cc661f8b338bff38ebb0727048277fa1911e214df"
+
+[[files]]
 file = "kubejs/server_scripts/nomad.js"
 hash = "dcf2a49b48d47cbb5aba496e7400e9ecc0c4e8c62c4c024ef0402b3b5ba12fb6"
 
@@ -1053,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/countereds-terrain-slabs.pw.toml"
 hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
+metafile = true
+
+[[files]]
+file = "mods/crafting-station-jei-edition-updated.pw.toml"
+hash = "dc2466b09ffb48894209e5e5af1b26faff8c67e1676e81779b90a60718e69740"
 metafile = true
 
 [[files]]
