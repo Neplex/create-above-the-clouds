@@ -1197,6 +1197,16 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/dashpanels-expanded.pw.toml"
+hash = "005ba7cec099ba5fdba6f3b325455145e6dce67d9666b69e1ce302d80765c18f"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels-extra.pw.toml"
+hash = "e388d9832552911550c0f80dc0ee431faf6a2e68d4262359c2101c72e249f09d"
+metafile = true
+
+[[files]]
 file = "mods/dashpanels.pw.toml"
 hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
 metafile = true
