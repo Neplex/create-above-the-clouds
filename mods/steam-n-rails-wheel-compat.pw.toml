@@ -1,0 +1,13 @@
+name = "Steam 'n Rails Wheel Compat"
+filename = "snrailswheelcompat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O9V583Vp/versions/A7aHEJbm/snrailswheelcompat-1.0.0.jar"
+hash-format = "sha512"
+hash = "aa47221ea2bdad2a61f5fb244515c50fd6da81cadcf0a683b710197fb46c85b6825c5e6f8be073196de43f75b40e90f4627ee64ccda67aff448cafa6330d167a"
+
+[update]
+[update.modrinth]
+mod-id = "O9V583Vp"
+version = "A7aHEJbm"

@@ -1711,6 +1711,11 @@ hash = "4bbf94f1237308aaa6bbc4916596be61dfca73be82b12b5d49f9650fdb30689b"
 metafile = true
 
 [[files]]
+file = "mods/steam-n-rails-wheel-compat.pw.toml"
+hash = "84f5c529fbd90b2592395bf5f775845d60edafbb019cf35dad9b9a74c2955707"
+metafile = true
+
+[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
 metafile = true
