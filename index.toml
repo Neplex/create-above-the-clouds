@@ -45,6 +45,10 @@ file = "config/ragdoll_reactions-server.toml"
 hash = "ea34e1261ad201c2804ab9ee20460c9e5773e18dd2f9289635acca157de5f5f7"
 
 [[files]]
+file = "config/railways-server.toml"
+hash = "0f1cb8c0fe398f0e08279341cc1440d30d59d506537b23fb98e0b6c73988b227"
+
+[[files]]
 file = "config/sable_beyond/neoforge-compatibility.json"
 hash = "8ce429774e6a251cee3bf70a1177d8dd077ce21c2a9678e2e44e2b9a4201a6cc"
 
@@ -809,6 +813,38 @@ file = "kubejs/data/quark/loot_table/boring_scrap/blossom_log.json"
 hash = "c47577afe35cfee1abaa21efce31445b0da539e22778b13ab459d0330a01635b"
 
 [[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/biodiesel.json"
+hash = "a77b1ff9f3b341ca619173e6c9b0019ea40041f5a1e3a31f2ae55064d3c05d44"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/diesel.json"
+hash = "9a17f83ae110ac9a37f5d0b4ed3f69798e7b7b3cd73c0c085905d91ed0e0195d"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/ethanol.json"
+hash = "100e20d4a8637134466d307e1485a452fda689c73f719b237d1198e00acfc47e"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/fuel_oil.json"
+hash = "e63ef50a0882a6c4a45c928ad66b512a7537a5cebbc929c2e29948d1a766cd1e"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/gasoline.json"
+hash = "6b418e8ed97bd8f572f7af4e0b2e110ef3e7f6c0ada10a1d15bce41a6f5de657"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/heavy_gas_oil.json"
+hash = "38a93faf44d0b05da25decd7c4282641f32069bb96348c55e1bae49d0e3f8bcf"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/kerosene.json"
+hash = "ed6d628d9cd28fc1b1720bdf1088fddd182a79b48933b3da07c88fc69e8461a1"
+
+[[files]]
+file = "kubejs/data/railways/railways_liquid_fuel/plantoil.json"
+hash = "f5d2c5f6fd7b34e238367b9490c6354e333469c4b86e52b400bb00712f3b433e"
+
+[[files]]
 file = "kubejs/pack.mcmeta"
 hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
@@ -992,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
+file = "mods/cbc-locometal-armor.pw.toml"
+hash = "c4e104664929c78097aa368f2e1a3b2f53d579169819da9d9f3e33bf45b8f8c7"
 metafile = true
 
 [[files]]
@@ -1192,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/create-smoke-stacks.pw.toml"
 hash = "8cc04584c3ba5d67c8aa88ab9a8a5b0feaa7ebe326946205b1b09015576fdbb0"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]

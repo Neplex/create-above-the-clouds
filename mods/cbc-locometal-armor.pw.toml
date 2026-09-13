@@ -1,0 +1,13 @@
+name = "CBC: Locometal Armor"
+filename = "locometal_armor-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qa2vGoU/versions/pJrnrjaH/locometal_armor-1.1.0.jar"
+hash-format = "sha512"
+hash = "f9305c57f92ee4d5655e4c378b5c1b82d856fbe58f1a5feb7823bdb14e85707ede1a4ddd0d2560ac70a09a4ae26af78c9119bb5c915344500b5239d314ab0366"
+
+[update]
+[update.modrinth]
+mod-id = "4qa2vGoU"
+version = "pJrnrjaH"
