@@ -976,6 +976,11 @@ hash = "4652f7122f9fcd06f61f40a5c299d5316fde47cdbb23e8120c339f8b80a5ab27"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "f55bf28128a2b5d9f5970e8e713f47e751650d9a2f5b44e8298f5a8398336d07"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "382d7eb9e95beb4224fdb16e6781604c0f12d49ba3b900b323b1cb0ffabec13a"
 metafile = true
@@ -1428,6 +1433,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "c82344480d1ff51e6f0804e753689cf41423e312fca2dc167734bbfdf7004c54"
 metafile = true
 
 [[files]]
