@@ -1176,6 +1176,11 @@ hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
 
 [[files]]
+file = "mods/create-exploded.pw.toml"
+hash = "0c6cd3405e894b4e7ae4bb01573f47f45f21e2cc1351e5d1ef494baf0c4aa300"
+metafile = true
+
+[[files]]
 file = "mods/create-grappling-hooks.pw.toml"
 hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
 metafile = true
