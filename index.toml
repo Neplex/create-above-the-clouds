@@ -1031,6 +1031,11 @@ hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
+file = "mods/cbc-compact-mount.pw.toml"
+hash = "414a58bba157ca4e565529c006a8637660644de1b2347f5452e1d7906b41c225"
+metafile = true
+
+[[files]]
 file = "mods/cbc-locometal-armor.pw.toml"
 hash = "c4e104664929c78097aa368f2e1a3b2f53d579169819da9d9f3e33bf45b8f8c7"
 metafile = true
