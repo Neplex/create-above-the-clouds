@@ -37,6 +37,16 @@ file = "config/gemsrealm-hazardous.toml"
 hash = "f78e46357067ccc8b319280fa29c7ca79abdd3df241b9b23b38740f9dc1ef85e"
 
 [[files]]
+file = "config/paxi/resourcepacks/create-lootr.pw.toml"
+hash = "c71ace624089251e32aadec70c34e921de8e2bece0c2f6edeeabe1bb795f3a03"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/simple-create-radios.pw.toml"
+hash = "441cd7d1b5dd4a41b4950095b8def6142e1786d266eb06a7b9c00e2062643b14"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "2b2422cad99584b029aec346748044dc39a28ea41b1b293583135d6da6bfe98d"
 
@@ -1336,8 +1346,18 @@ hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "6aba9d20ceaf2f4f3368734cdfc37924b6fdf19df3f6631d68402490289cfd54"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d8b1aa8f9d9bcde610fafc4780d2e7614c05f6f25d74978714745ee060b5fe39"
 metafile = true
 
 [[files]]
@@ -1563,6 +1583,11 @@ metafile = true
 [[files]]
 file = "mods/overgeared.pw.toml"
 hash = "31478892964be9b260bc17df313f850569d5cf45a2746d1dd47f6f59930df9ab"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
