@@ -43,9 +43,6 @@
 			myalite = true
 			permafrost = true
 
-		[types.stone_type.supplementaries]
-			brittlestone = true
-
 		[types.wood_type.burnt]
 			smoldering_bamboo = false
 			burnt = true
@@ -77,6 +74,17 @@
 			smoldering_soul = false
 			soul_tempered = true
 
+		[types.leaves_type.createpolymer]
+			rubber = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
 		[types.leaves_type.burnt]
 			burnt = false
 			smoldering = false
@@ -89,17 +97,6 @@
 			smoldering_cherry = false
 			smoldering_acacia = false
 			blast = false
-
-		[types.leaves_type.createpolymer]
-			rubber = true
-
-		[types.leaves_type.quark]
-			ancient = true
-			blue_blossom = true
-			lavender_blossom = true
-			orange_blossom = true
-			yellow_blossom = true
-			red_blossom = true
 
 		[entries.metal_type.create]
 			table_cloth = true

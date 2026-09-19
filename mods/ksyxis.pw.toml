@@ -1,13 +1,13 @@
 name = "Ksyxis"
-filename = "Ksyxis-1.4.3.jar"
+filename = "Ksyxis-1.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2ecVyZ49/versions/kL32PN9Q/Ksyxis-1.4.3.jar"
+url = "https://cdn.modrinth.com/data/2ecVyZ49/versions/sML1jQ1B/Ksyxis-1.4.4.jar"
 hash-format = "sha512"
-hash = "55b1ec940910a6c36fa40595b0d7b8617e3a817c55ecb2d5c1ee54c026936d6f1a4bbe63228c60ebf75195bb14f3c9128c913ba949df2c5877b9b99d21bab9a4"
+hash = "d16984f287cba04bb6a6a6bebfa9c7ffc974263b1032522a5b3811142b4a240cf0e78d65a4b4f27309e8a1b007a9c3a6de8456de0be6859102a462545c160b62"
 
 [update]
 [update.modrinth]
 mod-id = "2ecVyZ49"
-version = "kL32PN9Q"
+version = "sML1jQ1B"

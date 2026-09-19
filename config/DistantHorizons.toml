@@ -586,7 +586,7 @@ _version = 4
 				# Example: "minecraft:overworld,minecraft:the_end"
 				# 
 				# Changes will only be seen when the world is re-loaded.
-				dimensionEnabledCloudRenderingCsv = "minecraft:overworld"
+				dimensionEnabledCloudRenderingCsv = "minecraft:overworld,minecraft:the_nether"
 				#
 				# If true LOD clouds will be rendered.
 				enableCloudRendering = true
