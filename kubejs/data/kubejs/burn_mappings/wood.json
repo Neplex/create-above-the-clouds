@@ -1,0 +1,33 @@
+{
+  "mappings": [
+    { "from": "everycomp:q/createpolymer/hollow_rubber_log",  "to": "burnt:smoldering_hollow_log" },
+    
+    { "from": "quark:oak_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:spruce_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:birch_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:jungle_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:acacia_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:dark_oak_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:mangrove_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:cherry_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:bamboo_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:azalea_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:blossom_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "quark:ancient_post", "to": "everycomp:q/burnt/burnt_post" },
+    { "from": "everycomp:q/createpolymer/rubber_post", "to": "everycomp:q/burnt/burnt_post" },
+    
+    { "from": "quark:stripped_oak_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_spruce_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_birch_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_jungle_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_acacia_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_dark_oak_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_mangrove_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_cherry_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_bamboo_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_azalea_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_blossom_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "quark:stripped_ancient_post", "to": "everycomp:q/burnt/stripped_burnt_post" },
+    { "from": "everycomp:q/createpolymer/stripped_rubber_post", "to": "everycomp:q/burnt/stripped_burnt_post" }
+  ]
+}

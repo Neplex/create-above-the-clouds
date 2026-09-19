@@ -58,6 +58,8 @@
 			sooty_cherry = false
 			sooty_jungle = false
 			blazing = false
+			smoldering_soul = false
+			burnt_soul = false
 
 		[types.wood_type.createdieselgenerators]
 			chip_wood = true

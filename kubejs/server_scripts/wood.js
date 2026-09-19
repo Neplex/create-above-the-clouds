@@ -87,9 +87,9 @@ ServerEvents.recipes((event) => {
     Ingredient.of("#farmersdelight:cabinets/wooden").except(/burnt/),
   );
   event.smoking(
-    "everycomp:q/burnt/hollow_burnt_log",
+    "burnt:burnt_hollow_log",
     Ingredient.of("#quark:hollow_logs").except(
-      "everycomp:q/burnt/hollow_burnt_log",
+      "burnt:burnt_hollow_log",
     ),
   );
 
@@ -183,7 +183,7 @@ ServerEvents.recipes((event) => {
       CreateItem.of("2x createdieselgenerators:wood_chip", 0.5),
     ],
     Ingredient.of("#quark:hollow_logs").except(
-      "everycomp:q/burnt/hollow_burnt_log",
+      "burnt:burnt_hollow_log",
     ),
   );
 
@@ -197,6 +197,8 @@ RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
   event.remove(/warped/);
   event.remove(/crimson/);
 
+  event.remove(/everycomp:q\/burnt\/smoldering.*/);
+  event.remove("everycomp:q/burnt/hollow_burnt_log");
   event.remove("everycomp:q/burnt_additions/soul_tempered_chest");
   event.remove("everycomp:q/burnt_additions/trapped_soul_tempered_chest");
 });

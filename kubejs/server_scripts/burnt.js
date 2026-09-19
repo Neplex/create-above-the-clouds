@@ -15,6 +15,17 @@ ServerEvents.recipes((event) => {
 
   event.remove({ output: "burnt_additions:gas_mask" });
   event.remove({ output: "burnt_additions:sulphur" });
+  event.remove({ output: "burnt_additions:soul_charge" });
+  event.remove({ output: "burnt_additions:soul_ice" });
+
+  event.recipes.create.haunting(
+    "burnt_additions:soul_charge",
+    "minecraft:fire_charge",
+  );
+  event.recipes.create.haunting(
+    "burnt_additions:soul_ice",
+    "minecraft:packed_ice",
+  );
 });
 
 RecipeViewerEvents.removeEntriesCompletely("item", (event) => {

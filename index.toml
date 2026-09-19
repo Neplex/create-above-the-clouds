@@ -14,7 +14,7 @@ hash = "379b68a651e62329ec87ee5909aaa31deed070f8457e8ceca639bc045557b5de"
 
 [[files]]
 file = "config/burnt_additions.json"
-hash = "501c261f671dcb74512348f2fdda127877554183952e431d88979b34ff1ccb36"
+hash = "49e515207884b9d24439a5fbd93319d921505ca98e4116967a8b8d23cce36d70"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
@@ -26,7 +26,7 @@ hash = "6917d47d3b066c364a4c09cf40cc9dd481ec954dce7b73744e8446dfffac7546"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "a43d4c73c54e2d2717491e951f273ed7eef32724c2060b42535faec5086de06e"
+hash = "b675ebb5dcaf66eb18473443cedf43e6ba3953fdad45a48a3904f73fdd3a14dc"
 
 [[files]]
 file = "config/gemsrealm-hazardous.toml"
@@ -381,6 +381,10 @@ hash = "6ebd3bb73d31398295515df26944887f35eece72eee1c5c11387b9db3b483b72"
 [[files]]
 file = "kubejs/data/integrated_stronghold/worldgen/structure/stronghold.json"
 hash = "96e8be32bd8d976769251490935c2611aca6dd3722c4fe07b5f17c91ceb5ddda"
+
+[[files]]
+file = "kubejs/data/kubejs/burn_mappings/wood.json"
+hash = "5ea9317facdf3b09533d664ef7ef807d3c1580785831821bf304ff88b854555d"
 
 [[files]]
 file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_acacia.json"
@@ -856,7 +860,7 @@ hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
 [[files]]
 file = "kubejs/server_scripts/burnt.js"
-hash = "e935aac1cfb081897383d9bacad3ee8b459f6ac9ae0ed2eeeb3af532e67d8ef3"
+hash = "114d4f8d53b47aaba61a8cb882dfffd320483d3cf7e5bb1d9ff103b315fd4b06"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
@@ -940,7 +944,7 @@ hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/server_scripts/wood.js"
-hash = "00d59adb676f06bb70091bea2172f7de630a127ea0c2383207d3fc03a64a5821"
+hash = "94d811c965590a5a7adf43bf700dc3821d1f511ffa0551c7ffc8d174432fd494"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
@@ -1023,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/burnt.pw.toml"
-hash = "969921953506883977acf6f481728957fd113a1e847133d0edab37cc563d64b9"
+hash = "bd1002028e5bae80a5a25b6dadd063bcf9315972c4181f5810dc37a859f26f0c"
 metafile = true
 
 [[files]]
