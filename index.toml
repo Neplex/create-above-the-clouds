@@ -291,6 +291,10 @@ file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/kero
 hash = "b7a1a13f3bd1d2bc043b66ca5f7d305b35b81b9f6bbd652189458a3822144e1f"
 
 [[files]]
+file = "kubejs/data/createdieselgenerators/createdieselgenerators/fuel_type/tar.json"
+hash = "fbf3ea918fcfeff98e9197a7f931878af49e95f4b2c5a54c66ea7b893182db3b"
+
+[[files]]
 file = "kubejs/data/createdieselgenerators/tags/worldgen/biome/oil_biome.json"
 hash = "40b2d4dec0624dfd32e8f86a970a7c5b9b588f7a7013c30474cc07c3689d94ea"
 
@@ -860,7 +864,7 @@ hash = "d02d3ae50393147864d2936fdb906dba2bd232e471c7b8af45a648f4796b146a"
 
 [[files]]
 file = "kubejs/server_scripts/burnt.js"
-hash = "114d4f8d53b47aaba61a8cb882dfffd320483d3cf7e5bb1d9ff103b315fd4b06"
+hash = "4f47eda9aeea9d742c032407fc3df4982740b9b871a0a277aed0089bcafb7ce9"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
