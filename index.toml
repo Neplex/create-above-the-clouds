@@ -83,6 +83,38 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "2bbca51727771d5048fb1fbc13d955648dc19a8ebb8f0a3c60fedc39a22967d2"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "414188fb299e9404e53428e245c463092e47e8b47a7da107ddc405fe905378bf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/copper_knife.png"
+hash = "0b54570215ad28520f613773fa14059ef48f33f39563b434a439b239ce5e8152"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/copper_knife_blade.png"
+hash = "476413c3234a863eb728af2af88b515da5aa6d34b099515509b9f73e24e7d9bc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/golden_knife_blade.png"
+hash = "5f7aed43b936cc9ad3485beedbf9814cf22cba55702405d464e8c3d488f82cb4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/iron_knife_blade.png"
+hash = "001bc3a91fca1afc5b0921c314cab787e97347dcbb0db40c6e2b226f18c6069b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_knife.png"
+hash = "9ced1f41df8a904b46c7dcf773df17cd6ca0bda195b9289e107b6918b7c33098"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_knife_blade.png"
+hash = "498662f18635504a54e86a59818d9872c239c571f16b89d144e797eafd059323"
+
+[[files]]
+file = "kubejs/assets/overgeared/textures/item/unpolished_overlay/knife.png"
+hash = "91b3830a4e0ba089ccbf2daecdbff93c356bdd8c05bf6691935006615dc7796d"
+
+[[files]]
 file = "kubejs/client_scripts/dashpanels.js"
 hash = "258e7aa026aa0b8d4f03a654072e47197e0ef2a728944e252eccd5ef788506f1"
 
@@ -875,6 +907,10 @@ file = "kubejs/server_scripts/dashpanels.js"
 hash = "85ca859fcdc13535c59d2c5411bbb9608b997b22312cc3d0c640f03dc2880bf8"
 
 [[files]]
+file = "kubejs/server_scripts/farmersdelight.js"
+hash = "cb62d70554d159a7a305bfab03fc7d1ad8502b153cfe394e7ace0132e932893c"
+
+[[files]]
 file = "kubejs/server_scripts/food.js"
 hash = "b277999d75f2969929e467c8b7f76a2ead430edc20ae2ae7a37b9a2c6aeb4cae"
 
@@ -885,6 +921,10 @@ hash = "a249a0bb32c9a076e193cab8ab5b5182e6faf4a5acc26d7185533d981e246149"
 [[files]]
 file = "kubejs/server_scripts/guns.js"
 hash = "44e06cbd0b362a14b98c316ae1c52e35ad0dd54ae4a976c26629600db50515a7"
+
+[[files]]
+file = "kubejs/server_scripts/knives.js"
+hash = "4f5fff063878997b38e3c5ee72a119a467ea841ee31e4d7da3c954ffcb49b680"
 
 [[files]]
 file = "kubejs/server_scripts/metal.js"
@@ -953,6 +993,10 @@ hash = "94d811c965590a5a7adf43bf700dc3821d1f511ffa0551c7ffc8d174432fd494"
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"
 hash = "1db132b07dba5386bd661f353c32e362d96a72fa93c5f28e66aa2ef527ab6ca5"
+
+[[files]]
+file = "kubejs/startup_scripts/knives.js"
+hash = "9a5a2eb825d30eed5d0d9fb6c549bc0bddaacf10b6785a1e6f549d7ca58cc50b"
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
@@ -1602,6 +1646,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
