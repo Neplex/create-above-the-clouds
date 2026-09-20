@@ -1270,7 +1270,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-petrochem.pw.toml"
-hash = "d0914fa5cb2e858bd2292f4b597d29d2992b8867bba60d0fe1b7189dc83396aa"
+hash = "6548c7e99eb1fb54a7755d364f6545a253daff6ca62259ef29667318e2e418c4"
 metafile = true
 
 [[files]]

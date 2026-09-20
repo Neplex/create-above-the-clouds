@@ -1,13 +1,13 @@
 name = "Create: Petrochem"
-filename = "petrochem-neoforge-1.21.1-1.3.2.jar"
+filename = "petrochem-neoforge-1.21.1-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/evsgEBNC/versions/BMqli7Ow/petrochem-neoforge-1.21.1-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/evsgEBNC/versions/ei3FtAPI/petrochem-neoforge-1.21.1-1.3.3.jar"
 hash-format = "sha512"
-hash = "f91d679d0eb3a0ca9b75b2b675a935cb7498ae92d9b08dc697183bafe2cb49f1be82d42a4b2c8a5d282a25e9ac10d34c6baa588d86f59f3cc3df52a232499f00"
+hash = "70cba66d880d531fa6460575563d9b9c84a3d47cddc68cb2cab4ef0eca54883af8b2c4e0a660166732c908aadb67fa89c9700535c2ae00c22d6d88c927730140"
 
 [update]
 [update.modrinth]
 mod-id = "evsgEBNC"
-version = "BMqli7Ow"
+version = "ei3FtAPI"
