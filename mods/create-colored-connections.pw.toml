@@ -1,13 +1,13 @@
 name = "Create: Colored Connections"
-filename = "create-colored-connections-0.4.1.jar"
+filename = "create-colored-connections-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s8chGgzt/versions/EsnpcWLi/create-colored-connections-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/s8chGgzt/versions/C3O86f9H/create-colored-connections-0.5.0.jar"
 hash-format = "sha512"
-hash = "4129740aff50a4ec8b8a9971106377f0d178f59c653da05b4d6631d2f2e82722b59dd13327715d9a7908b9626db0ac9a92811829469a406fefa8136f9f43512d"
+hash = "c54168168701b907a6f09a9d9b8ed3dc78417b5fc9790bf0c6ddf62e5550639485186c8e8431b2525b05d871b2ba7c69c44f648ddc9493906abe3d4aabb4b715"
 
 [update]
 [update.modrinth]
 mod-id = "s8chGgzt"
-version = "EsnpcWLi"
+version = "C3O86f9H"
