@@ -1,0 +1,13 @@
+name = "Stratum"
+filename = "stratum-0.1.1.dirty.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PV72yc65/versions/8huOdSeo/stratum-0.1.1.dirty.jar"
+hash-format = "sha512"
+hash = "d7a95db8cee7f058d6be2c5faf480e253ea86136498985caccb38c4cf0d4fd946ea2325469de1fbd6d206c0dbd37b4f623961222c671a349549a89c6664640e0"
+
+[update]
+[update.modrinth]
+mod-id = "PV72yc65"
+version = "8huOdSeo"
