@@ -37,6 +37,10 @@ file = "config/gemsrealm-hazardous.toml"
 hash = "f78e46357067ccc8b319280fa29c7ca79abdd3df241b9b23b38740f9dc1ef85e"
 
 [[files]]
+file = "config/livingwind-common.toml"
+hash = "fef5ba0b1408ecdec5b8f7358c9004fc63987b5d7a0f471cd21f406b01373174"
+
+[[files]]
 file = "config/paxi/resourcepacks/create-lootr.pw.toml"
 hash = "c71ace624089251e32aadec70c34e921de8e2bece0c2f6edeeabe1bb795f3a03"
 metafile = true
@@ -1001,6 +1005,10 @@ hash = "1db132b07dba5386bd661f353c32e362d96a72fa93c5f28e66aa2ef527ab6ca5"
 [[files]]
 file = "kubejs/startup_scripts/knives.js"
 hash = "9a5a2eb825d30eed5d0d9fb6c549bc0bddaacf10b6785a1e6f549d7ca58cc50b"
+
+[[files]]
+file = "mods/LivingWind-NeoForge-1.21.1-v1.3.6.jar"
+hash = "8ff9552adbf09deac2c2b969103b2b1804902f1249bcb9e0406a614489a6b3bc"
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
