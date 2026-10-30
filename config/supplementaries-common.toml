@@ -1,5 +1,5 @@
 [redstone]
-	wind_vane = true
+	wind_vane = false
 	clock_block = true
 	redstone_illuminator = true
 	crank = true
@@ -432,7 +432,7 @@
 		basalt_ash = true
 
 	[building.flag]
-		enabled = true
+		enabled = false
 		#Allows right/left clicking on a stick to lower/raise a flag attached to it
 		stick_pole = true
 		#Maximum allowed pole length
@@ -569,7 +569,7 @@
 			max_charges = 200
 
 	[tools.wrench]
-		enabled = true
+		enabled = false
 		#Allows wrenches to bypass a block interaction action prioritizing their own when on said hand
 		#Allowed Values: MAIN_HAND, OFF_HAND, BOTH, NONE
 		bypass_when_on = "MAIN_HAND"

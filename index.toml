@@ -80,7 +80,7 @@ hash = "3d184d4a56a441274bfd79c4c501e26477bc88806071578bcee2669c406395f3"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "58f715989f9c15fb3fc0d0dcc9b844e0b7f8afc77570c9660ff5bf46a23332c3"
+hash = "bc2bf711b07f34459ee1832e7b2ca22f7935fa5813d63c04fef9cc6fd7ed624c"
 
 [[files]]
 file = "config/thick_air-common.toml"
