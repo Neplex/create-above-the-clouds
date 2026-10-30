@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "53d466e353f6ce3eceee04a6bbc243e845a4f390bdb7cd7696cc17ec2b481b0d"
+hash = "793c906c8c2362cf594d0f5c55aa6917d1fbdb320be91e7160e874eff0935a39"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -14,7 +14,7 @@ hash = "379b68a651e62329ec87ee5909aaa31deed070f8457e8ceca639bc045557b5de"
 
 [[files]]
 file = "config/burnt_additions.json"
-hash = "49e515207884b9d24439a5fbd93319d921505ca98e4116967a8b8d23cce36d70"
+hash = "be2b86ae031487511329dd121d25012a24a1062621d3de1d3db097f0312cfffd"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
