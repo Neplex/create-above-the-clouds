@@ -1046,6 +1046,11 @@ hash = "4652f7122f9fcd06f61f40a5c299d5316fde47cdbb23e8120c339f8b80a5ab27"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "0159f715f2245a23d4688c4be1c2c432317ab4897ce5ccede6b2976e7ab4721d"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "a14aa30b199bcc4fb3b382327be7cabb22ce03d8e780f68c3b8307136f0589d7"
 metafile = true
@@ -1441,6 +1446,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "875d85990bd50cc8dd7bc3e1699b722e7aa1a78704a6ade47952e7e971daf951"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
@@ -1641,6 +1651,11 @@ hash = "38f9f0f99321ecf0df94be86a16ed734ad4c768d1bef16e4f86e96d11ba8e4f4"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "bb3302ebfd619afbda63f5365628856d4680c0a3fe86bfbdf1135d2a48acb190"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
@@ -1828,6 +1843,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
+metafile = true
+
+[[files]]
+file = "mods/swinging-lanterns.pw.toml"
+hash = "da356641d81dc1882b14b95e15b422b1a359d4d00ca675ce17ddce8efc2bad80"
 metafile = true
 
 [[files]]
