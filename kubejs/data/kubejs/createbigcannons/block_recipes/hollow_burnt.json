@@ -4,5 +4,5 @@
     "type": "block",
     "block": "burnt:burnt_log"
   },
-  "result": "everycomp:q/burnt/hollow_burnt_log"
+  "result": "burnt:burnt_hollow_log"
 }

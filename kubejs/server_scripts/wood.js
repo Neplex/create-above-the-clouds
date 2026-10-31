@@ -198,7 +198,6 @@ RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
   event.remove(/crimson/);
 
   event.remove(/everycomp:q\/burnt\/smoldering.*/);
-  event.remove("everycomp:q/burnt/hollow_burnt_log");
   event.remove("everycomp:q/burnt_additions/soul_tempered_chest");
   event.remove("everycomp:q/burnt_additions/trapped_soul_tempered_chest");
 });

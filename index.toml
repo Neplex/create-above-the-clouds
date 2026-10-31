@@ -30,7 +30,7 @@ hash = "6917d47d3b066c364a4c09cf40cc9dd481ec954dce7b73744e8446dfffac7546"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "b675ebb5dcaf66eb18473443cedf43e6ba3953fdad45a48a3904f73fdd3a14dc"
+hash = "40e3b49fbe889a0c31a4ae78734ad1976342338bc646c8b0d39d9ef0ed40d5b9"
 
 [[files]]
 file = "config/gemsrealm-hazardous.toml"
@@ -452,7 +452,7 @@ hash = "386eeba4b7a1a9067fc1f41e2953a2cb13ac47d8cddb49db2a3d391ebc9409c4"
 
 [[files]]
 file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_burnt.json"
-hash = "f2371f0976efec2bc9016a8a25979d9ed0a1498785f186e59e9c0fd7c9f346d1"
+hash = "29ee9c7209fe0154e218fbf31795199b2846626400e4b1e5752d33967b476d2a"
 
 [[files]]
 file = "kubejs/data/kubejs/createbigcannons/block_recipes/hollow_cherry.json"
@@ -996,7 +996,7 @@ hash = "aabb8c4c319926451e22eeea85ed20880876c95cd58942f78302984139c64164"
 
 [[files]]
 file = "kubejs/server_scripts/wood.js"
-hash = "94d811c965590a5a7adf43bf700dc3821d1f511ffa0551c7ffc8d174432fd494"
+hash = "ced20b03b772a6e5e48214a3d06123bf78ca006b504f899f2455f08d03b4827c"
 
 [[files]]
 file = "kubejs/startup_scripts/creative_tabs.js"

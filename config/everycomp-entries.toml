@@ -41,7 +41,7 @@
 			jasper = true
 			shale = true
 			myalite = true
-			permafrost = true
+			permafrost = false
 
 		[types.wood_type.burnt]
 			smoldering_bamboo = false
@@ -56,6 +56,7 @@
 			sooty_acacia = false
 			sooty_mangrove = false
 			sooty_cherry = false
+			sooty_pale_oak = false
 			sooty_jungle = false
 			blazing = false
 			smoldering_soul = false
@@ -97,6 +98,7 @@
 			smoldering_jungle = false
 			smoldering_mangrove = false
 			smoldering_cherry = false
+			smoldering_pale_oak = false
 			smoldering_acacia = false
 			blast = false
 
@@ -115,9 +117,34 @@
 			shingles = true
 			tile_stairs = true
 			casing = false
+			encased_shaft = true
+			belt_funnel = true
+			encased_large_cogwheel = true
+			valve_handle = true
+			encased_cogwheel = true
+			funnel = true
 
 		[entries.metal_type.minecraft]
 			nugget = true
+
+		[entries.metal_type.createdeco]
+			catwalk = true
+			mesh_fence = true
+			blue_lamp = true
+			ladder = true
+			green_lamp = true
+			yellow_lamp = true
+			catwalk_stairs = true
+			sheet_metal = true
+			window_pane = true
+			hull = true
+			bars_overlay = true
+			support = true
+			bars = true
+			support_wedge = true
+			window = true
+			red_lamp = true
+			catwalk_railing = true
 
 		[entries.stone_type.create]
 			small_brick_wall = true
@@ -138,11 +165,29 @@
 			cut_brick_stairs = true
 			polished_cut_wall = true
 			cut_slab = true
+			table_cloth = true
+			ladder = true
+			scaffolding = true
+			encased_shaft = true
+			belt_funnel = true
+			alloy = true
+			encased_large_cogwheel = true
+			door = true
+			encased_cogwheel = true
+			bars = true
+			funnel = true
+			casing = true
 
 		[entries.stone_type.quark]
 			polished_vertical_slab = true
 			pillar = true
 			vertical_slab = true
+
+		[entries.stone_type.bits_n_bobs]
+			tiles = true
+			tile_stairs = true
+			tile_wall = true
+			tile_slab = true
 
 		[entries.mud_type.quark]
 			carved_bricks = true
