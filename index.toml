@@ -560,7 +560,7 @@ hash = "248b19ac162252c0d3156089839dc58170e6778975c09e603d4aee9ff4d007d7"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/tectonics.json"
-hash = "00fd20b460b713439e86827b521407507ab650cadd02100586b0fe1313b77855"
+hash = "37309955e53bbf5772b3886a7605d70651bd18d990f41143cf5e2a33dbfc9152"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/temperature.json"
