@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "793c906c8c2362cf594d0f5c55aa6917d1fbdb320be91e7160e874eff0935a39"
+hash = "ce17eb368142ac4b5824e03d7f0f4dcbc472975ce1b47dd1b166ce36e220593f"
 
 [[files]]
 file = "config/bcc-common.toml"
@@ -15,6 +15,10 @@ hash = "379b68a651e62329ec87ee5909aaa31deed070f8457e8ceca639bc045557b5de"
 [[files]]
 file = "config/burnt_additions.json"
 hash = "be2b86ae031487511329dd121d25012a24a1062621d3de1d3db097f0312cfffd"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "acf51af26bfc7c24a874f295687dbf4f99570435ed2ca683adbed925feeb513e"
 
 [[files]]
 file = "config/defaultworldtype/client-config.toml"
@@ -73,6 +77,10 @@ hash = "074aacf1d8baeb3f07bace85b0d9b17cb7f8b540da7fcbec847d473cdf55e8dc"
 [[files]]
 file = "config/simpleradio-server.toml"
 hash = "b395a031f9ef61c70b3e8bd26e450daeea792b5e5dcb70464f907ab3c9c89f01"
+
+[[files]]
+file = "config/ssrd-common.toml"
+hash = "26a2bfafa301e28964c382ddad1d1830ee0f85a0481cf40c3254a9fbf73a4cce"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1931,5 +1939,9 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "1bf23398ef803c89014ce0b44f03d5dd256da70664d534b986d1f1646c366846"
+
+[[files]]
 file = "server.properties"
-hash = "ff5497325c02950bb209eba1ebed43f3c97a4f5b3dcc191a2056160f4bd3aad4"
+hash = "72fc31c9fe2f844cda3639c329b22befec7484b1238061cf6e6964695f565ec2"
