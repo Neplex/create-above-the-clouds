@@ -1329,6 +1329,11 @@ hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]
+file = "mods/create-tnt.pw.toml"
+hash = "e8260d37562ebe018de109c77985cc5ba79dad2e57abc87960408a4a7d61b19e"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks+.pw.toml"
 hash = "b5d7bf5c707e49e0ad5f266fc440ad6bdfeb86c2774e9b3574ea17c35d33082d"
 metafile = true

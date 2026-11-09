@@ -1,0 +1,13 @@
+name = "Create big cannons - Explosive TNT"
+filename = "createtnt-1.21.1-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E2Zbah9l/versions/4tYwAXd6/createtnt-1.21.1-neoforge-2.2.0.jar"
+hash-format = "sha512"
+hash = "7811bdb255cf1cc800e764f005c6736a59042239ff650096093cdb5d17498ac9e488f467e689c1197eced7b5a2ee1454fc62a10808949703e91eda71c1559066"
+
+[update]
+[update.modrinth]
+mod-id = "E2Zbah9l"
+version = "4tYwAXd6"
