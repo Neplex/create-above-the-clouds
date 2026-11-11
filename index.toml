@@ -540,7 +540,7 @@ hash = "ac8258ca76d8acc03844d94c3603c9a8dcfcb3bb3550c118772f78b1866fad81"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
-hash = "487e0e7c6e44cb2b1ccab392736671a1b69c545d8e1e262ef34bf4ed42ba5849"
+hash = "aef29f8e2e213eb6e3bf4b8b98db85e5cdc82eaedc7096bca167fe43725fb5f6"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
@@ -561,6 +561,10 @@ hash = "cdb44fcdbd3dc7920cf474726f4c8e9fa68681e35ad286347ba224317241f82b"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_vegetation.json"
 hash = "ffef761595e6feccfaf1e9d3d8d67e7703ae34aefe879efed42399236da7b395"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/volcanic_lava_lake.json"
+hash = "cd46cc1bb489f6ddc7f9f70d00a2dfda7e43bd991d22c57b9aee268c0f34d21a"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/surface.json"
@@ -613,6 +617,10 @@ hash = "78366cbddf9594d59c7862604bd8ed108a246fc48981e60be588c0224eaa68f0"
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake_vegetation.json"
 hash = "788ee28f4797f5ff5ef8e849e4400e8cc28498d3576c4e6bba11fb268d4554ce"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcanic_lava_lake.json"
+hash = "05e154ec560723dcd4c21965fd2a27100bf3c2f346efebb7b9480228738431f1"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/processor_list/ember_wood.json"
