@@ -1,0 +1,12 @@
+{
+  "type": "lithostitched:composite",
+  "config": {
+    "features": [
+      "kubejs:volcano_vent",
+      "kubejs:volcano_base",
+      "kubejs:volcano_magma",
+      "kubejs:volcano_details"
+    ],
+    "placement_type": "cancel_on_failure"
+  }
+}

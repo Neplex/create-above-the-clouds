@@ -39,7 +39,8 @@
   "features": [
     [],
     [
-      "kubejs:volcanic_lava_lake"
+      "kubejs:volcano_lava_puddle",
+      "kubejs:volcano"
     ],
     [],
     [],

@@ -1,0 +1,11 @@
+{
+  "feature": "kubejs:volcano_base",
+  "placement": [
+    {
+      "type": "lithostitched:offset",
+      "x_offset": 0,
+      "z_offset": 0,
+      "y_offset": -3
+    }
+  ]
+}

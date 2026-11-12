@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "burnt_additions:liquid_magma"
+        }
+      },
+      "rules": []
+    },
+    "radius": 8,
+    "half_height": 1,
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": ["minecraft:air"]
+    }
+  }
+}

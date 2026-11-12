@@ -172,7 +172,7 @@ hash = "218e74e75752aef42814769f36db878be8604954635682c7cb9a6a6236828fc2"
 
 [[files]]
 file = "kubejs/data/burnt_additions/worldgen/structure/volcano.json"
-hash = "acdd86cbdd1121f0fea48fc07dc4c8a3023e3c2541c971d315707dbb4383b8a7"
+hash = "6c9d63803da79634c31ec3413b8e7a9a35d0023ace65ecce4acf4834d9f40c63"
 
 [[files]]
 file = "kubejs/data/burnt_additions/worldgen/structure/volcano_deltas.json"
@@ -540,7 +540,7 @@ hash = "ac8258ca76d8acc03844d94c3603c9a8dcfcb3bb3550c118772f78b1866fad81"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/volcanic_peaks.json"
-hash = "aef29f8e2e213eb6e3bf4b8b98db85e5cdc82eaedc7096bca167fe43725fb5f6"
+hash = "2bff067fb9d17c1694b0c38147d2a2324fb55bb2c0ed9cda417a6d7a03e95df6"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/ash_patch.json"
@@ -563,8 +563,24 @@ file = "kubejs/data/kubejs/worldgen/configured_feature/sky_lake_vegetation.json"
 hash = "ffef761595e6feccfaf1e9d3d8d67e7703ae34aefe879efed42399236da7b395"
 
 [[files]]
-file = "kubejs/data/kubejs/worldgen/configured_feature/volcanic_lava_lake.json"
-hash = "cd46cc1bb489f6ddc7f9f70d00a2dfda7e43bd991d22c57b9aee268c0f34d21a"
+file = "kubejs/data/kubejs/worldgen/configured_feature/volcano.json"
+hash = "715b04900720bd1a81a9e2996b5b3922c9be30543f5dccea63b2f4a1bc2de021"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/volcano_base.json"
+hash = "a2690da971ff7c4e780e9f84d1c24aa0545ea41548bacbaf7671a17868f75bc8"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/volcano_details.json"
+hash = "569664552a08b58f18ffa322bd2ff33e65be2a28e6513aad6df76734325d05ee"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/volcano_magma.json"
+hash = "0c66c79a2c08904eaaf0736d05ffde7ee1c7d998d75b6bfcf5aba401f0ea23ec"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/configured_feature/volcano_vent.json"
+hash = "8469e66d79a49cafc95e4cac085f30178663e1e49d17fe579b84a1c82019b84e"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/density_function/scorched_surface/surface.json"
@@ -619,8 +635,28 @@ file = "kubejs/data/kubejs/worldgen/placed_feature/sky_lake_vegetation.json"
 hash = "788ee28f4797f5ff5ef8e849e4400e8cc28498d3576c4e6bba11fb268d4554ce"
 
 [[files]]
-file = "kubejs/data/kubejs/worldgen/placed_feature/volcanic_lava_lake.json"
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcano.json"
+hash = "4b2dbbfd426f8612f38cc43ca4cef212966f35124a8c4963576eeb19a3a9932c"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcano_base.json"
+hash = "313f5a70810680aad4e439579e3cbe4659350bf454ac1a1ac17a588876215000"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcano_details.json"
+hash = "0b1fda7efdf2ff086a74ed5533d8cb3c74e4431e0e565176106e87aa115e13e6"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcano_lava_puddle.json"
 hash = "05e154ec560723dcd4c21965fd2a27100bf3c2f346efebb7b9480228738431f1"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcano_magma.json"
+hash = "721f04ca7828e1f8c004bd09eb6f1cc2ce7d26416ef3ae228d574d28bc373d5a"
+
+[[files]]
+file = "kubejs/data/kubejs/worldgen/placed_feature/volcano_vent.json"
+hash = "8193fa5a0beba005e0039a0ff1b94bd29ef019f069f2f64a194929956d7eb2dc"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/processor_list/ember_wood.json"

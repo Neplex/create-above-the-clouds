@@ -1,0 +1,11 @@
+{
+  "feature": "kubejs:volcano_vent",
+  "placement": [
+    {
+      "type": "lithostitched:offset",
+      "x_offset": -10,
+      "z_offset": -10,
+      "y_offset": 0
+    }
+  ]
+}
