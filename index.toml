@@ -608,7 +608,7 @@ hash = "ba510650dde0f1f7909bd6cf1e1d40eee5d8ef00b11d1162de1e712489c9422b"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/scorched_surface.json"
-hash = "f808697c3b19c6bdca46570669ea23fa59dc249a469c7fa306d6b0380e6d8ad6"
+hash = "bfe10df3fe72f797a7c68a28939de1d2b75cf200496a8d5deba28932a0888383"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/noise_settings/sky_islands.json"
