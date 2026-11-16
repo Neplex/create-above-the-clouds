@@ -515,6 +515,42 @@ file = "kubejs/data/kubejs/neoforge/biome_modifier/remove_overworld_vents.json"
 hash = "0f40496400ca227b4096c6eafc7e0ab14a4996d1bec1c86b2cc48a9e824e0a98"
 
 [[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/large_1.nbt"
+hash = "94b16588b00fd4c9665f05f4a1e18e9b7fb0bb6d097cdc9a33469f1691296506"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/medium_1.nbt"
+hash = "7056e85569a56f6b01ef65b6311a4b503a8d9b523bb8afe895773767b9f88738"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/medium_2.nbt"
+hash = "b75bf1034e114385d678fc16eb7e9f0a869892a367c840ae4009c376342aff22"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/medium_3.nbt"
+hash = "841e9678bbdafd913da778f933d177f910f5d4e3eb776eabc1555d7a6f788f8d"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/medium_4.nbt"
+hash = "365b6316061958780397db46ee14183600089e2e1b1f14b6218e419a8cd0a2c2"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/medium_5.nbt"
+hash = "9aa8a944fa8f6644c06999b84813c4be76f13157d51694cfcaeca848c113ce1c"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/small_1.nbt"
+hash = "e9476b571ff40ee8b4b69985b70b69c8b735585281ebd50a972f1593284a6d31"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/small_2.nbt"
+hash = "5d8b424b2218229d82f49bef060ce08546e924ca5f0faeb89d11191bbaf48f02"
+
+[[files]]
+file = "kubejs/data/kubejs/structure/glowstone_crystal/small_3.nbt"
+hash = "7cfff947b741db694e2ee2fd6dc2dc55df4e9bb65db40eae670a2fb8a1180d2d"
+
+[[files]]
 file = "kubejs/data/kubejs/worldgen/biome/scorched_surface/ash_wastes.json"
 hash = "6788f19eed5152448cfa6f510c88a68586821f387be8b9174050c7eeec861edc"
 
@@ -548,7 +584,7 @@ hash = "6af0ec1a3e70fa373ffd7a6851849752f95bc3a130e0121b96d7ccb059649ea6"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/glowstone_spike.json"
-hash = "fbe372c9b9379b50936aa3ce248165a7944d0db7a29bcdf98faea7193a9b475f"
+hash = "bf309c68d93fa680425a967dfeb49b8bfe3d265127c22af687cdeab3630c04f1"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/configured_feature/netherrack_vein.json"
@@ -620,7 +656,7 @@ hash = "4d8bd72beeba5aa7889a41d7f904e95232a4554a66982401715867a87576b04a"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/glowstone_spike.json"
-hash = "1d0ff77dfe86625f441d48ad751deabbb12919c07cc064ae683a5497902e0164"
+hash = "c41052334b4aa39540a24a55f5d4eae724d0ca0fe7b831da7c102cbbfb2bc7e5"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/netherrack_vein.json"

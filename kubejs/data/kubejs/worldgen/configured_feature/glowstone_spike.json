@@ -1,50 +1,124 @@
 {
-  "type": "minecraft:random_patch",
+  "type": "lithostitched:weighted_selector",
   "config": {
-    "tries": 256,
-    "xz_spread": 4,
-    "y_spread": 1,
-    "feature": {
-      "feature": {
-        "type": "minecraft:block_column",
-        "config": {
-          "direction": "up",
-          "allowed_placement": {
-            "type": "minecraft:matching_blocks",
-            "blocks": ["minecraft:air"]
-          },
-          "prioritize_tip": false,
-          "layers": [
-            {
-              "height": {
-                "type": "minecraft:biased_to_bottom",
-                "min_inclusive": 1,
-                "max_inclusive": 5
-              },
-              "provider": {
-                "type": "minecraft:simple_state_provider",
-                "state": {
-                  "Name": "minecraft:glowstone"
-                }
-              }
+    "features": [
+      {
+        "weight": 5,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/small_1",
+              "processors": "minecraft:empty"
             }
-          ]
+          },
+          "placement": []
         }
       },
-      "placement": [
-        {
-          "type": "minecraft:environment_scan",
-          "direction_of_search": "down",
-          "max_steps": 6,
-          "target_condition": {
-            "type": "minecraft:solid"
+      {
+        "weight": 5,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/small_2",
+              "processors": "minecraft:empty"
+            }
           },
-          "allowed_search_condition": {
-            "type": "minecraft:matching_blocks",
-            "blocks": ["minecraft:air"]
-          }
+          "placement": []
         }
-      ]
-    }
+      },
+      {
+        "weight": 5,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/small_3",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/medium_1",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/medium_2",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/medium_3",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/medium_4",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "weight": 3,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/medium_5",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      },
+      {
+        "weight": 1,
+        "data": {
+          "feature": {
+            "type": "lithostitched:structure_template",
+            "config": {
+              "template": "kubejs:glowstone_crystal/large_1",
+              "processors": "minecraft:empty"
+            }
+          },
+          "placement": []
+        }
+      }
+    ]
   }
 }
