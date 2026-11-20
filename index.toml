@@ -1103,10 +1103,6 @@ file = "kubejs/startup_scripts/knives.js"
 hash = "9a5a2eb825d30eed5d0d9fb6c549bc0bddaacf10b6785a1e6f549d7ca58cc50b"
 
 [[files]]
-file = "mods/LivingWind-NeoForge-1.21.1-v1.3.6.jar"
-hash = "8ff9552adbf09deac2c2b969103b2b1804902f1249bcb9e0406a614489a6b3bc"
-
-[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "05d7fc1975485e44ed23c67f33d4f691523da2bacef29464f04433154929e6f8"
 metafile = true
@@ -1694,6 +1690,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
+metafile = true
+
+[[files]]
+file = "mods/living-wind.pw.toml"
+hash = "8ed51089db117872b96925672b4531816ed22724257568bf9bb50fb3fd5bb00f"
 metafile = true
 
 [[files]]
