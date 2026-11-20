@@ -1,0 +1,75 @@
+#Fall Physics - presentation. Client only; changing these never desyncs you.
+[wind]
+	#The wind effect as a whole: screen streaks, particles, sound and camera.
+	enabled = true
+	#Overall strength multiplier for the wind effect.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	intensity = 1.0
+	#Maximum number of airflow streaks drawn across the screen at full speed.
+	#0 disables the streaks but keeps the rest of the effect.
+	# Default: 96
+	# Range: 0 ~ 400
+	streakCount = 96
+	#Airflow particles in the world around you.
+	particles = true
+	#Camera buffet at speed. Turn off if it makes you motion sick.
+	cameraShake = true
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	cameraShakeScale = 1.0
+	#Field of view widening with airspeed.
+	fovEffect = true
+	#Volume of the wind loop, on top of the usual sound sliders.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	volume = 1.0
+
+#HUD.
+[hud]
+	#Small readout of the current pose while falling.
+	showPoseReadout = true
+	#Descent rate in blocks per second, under the pose name.
+	#Bind "Toggle speed readout" in Controls to turn this on and off in game.
+	showSpeedReadout = false
+	#Blocks to the ground, under the descent rate. Turns yellow, then red, as the
+	#altimeter's alarms go off.
+	showAltitudeReadout = false
+
+#The altimeter. It only sounds while you wear a parachute that can still open,
+#and only in a fall with real time in it - stepping off a cliff never sets it off.
+#Alarms are in seconds, not blocks: the three poses fall at such different speeds
+#that a fixed altitude is plenty in a spread and too late in a dive. Each counts the
+#free fall left above the height the canopy needs to finish opening.
+[altimeter]
+	#Beep. Off keeps the readout and its colours but makes no sound.
+	audible = false
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	volume = 1.0
+	#Break-off: two calm tones. Finish what you are doing.
+	# Default: 3.5
+	# Range: 0.5 ~ 20.0
+	breakOffSeconds = 3.5
+	#Pull: four quick tones. Open now and you land with room to spare. Below the
+	#hard deck - a continuous warble - the canopy cannot finish opening in time.
+	# Default: 1.5
+	# Range: 0.0 ~ 20.0
+	pullSeconds = 1.5
+
+#The Parachute Rig button on the inventory screen. All three are easiest to set from
+#the mod's settings screen: the Config button next to Fall Physics in the mod list.
+[inventoryButton]
+	#When the button is there. ALWAYS; WITH_PARACHUTE - only while you carry or wear
+	#a parachute; HIDDEN - never, and the rig opens from its key binding instead.
+	#Allowed Values: ALWAYS, WITH_PARACHUTE, HIDDEN
+	show = "HIDDEN"
+	#Where it sits, in GUI pixels from the top-left corner of the inventory panel.
+	#152, 61 is the empty space under the crafting result. A position off the edge of
+	#a smaller window is pulled back onto the screen rather than lost.
+	# Default: 152
+	# Range: -1000 ~ 1000
+	x = 76
+	# Default: 61
+	# Range: -1000 ~ 1000
+	y = 42

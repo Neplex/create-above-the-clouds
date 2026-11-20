@@ -45,6 +45,10 @@ file = "config/everycomp-entries.toml"
 hash = "40e3b49fbe889a0c31a4ae78734ad1976342338bc646c8b0d39d9ef0ed40d5b9"
 
 [[files]]
+file = "config/fallphysics-client.toml"
+hash = "71a46a4d180b24f120bcce67495e807e609fb98fbce55a8a13041e8bd14348b3"
+
+[[files]]
 file = "config/gemsrealm-hazardous.toml"
 hash = "f78e46357067ccc8b319280fa29c7ca79abdd3df241b9b23b38740f9dc1ef85e"
 
@@ -1011,6 +1015,10 @@ file = "kubejs/server_scripts/dashpanels.js"
 hash = "85ca859fcdc13535c59d2c5411bbb9608b997b22312cc3d0c640f03dc2880bf8"
 
 [[files]]
+file = "kubejs/server_scripts/fallphysics.js"
+hash = "8d25080db3c71c9ffb25da2e3d593729fdb49768c90ac2dd017192cf53fba3f2"
+
+[[files]]
 file = "kubejs/server_scripts/farmersdelight.js"
 hash = "cb62d70554d159a7a305bfab03fc7d1ad8502b153cfe394e7ace0132e932893c"
 
@@ -1565,6 +1573,11 @@ metafile = true
 [[files]]
 file = "mods/fowlplay.pw.toml"
 hash = "549e72a053da13a50404bd0901b75ce25c6045e778d5a89afcf58e9b5e1945f5"
+metafile = true
+
+[[files]]
+file = "mods/free-fall.pw.toml"
+hash = "f31e06ae0ea1b2f8c7ceca7590cd622d51486b7dceeea804fff9cc58ccef1cba"
 metafile = true
 
 [[files]]
