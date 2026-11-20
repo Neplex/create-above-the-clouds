@@ -1,13 +1,13 @@
 name = "Overgeared"
-filename = "overgeared-neoforge-1.21.1-1.6.20.jar"
+filename = "overgeared-neoforge-1.21.1-1.7.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SQL3X2Ky/versions/U1jaXO19/overgeared-neoforge-1.21.1-1.6.20.jar"
+url = "https://cdn.modrinth.com/data/SQL3X2Ky/versions/brT7zT1p/overgeared-neoforge-1.21.1-1.7.1.1.jar"
 hash-format = "sha512"
-hash = "5531803f82b0d3e7b5a862b170a1b89704d4ca55dc6eff03ee4341511bcfd604e0ab892c49e67f54e9530e3a0edfdcafe0d2713edec23ec3f7ae5aa349c3e171"
+hash = "f34555a1c2dbe01abf3dddf238f6de53915d61d9f559976b03e13e251a4466e435e460856935359cc45e1567f1224cb7254240e602933f40ae8b6a87bd3d93f5"
 
 [update]
 [update.modrinth]
 mod-id = "SQL3X2Ky"
-version = "U1jaXO19"
+version = "brT7zT1p"
