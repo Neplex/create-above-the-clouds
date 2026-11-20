@@ -7,10 +7,10 @@
         "sky_island_settings": {
           "terrain": {
             "island_density": 0.4,
-            "min_island_radius": 24,
+            "min_island_radius": 16,
             "max_island_radius": 100,
-            "min_island_y": 20,
-            "max_island_y": 170,
+            "min_island_y": 128,
+            "max_island_y": 256,
             "max_island_thickness_blocks": 140,
             "low_band_weight": 0.4,
             "mid_high_band_weight": 0.6,

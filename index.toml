@@ -21,6 +21,14 @@ file = "config/c2me.toml"
 hash = "acf51af26bfc7c24a874f295687dbf4f99570435ed2ca683adbed925feeb513e"
 
 [[files]]
+file = "config/createskys-client.toml"
+hash = "7ea0590762896cf7d2ec6c3018bde0c1c2c2d742609681384a190721fa76dbc9"
+
+[[files]]
+file = "config/createskys-server.toml"
+hash = "eeeed777fc7684d3d71e864815e1e09e86aa5411e2073cfaf6341ca6c9ab0700"
+
+[[files]]
 file = "config/defaultworldtype/client-config.toml"
 hash = "af2930556fc8b6dcad27bac47cf937dcd81a68916228b6fbc9a979d0c9a790af"
 
@@ -496,7 +504,7 @@ hash = "afd26c067c85f51895db3b3d97d23fc66069367c9a0b9adaf316607a9f0f31cc"
 
 [[files]]
 file = "kubejs/data/kubejs/dimension_type/sky_islands.json"
-hash = "2568ff8f7bd9518f1af021e7b3e8ba116bfbc1d00efd3ee5d0a359c6742ddde0"
+hash = "945ffda2c687c6a7d352328929ed405d0ede654e30aa1e6e4e3bdf4fe262984a"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/stronghold/dispenser.json"
@@ -712,7 +720,7 @@ hash = "ae7891c4bf3a1e05106a498322a193094a59ad7fe4ade9e1431d13b9fd0a39bd"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/world_preset/above_the_clouds.json"
-hash = "2c0c991cf29e3c8461bc1d28af2a6a9221d5ba64a0315c5e4093065103fea0cc"
+hash = "43c06e0f06fafa8a6e1817357f6448d55c6af46fee7402f087109f6707a6ccb9"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/boring_scrap/acacia_log.json"
@@ -1396,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/create-radiologistics.pw.toml"
 hash = "1b3562f5dcce3f43f4cd893d6dcacb7f27e743d98ed8115c79dd1845f13f36a6"
+metafile = true
+
+[[files]]
+file = "mods/create-sky.pw.toml"
+hash = "4d2235dc263e970c1009df46396959827b7ce017df4679272b57e0b1be7871cb"
 metafile = true
 
 [[files]]
