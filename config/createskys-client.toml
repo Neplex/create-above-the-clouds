@@ -8,7 +8,7 @@
 	#Max height clouds can grow above the base, in blocks. Higher uses more VRAM
 	# Default: 384
 	# Range: 32 ~ 512
-	cloudThickness = 200
+	cloudThickness = 150
 	#Size of a cloud block. Smaller = more detail but the clouds don't reach as far
 	# Default: 4
 	# Range: 2 ~ 12

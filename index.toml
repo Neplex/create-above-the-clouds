@@ -22,7 +22,7 @@ hash = "acf51af26bfc7c24a874f295687dbf4f99570435ed2ca683adbed925feeb513e"
 
 [[files]]
 file = "config/createskys-client.toml"
-hash = "7ea0590762896cf7d2ec6c3018bde0c1c2c2d742609681384a190721fa76dbc9"
+hash = "ef250b2e64523575a274ae41bb23498a31bd23e51a9c3e19ddc21053ee78c51e"
 
 [[files]]
 file = "config/createskys-server.toml"
