@@ -6,7 +6,7 @@ hash = "ce17eb368142ac4b5824e03d7f0f4dcbc472975ce1b47dd1b166ce36e220593f"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9402b98a057d776b6a07eacd5544d823d46fb4528aea8c50cd2a45e9e2f75746"
+hash = "f7ff29714f303f23e757be9cfcd3401c32cb0a412a1d1aee4e98ade51a23ba1b"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
