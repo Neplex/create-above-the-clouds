@@ -1606,6 +1606,11 @@ hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
 metafile = true
 
 [[files]]
+file = "mods/gouge.pw.toml"
+hash = "9b3c5ce0586d13dff8711b35be404a5fcd7da1316bb0599a5e4686b41d6efe15"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "6b235aa1d0c43ab4fa7eacca3eb3c62530fa6ae1b44bc56aecc25c636a8ffc5b"
 metafile = true
